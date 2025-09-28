@@ -84,8 +84,8 @@ export default function AdvancedSetting() {
           <div className={styles.section}>
             <span className={styles.sectionLabel}>Ignore Case Sensitivity</span>
             <span className={styles.sectionDescription}>
-              After enabling, input will not distinguish between uppercase and lowercase, e.g., typing "hello" and "Hello" will both be
-              considered correct.
+              After enabling, input will not distinguish between uppercase and lowercase, e.g., typing &quot;hello&quot; and
+              &quot;Hello&quot; will both be considered correct.
             </span>
             <div className={styles.switchBlock}>
               <Switch checked={isIgnoreCase} onChange={onToggleIgnoreCase} className="switch-root">

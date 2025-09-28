@@ -86,9 +86,9 @@ const Footer: React.FC = () => {
         onClose={() => handleCloseInfoPanel('vsc')}
       >
         <p className="text-sm text-gray-500  dark:text-gray-400">
-          We have developed a VSCode plugin based on everyone's suggestions, supporting one-click startup to start memorizing words at any
-          time. You can start it with one click in any file. After starting, words will be displayed in the status bar, and the plugin will
-          intercept user input to the document without affecting the original document.
+          We have developed a VSCode plugin based on everyone&apos;s suggestions, supporting one-click startup to start memorizing words at
+          any time. You can start it with one click in any file. After starting, words will be displayed in the status bar, and the plugin
+          will intercept user input to the document without affecting the original document.
         </p>
         <br /> <br />
         <a className="mr-5 underline dark:text-gray-300" href="https://github.com/Kaiyiwing/qwerty-learner-vscode">
@@ -118,7 +118,8 @@ const Footer: React.FC = () => {
         </p>
         <p className="text-sm text-gray-700 dark:text-gray-200">
           We firmly believe that good interaction and feedback with users is an important factor in driving us to continuously move forward
-          and improve. Therefore, we sincerely invite you to join our community and work with us to build a better "Qwerty Learner"!
+          and improve. Therefore, we sincerely invite you to join our community and work with us to build a better &quot;Qwerty
+          Learner&quot;!
         </p>
         <br />
         <p className="text-sm text-gray-500  dark:text-gray-400">Thank you again for your support and attention!</p>
@@ -145,13 +146,13 @@ const Footer: React.FC = () => {
         </p>
         <p className="text-sm text-gray-700 dark:text-gray-200">
           We firmly believe that good interaction and feedback with users is an important factor in driving us to continuously move forward
-          and improve. Therefore, we sincerely invite you to follow our Red Book account and work with us to build a better "Qwerty
-          Learner"!
+          and improve. Therefore, we sincerely invite you to follow our Red Book account and work with us to build a better &quot;Qwerty
+          Learner&quot;!
         </p>
         <br />
         <img className="ml-1 w-5/12 " src={redBookCode} alt="redBook" />
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          Tips: Click the three dots in the top left corner of "Me" in Red Book to find "Scan"
+          Tips: Click the three dots in the top left corner of &quot;Me&quot; in Red Book to find &quot;Scan&quot;
         </p>
         <br />
       </InfoPanel>

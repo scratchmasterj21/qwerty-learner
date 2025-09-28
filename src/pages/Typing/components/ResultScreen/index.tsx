@@ -2,7 +2,6 @@ import { TypingContext, TypingStateActionType } from '../../store'
 import ConclusionBar from './ConclusionBar'
 import RemarkRing from './RemarkRing'
 import WordChip from './WordChip'
-import styles from './index.module.css'
 import Tooltip from '@/components/Tooltip'
 import {
   currentChapterAtom,
@@ -36,34 +35,6 @@ const ResultScreen = () => {
     // tick a zero timer to calc the stats
     dispatch({ type: TypingStateActionType.TICK_TIMER, addTime: 0 })
   }, [dispatch])
-
-  const exportWords = useCallback(() => {
-    const { words, userInputLogs } = state.chapterData
-    const exportData = userInputLogs.map((log) => {
-      const word = words[log.index]
-      const wordName = word.name
-      return {
-        ...word,
-        trans: word.trans.join(';'),
-        correctCount: log.correctCount,
-        wrongCount: log.wrongCount,
-        wrongLetters: Object.entries(log.LetterMistakes)
-          .map(([key, mistakes]) => `${wordName[Number(key)]}:${mistakes.length}`)
-          .join(';'),
-      }
-    })
-
-    import('xlsx')
-      .then(({ utils, writeFileXLSX }) => {
-        const ws = utils.json_to_sheet(exportData)
-        const wb = utils.book_new()
-        utils.book_append_sheet(wb, ws, 'Data')
-        writeFileXLSX(wb, `${currentDictInfo.name}第${currentChapter + 1}章.xlsx`)
-      })
-      .catch(() => {
-        console.log('写入 xlsx 模块导入失败')
-      })
-  }, [currentChapter, currentDictInfo.name, state.chapterData])
 
   const wrongWords = useMemo(() => {
     return state.chapterData.userInputLogs

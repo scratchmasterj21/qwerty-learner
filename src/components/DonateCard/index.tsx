@@ -117,7 +117,7 @@ export const DonateCard = () => {
                       <HighlightedText> {dayFromFirstWord} </HighlightedText> days, completing
                       <HighlightedText> {wordNumber} </HighlightedText>
                       word exercises together, helping you correct <HighlightedText> {sumWrongCount} </HighlightedText> incorrect inputs.
-                      Let's cheer for your progress together
+                      Let&apos;s cheer for your progress together
                       <IconParty className="ml-2 inline-block" fontSize={16} />
                       <IconParty className="inline-block" fontSize={16} />
                       <IconParty className="inline-block" fontSize={16} />
@@ -128,7 +128,7 @@ export const DonateCard = () => {
                       for
                       <HighlightedText className="text-indigo-500"> {dayFromQwerty} </HighlightedText> days. Our goal is to provide all
                       learners with an efficient, convenient, and distraction-free learning environment. We sincerely invite you to consider
-                      making a donation. Donations will be directly used to maintain Qwerty's daily operations and future development,
+                      making a donation. Donations will be directly used to maintain Qwerty&apos;s daily operations and future development,
                       allowing Qwerty to grow with you.
                     </p>
                     <p className="mx-auto px-4 indent-4 ">

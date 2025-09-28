@@ -101,8 +101,8 @@ const EnhancedPromotionModal: React.FC = () => {
                   {/* Main content */}
                   <div className="space-y-4 py-2 text-sm text-gray-700 dark:text-gray-300">
                     <p className="text-center font-medium text-gray-900 dark:text-white">
-                      Don't know programming? Want to have your own exclusive learning dictionary? Simple operation, one-click upload, click
-                      to use
+                      Don&apos;t know programming? Want to have your own exclusive learning dictionary? Simple operation, one-click upload,
+                      click to use
                       <br />
                       <div className="my-2"></div>
                       Then, we recommend you try QwertyLearner.ai developed and operated by the UK DeepLearningAI professional team

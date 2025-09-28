@@ -1,5 +1,4 @@
 import standardTypingHandPosition from '@/assets/standard_typing_hand_position.png'
-import type React from 'react'
 
 export default function HandPositionKeyboard() {
   return (
