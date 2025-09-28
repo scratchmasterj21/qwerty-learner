@@ -15,14 +15,7 @@ export type LanguageTabOption = {
   flag: string
 }
 
-const options: LanguageTabOption[] = [
-  { id: 'en', name: '英语', flag: enFlag },
-  { id: 'ja', name: '日语', flag: jpFlag },
-  { id: 'de', name: '德语', flag: deFlag },
-  { id: 'kk', name: '哈萨克语', flag: kkFlag },
-  { id: 'id', name: '印尼语', flag: idFlag },
-  { id: 'code', name: 'Code', flag: codeFlag },
-]
+const options: LanguageTabOption[] = [{ id: 'en', name: 'English', flag: enFlag }]
 
 export function LanguageTabSwitcher() {
   // eslint-disable-next-line @typescript-eslint/no-non-null-assertion

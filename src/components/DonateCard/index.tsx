@@ -112,24 +112,28 @@ export const DonateCard = () => {
                   <h1 className="gradient-text w-full pt-3 text-center text-[2.4rem] font-bold">{`${chapterNumber} Chapters Achievement !`}</h1>
                   <div className="flex w-full flex-col gap-4 px-4">
                     <p className="mx-auto px-4 indent-4">
-                      您刚刚完成了<HighlightedText> {chapterNumber} </HighlightedText>章节的练习，Qwerty Learner 已经陪你走过
-                      <HighlightedText> {dayFromFirstWord} </HighlightedText> 天，一起完成了
+                      You have just completed <HighlightedText> {chapterNumber} </HighlightedText> chapters of practice. Qwerty Learner has
+                      been with you for
+                      <HighlightedText> {dayFromFirstWord} </HighlightedText> days, completing
                       <HighlightedText> {wordNumber} </HighlightedText>
-                      词的练习，帮助您纠正了 <HighlightedText> {sumWrongCount} </HighlightedText>次错误输入，让我们一起为您的进步欢呼
+                      word exercises together, helping you correct <HighlightedText> {sumWrongCount} </HighlightedText> incorrect inputs.
+                      Let's cheer for your progress together
                       <IconParty className="ml-2 inline-block" fontSize={16} />
                       <IconParty className="inline-block" fontSize={16} />
                       <IconParty className="inline-block" fontSize={16} />
                       <br />
                     </p>
                     <p className="mx-auto px-4 indent-4">
-                      Qwerty Learner 已经坚持 <span className="font-medium ">开放源码、无广告、无商业化</span> 运营
-                      <HighlightedText className="text-indigo-500"> {dayFromQwerty} </HighlightedText> 天，
-                      我们的目标是为所有学习者提供一个高效、便捷、无干扰的学习环境。我们诚挚地邀请您考虑进行捐赠，捐赠将直接用于维持 Qwerty
-                      的日常运营以及未来发展，让 Qwerty 与您一起成长。
+                      Qwerty Learner has been operating with <span className="font-medium ">open source, no ads, no commercialization</span>{' '}
+                      for
+                      <HighlightedText className="text-indigo-500"> {dayFromQwerty} </HighlightedText> days. Our goal is to provide all
+                      learners with an efficient, convenient, and distraction-free learning environment. We sincerely invite you to consider
+                      making a donation. Donations will be directly used to maintain Qwerty's daily operations and future development,
+                      allowing Qwerty to grow with you.
                     </p>
                     <p className="mx-auto px-4 indent-4 ">
-                      为了感谢您的慷慨，单次 50 rmb 及以上的捐赠， 我们将回赠 Qwerty 的定制贴纸 5 枚
-                      <span className="text-xs">（仅限大陆地区）</span>，希望您可以跟朋友分享您的快乐
+                      To thank you for your generosity, for donations of 50 RMB or more, we will give you 5 custom Qwerty stickers
+                      <span className="text-xs">(Mainland China only)</span>, hope you can share your joy with friends
                     </p>
                     <div className="flex items-center justify-center">
                       <StickerButton />
@@ -143,10 +147,10 @@ export const DonateCard = () => {
                       className={`my-btn-primary ${!amount && 'invisible'} w-36 bg-amber-500 font-medium transition-all`}
                       onClick={onClickHasDonated}
                     >
-                      我已捐赠
+                      I have donated
                     </button>
                     <button type="button" className="my-btn-primary w-36 font-medium" onClick={onClickRemindMeLater}>
-                      之后提醒我
+                      Remind me later
                     </button>
                   </div>
                 </div>

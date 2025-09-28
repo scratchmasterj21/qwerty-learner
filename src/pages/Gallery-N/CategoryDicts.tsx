@@ -16,11 +16,13 @@ export default function DictionaryGroup({ groupedDictsByTag }: { groupedDictsByT
   }, [])
 
   useEffect(() => {
-    const commonTags = findCommonValues(tagList, currentDictInfo.tags)
-    if (commonTags.length > 0) {
-      setCurrentTag(commonTags[0])
+    if (currentDictInfo?.tags && tagList.length > 0) {
+      const commonTags = findCommonValues(tagList, currentDictInfo.tags)
+      if (commonTags.length > 0) {
+        setCurrentTag(commonTags[0])
+      }
     }
-  }, [currentDictInfo.tags, tagList])
+  }, [currentDictInfo?.tags, tagList])
 
   return (
     <div>
@@ -29,7 +31,7 @@ export default function DictionaryGroup({ groupedDictsByTag }: { groupedDictsByT
         {currentTag && groupedDictsByTag[currentTag] ? (
           groupedDictsByTag[currentTag].map((dict) => <DictionaryComponent key={dict.id} dictionary={dict} />)
         ) : (
-          <div className="col-span-full text-center text-gray-500">当前分类下没有可用的词典</div>
+          <div className="col-span-full text-center text-gray-500">No dictionaries available in this category</div>
         )}
       </div>
     </div>

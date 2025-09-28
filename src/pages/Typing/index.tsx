@@ -1,5 +1,6 @@
 import Layout from '../../components/Layout'
 import { DictChapterButton } from './components/DictChapterButton'
+import HandPositionKeyboard from './components/HandPositionKeyboard'
 import PronunciationSwitcher from './components/PronunciationSwitcher'
 import ResultScreen from './components/ResultScreen'
 import Speed from './components/Speed'
@@ -10,8 +11,6 @@ import WordPanel from './components/WordPanel'
 import { useConfetti } from './hooks/useConfetti'
 import { useWordList } from './hooks/useWordList'
 import { TypingContext, TypingStateActionType, initialState, typingReducer } from './store'
-import { DonateCard } from '@/components/DonateCard'
-import EnhancedPromotionModal from '@/components/EnhancedPromotionModal'
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
 import { idDictionaryMap } from '@/resources/dictionary'
@@ -39,11 +38,11 @@ const App: React.FC = () => {
   const isReviewMode = useAtomValue(isReviewModeAtom)
 
   useEffect(() => {
-    // 检测用户设备
+    // Detect user device
     if (!IsDesktop()) {
       setTimeout(() => {
         alert(
-          ' Qwerty Learner 目的为提高键盘工作者的英语输入效率，目前暂未适配移动端，希望您使用桌面端浏览器访问。如您使用的是 Ipad 等平板电脑设备，可以使用外接键盘使用本软件。',
+          'Qwerty Learner is designed to improve English typing efficiency for keyboard workers. It is currently not adapted for mobile devices. Please use a desktop browser to access it. If you are using an iPad or other tablet device, you can use an external keyboard with this software.',
         )
       }, 500)
     }
@@ -129,8 +128,6 @@ const App: React.FC = () => {
 
   return (
     <TypingContext.Provider value={{ state: state, dispatch }}>
-      <EnhancedPromotionModal />
-      {state.isFinished && <DonateCard />}
       {state.isFinished && <ResultScreen />}
       <Layout>
         <Header>
@@ -138,7 +135,7 @@ const App: React.FC = () => {
           <PronunciationSwitcher />
           <Switcher />
           <StartButton isLoading={isLoading} />
-          <Tooltip content="跳过该词">
+          <Tooltip content="Skip this word">
             <button
               className={`${
                 state.isShowSkip ? 'bg-orange-400' : 'invisible w-0 bg-gray-300 px-0 opacity-0'
@@ -164,6 +161,9 @@ const App: React.FC = () => {
               )}
             </div>
             <Speed />
+            <div className="mt-4">
+              <HandPositionKeyboard />
+            </div>
           </div>
         </div>
       </Layout>

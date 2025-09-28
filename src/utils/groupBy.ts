@@ -14,13 +14,15 @@ export default function groupBy<T>(elements: T[], iteratee: (value: T) => string
 
 export function groupByDictTags(dicts: Dictionary[]) {
   return dicts.reduce<Record<string, Dictionary[]>>((result, dict) => {
-    dict.tags.forEach((tag) => {
-      if (Object.prototype.hasOwnProperty.call(result, tag)) {
-        result[tag].push(dict)
-      } else {
-        result[tag] = [dict]
-      }
-    })
+    if (dict.tags && Array.isArray(dict.tags)) {
+      dict.tags.forEach((tag) => {
+        if (Object.prototype.hasOwnProperty.call(result, tag)) {
+          result[tag].push(dict)
+        } else {
+          result[tag] = [dict]
+        }
+      })
+    }
     return result
   }, {})
 }
