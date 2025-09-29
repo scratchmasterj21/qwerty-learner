@@ -1,0 +1,802 @@
+[
+    {
+        "name": "above",
+        "trans": [
+            "Above is a Grade 2 word."
+        ],
+        "usphone": "above",
+        "ukphone": "above"
+    },
+    {
+        "name": "afraid",
+        "trans": [
+            "Afraid is a Grade 2 word."
+        ],
+        "usphone": "afraid",
+        "ukphone": "afraid"
+    },
+    {
+        "name": "animal",
+        "trans": [
+            "Animal is a Grade 2 word."
+        ],
+        "usphone": "animal",
+        "ukphone": "animal"
+    },
+    {
+        "name": "basket",
+        "trans": [
+            "Basket is a Grade 2 word."
+        ],
+        "usphone": "basket",
+        "ukphone": "basket"
+    },
+    {
+        "name": "birthday",
+        "trans": [
+            "Birthday is a Grade 2 word."
+        ],
+        "usphone": "birthday",
+        "ukphone": "birthday"
+    },
+    {
+        "name": "brother",
+        "trans": [
+            "Brother is a Grade 2 word."
+        ],
+        "usphone": "brother",
+        "ukphone": "brother"
+    },
+    {
+        "name": "candy",
+        "trans": [
+            "Candy is a Grade 2 word."
+        ],
+        "usphone": "candy",
+        "ukphone": "candy"
+    },
+    {
+        "name": "circle",
+        "trans": [
+            "Circle is a Grade 2 word."
+        ],
+        "usphone": "circle",
+        "ukphone": "circle"
+    },
+    {
+        "name": "clothes",
+        "trans": [
+            "Clothes is a Grade 2 word."
+        ],
+        "usphone": "clothes",
+        "ukphone": "clothes"
+    },
+    {
+        "name": "country",
+        "trans": [
+            "Country is a Grade 2 word."
+        ],
+        "usphone": "country",
+        "ukphone": "country"
+    },
+    {
+        "name": "danger",
+        "trans": [
+            "Danger is a Grade 2 word."
+        ],
+        "usphone": "danger",
+        "ukphone": "danger"
+    },
+    {
+        "name": "doctor",
+        "trans": [
+            "Doctor is a Grade 2 word."
+        ],
+        "usphone": "doctor",
+        "ukphone": "doctor"
+    },
+    {
+        "name": "early",
+        "trans": [
+            "Early is a Grade 2 word."
+        ],
+        "usphone": "early",
+        "ukphone": "early"
+    },
+    {
+        "name": "eight",
+        "trans": [
+            "Eight is a Grade 2 word."
+        ],
+        "usphone": "eight",
+        "ukphone": "eight"
+    },
+    {
+        "name": "family",
+        "trans": [
+            "Family is a Grade 2 word."
+        ],
+        "usphone": "family",
+        "ukphone": "family"
+    },
+    {
+        "name": "father",
+        "trans": [
+            "Father is a Grade 2 word."
+        ],
+        "usphone": "father",
+        "ukphone": "father"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "Giant is a Grade 2 word."
+        ],
+        "usphone": "giant",
+        "ukphone": "giant"
+    },
+    {
+        "name": "happy",
+        "trans": [
+            "Happy is a Grade 2 word."
+        ],
+        "usphone": "happy",
+        "ukphone": "happy"
+    },
+    {
+        "name": "inside",
+        "trans": [
+            "Inside is a Grade 2 word."
+        ],
+        "usphone": "inside",
+        "ukphone": "inside"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "Jungle is a Grade 2 word."
+        ],
+        "usphone": "jungle",
+        "ukphone": "jungle"
+    },
+    {
+        "name": "kind",
+        "trans": [
+            "Kind is a Grade 2 word."
+        ],
+        "usphone": "kind",
+        "ukphone": "kind"
+    },
+    {
+        "name": "laugh",
+        "trans": [
+            "Laugh is a Grade 2 word."
+        ],
+        "usphone": "laugh",
+        "ukphone": "laugh"
+    },
+    {
+        "name": "market",
+        "trans": [
+            "Market is a Grade 2 word."
+        ],
+        "usphone": "market",
+        "ukphone": "market"
+    },
+    {
+        "name": "number",
+        "trans": [
+            "Number is a Grade 2 word."
+        ],
+        "usphone": "number",
+        "ukphone": "number"
+    },
+    {
+        "name": "outside",
+        "trans": [
+            "Outside is a Grade 2 word."
+        ],
+        "usphone": "outside",
+        "ukphone": "outside"
+    },
+    {
+        "name": "parent",
+        "trans": [
+            "Parent is a Grade 2 word."
+        ],
+        "usphone": "parent",
+        "ukphone": "parent"
+    },
+    {
+        "name": "quick",
+        "trans": [
+            "Quick is a Grade 2 word."
+        ],
+        "usphone": "quick",
+        "ukphone": "quick"
+    },
+    {
+        "name": "reason",
+        "trans": [
+            "Reason is a Grade 2 word."
+        ],
+        "usphone": "reason",
+        "ukphone": "reason"
+    },
+    {
+        "name": "school",
+        "trans": [
+            "School is a Grade 2 word."
+        ],
+        "usphone": "school",
+        "ukphone": "school"
+    },
+    {
+        "name": "sister",
+        "trans": [
+            "Sister is a Grade 2 word."
+        ],
+        "usphone": "sister",
+        "ukphone": "sister"
+    },
+    {
+        "name": "teacher",
+        "trans": [
+            "Teacher is a Grade 2 word."
+        ],
+        "usphone": "teacher",
+        "ukphone": "teacher"
+    },
+    {
+        "name": "under",
+        "trans": [
+            "Under is a Grade 2 word."
+        ],
+        "usphone": "under",
+        "ukphone": "under"
+    },
+    {
+        "name": "village",
+        "trans": [
+            "Village is a Grade 2 word."
+        ],
+        "usphone": "village",
+        "ukphone": "village"
+    },
+    {
+        "name": "window",
+        "trans": [
+            "Window is a Grade 2 word."
+        ],
+        "usphone": "window",
+        "ukphone": "window"
+    },
+    {
+        "name": "yellow",
+        "trans": [
+            "Yellow is a Grade 2 word."
+        ],
+        "usphone": "yellow",
+        "ukphone": "yellow"
+    },
+    {
+        "name": "zero",
+        "trans": [
+            "Zero is a Grade 2 word."
+        ],
+        "usphone": "zero",
+        "ukphone": "zero"
+    },
+    {
+        "name": "around",
+        "trans": [
+            "Around is a Grade 2 word."
+        ],
+        "usphone": "around",
+        "ukphone": "around"
+    },
+    {
+        "name": "between",
+        "trans": [
+            "Between is a Grade 2 word."
+        ],
+        "usphone": "between",
+        "ukphone": "between"
+    },
+    {
+        "name": "carry",
+        "trans": [
+            "Carry is a Grade 2 word."
+        ],
+        "usphone": "carry",
+        "ukphone": "carry"
+    },
+    {
+        "name": "decide",
+        "trans": [
+            "Decide is a Grade 2 word."
+        ],
+        "usphone": "decide",
+        "ukphone": "decide"
+    },
+    {
+        "name": "enjoy",
+        "trans": [
+            "Enjoy is a Grade 2 word."
+        ],
+        "usphone": "enjoy",
+        "ukphone": "enjoy"
+    },
+    {
+        "name": "finish",
+        "trans": [
+            "Finish is a Grade 2 word."
+        ],
+        "usphone": "finish",
+        "ukphone": "finish"
+    },
+    {
+        "name": "garden",
+        "trans": [
+            "Garden is a Grade 2 word."
+        ],
+        "usphone": "garden",
+        "ukphone": "garden"
+    },
+    {
+        "name": "hill",
+        "trans": [
+            "Hill is a Grade 2 word."
+        ],
+        "usphone": "hill",
+        "ukphone": "hill"
+    },
+    {
+        "name": "idea",
+        "trans": [
+            "Idea is a Grade 2 word."
+        ],
+        "usphone": "idea",
+        "ukphone": "idea"
+    },
+    {
+        "name": "jacket",
+        "trans": [
+            "Jacket is a Grade 2 word."
+        ],
+        "usphone": "jacket",
+        "ukphone": "jacket"
+    },
+    {
+        "name": "kitchen",
+        "trans": [
+            "Kitchen is a Grade 2 word."
+        ],
+        "usphone": "kitchen",
+        "ukphone": "kitchen"
+    },
+    {
+        "name": "learn",
+        "trans": [
+            "Learn is a Grade 2 word."
+        ],
+        "usphone": "learn",
+        "ukphone": "learn"
+    },
+    {
+        "name": "money",
+        "trans": [
+            "Money is a Grade 2 word."
+        ],
+        "usphone": "money",
+        "ukphone": "money"
+    },
+    {
+        "name": "never",
+        "trans": [
+            "Never is a Grade 2 word."
+        ],
+        "usphone": "never",
+        "ukphone": "never"
+    },
+    {
+        "name": "ocean",
+        "trans": [
+            "Ocean is a Grade 2 word."
+        ],
+        "usphone": "ocean",
+        "ukphone": "ocean"
+    },
+    {
+        "name": "people",
+        "trans": [
+            "People is a Grade 2 word."
+        ],
+        "usphone": "people",
+        "ukphone": "people"
+    },
+    {
+        "name": "quiet",
+        "trans": [
+            "Quiet is a Grade 2 word."
+        ],
+        "usphone": "quiet",
+        "ukphone": "quiet"
+    },
+    {
+        "name": "river",
+        "trans": [
+            "River is a Grade 2 word."
+        ],
+        "usphone": "river",
+        "ukphone": "river"
+    },
+    {
+        "name": "sound",
+        "trans": [
+            "Sound is a Grade 2 word."
+        ],
+        "usphone": "sound",
+        "ukphone": "sound"
+    },
+    {
+        "name": "table",
+        "trans": [
+            "Table is a Grade 2 word."
+        ],
+        "usphone": "table",
+        "ukphone": "table"
+    },
+    {
+        "name": "uncle",
+        "trans": [
+            "Uncle is a Grade 2 word."
+        ],
+        "usphone": "uncle",
+        "ukphone": "uncle"
+    },
+    {
+        "name": "voice",
+        "trans": [
+            "Voice is a Grade 2 word."
+        ],
+        "usphone": "voice",
+        "ukphone": "voice"
+    },
+    {
+        "name": "water",
+        "trans": [
+            "Water is a Grade 2 word."
+        ],
+        "usphone": "water",
+        "ukphone": "water"
+    },
+    {
+        "name": "young",
+        "trans": [
+            "Young is a Grade 2 word."
+        ],
+        "usphone": "young",
+        "ukphone": "young"
+    },
+    {
+        "name": "zebra",
+        "trans": [
+            "Zebra is a Grade 2 word."
+        ],
+        "usphone": "zebra",
+        "ukphone": "zebra"
+    },
+    {
+        "name": "alone",
+        "trans": [
+            "Alone is a Grade 2 word."
+        ],
+        "usphone": "alone",
+        "ukphone": "alone"
+    },
+    {
+        "name": "before",
+        "trans": [
+            "Before is a Grade 2 word."
+        ],
+        "usphone": "before",
+        "ukphone": "before"
+    },
+    {
+        "name": "center",
+        "trans": [
+            "Center is a Grade 2 word."
+        ],
+        "usphone": "center",
+        "ukphone": "center"
+    },
+    {
+        "name": "dream",
+        "trans": [
+            "Dream is a Grade 2 word."
+        ],
+        "usphone": "dream",
+        "ukphone": "dream"
+    },
+    {
+        "name": "everyone",
+        "trans": [
+            "Everyone is a Grade 2 word."
+        ],
+        "usphone": "everyone",
+        "ukphone": "everyone"
+    },
+    {
+        "name": "friend",
+        "trans": [
+            "Friend is a Grade 2 word."
+        ],
+        "usphone": "friend",
+        "ukphone": "friend"
+    },
+    {
+        "name": "great",
+        "trans": [
+            "Great is a Grade 2 word."
+        ],
+        "usphone": "great",
+        "ukphone": "great"
+    },
+    {
+        "name": "helpful",
+        "trans": [
+            "Helpful is a Grade 2 word."
+        ],
+        "usphone": "helpful",
+        "ukphone": "helpful"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "Island is a Grade 2 word."
+        ],
+        "usphone": "island",
+        "ukphone": "island"
+    },
+    {
+        "name": "joy",
+        "trans": [
+            "Joy is a Grade 2 word."
+        ],
+        "usphone": "joy",
+        "ukphone": "joy"
+    },
+    {
+        "name": "knife",
+        "trans": [
+            "Knife is a Grade 2 word."
+        ],
+        "usphone": "knife",
+        "ukphone": "knife"
+    },
+    {
+        "name": "little",
+        "trans": [
+            "Little is a Grade 2 word."
+        ],
+        "usphone": "little",
+        "ukphone": "little"
+    },
+    {
+        "name": "morning",
+        "trans": [
+            "Morning is a Grade 2 word."
+        ],
+        "usphone": "morning",
+        "ukphone": "morning"
+    },
+    {
+        "name": "night",
+        "trans": [
+            "Night is a Grade 2 word."
+        ],
+        "usphone": "night",
+        "ukphone": "night"
+    },
+    {
+        "name": "open",
+        "trans": [
+            "Open is a Grade 2 word."
+        ],
+        "usphone": "open",
+        "ukphone": "open"
+    },
+    {
+        "name": "place",
+        "trans": [
+            "Place is a Grade 2 word."
+        ],
+        "usphone": "place",
+        "ukphone": "place"
+    },
+    {
+        "name": "queen",
+        "trans": [
+            "Queen is a Grade 2 word."
+        ],
+        "usphone": "queen",
+        "ukphone": "queen"
+    },
+    {
+        "name": "rain",
+        "trans": [
+            "Rain is a Grade 2 word."
+        ],
+        "usphone": "rain",
+        "ukphone": "rain"
+    },
+    {
+        "name": "snow",
+        "trans": [
+            "Snow is a Grade 2 word."
+        ],
+        "usphone": "snow",
+        "ukphone": "snow"
+    },
+    {
+        "name": "today",
+        "trans": [
+            "Today is a Grade 2 word."
+        ],
+        "usphone": "today",
+        "ukphone": "today"
+    },
+    {
+        "name": "until",
+        "trans": [
+            "Until is a Grade 2 word."
+        ],
+        "usphone": "until",
+        "ukphone": "until"
+    },
+    {
+        "name": "visit",
+        "trans": [
+            "Visit is a Grade 2 word."
+        ],
+        "usphone": "visit",
+        "ukphone": "visit"
+    },
+    {
+        "name": "world",
+        "trans": [
+            "World is a Grade 2 word."
+        ],
+        "usphone": "world",
+        "ukphone": "world"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "X-ray is a Grade 2 word."
+        ],
+        "usphone": "x-ray",
+        "ukphone": "x-ray"
+    },
+    {
+        "name": "your",
+        "trans": [
+            "Your is a Grade 2 word."
+        ],
+        "usphone": "your",
+        "ukphone": "your"
+    },
+    {
+        "name": "about",
+        "trans": [
+            "About is a Grade 2 word."
+        ],
+        "usphone": "about",
+        "ukphone": "about"
+    },
+    {
+        "name": "because",
+        "trans": [
+            "Because is a Grade 2 word."
+        ],
+        "usphone": "because",
+        "ukphone": "because"
+    },
+    {
+        "name": "child",
+        "trans": [
+            "Child is a Grade 2 word."
+        ],
+        "usphone": "child",
+        "ukphone": "child"
+    },
+    {
+        "name": "door",
+        "trans": [
+            "Door is a Grade 2 word."
+        ],
+        "usphone": "door",
+        "ukphone": "door"
+    },
+    {
+        "name": "even",
+        "trans": [
+            "Even is a Grade 2 word."
+        ],
+        "usphone": "even",
+        "ukphone": "even"
+    },
+    {
+        "name": "floor",
+        "trans": [
+            "Floor is a Grade 2 word."
+        ],
+        "usphone": "floor",
+        "ukphone": "floor"
+    },
+    {
+        "name": "green",
+        "trans": [
+            "Green is a Grade 2 word."
+        ],
+        "usphone": "green",
+        "ukphone": "green"
+    },
+    {
+        "name": "house",
+        "trans": [
+            "House is a Grade 2 word."
+        ],
+        "usphone": "house",
+        "ukphone": "house"
+    },
+    {
+        "name": "important",
+        "trans": [
+            "Important is a Grade 2 word."
+        ],
+        "usphone": "important",
+        "ukphone": "important"
+    },
+    {
+        "name": "join",
+        "trans": [
+            "Join is a Grade 2 word."
+        ],
+        "usphone": "join",
+        "ukphone": "join"
+    },
+    {
+        "name": "keep",
+        "trans": [
+            "Keep is a Grade 2 word."
+        ],
+        "usphone": "keep",
+        "ukphone": "keep"
+    },
+    {
+        "name": "love",
+        "trans": [
+            "Love is a Grade 2 word."
+        ],
+        "usphone": "love",
+        "ukphone": "love"
+    },
+    {
+        "name": "music",
+        "trans": [
+            "Music is a Grade 2 word."
+        ],
+        "usphone": "music",
+        "ukphone": "music"
+    },
+    {
+        "name": "new",
+        "trans": [
+            "New is a Grade 2 word."
+        ],
+        "usphone": "new",
+        "ukphone": "new"
+    }
+]

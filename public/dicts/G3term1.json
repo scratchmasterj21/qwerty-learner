@@ -1,0 +1,802 @@
+[
+    {
+        "name": "ability",
+        "trans": [
+            "Ability is a Grade 3 word."
+        ],
+        "usphone": "ability",
+        "ukphone": "ability"
+    },
+    {
+        "name": "accident",
+        "trans": [
+            "Accident is a Grade 3 word."
+        ],
+        "usphone": "accident",
+        "ukphone": "accident"
+    },
+    {
+        "name": "address",
+        "trans": [
+            "Address is a Grade 3 word."
+        ],
+        "usphone": "address",
+        "ukphone": "address"
+    },
+    {
+        "name": "adventure",
+        "trans": [
+            "Adventure is a Grade 3 word."
+        ],
+        "usphone": "adventure",
+        "ukphone": "adventure"
+    },
+    {
+        "name": "afternoon",
+        "trans": [
+            "Afternoon is a Grade 3 word."
+        ],
+        "usphone": "afternoon",
+        "ukphone": "afternoon"
+    },
+    {
+        "name": "agree",
+        "trans": [
+            "Agree is a Grade 3 word."
+        ],
+        "usphone": "agree",
+        "ukphone": "agree"
+    },
+    {
+        "name": "almost",
+        "trans": [
+            "Almost is a Grade 3 word."
+        ],
+        "usphone": "almost",
+        "ukphone": "almost"
+    },
+    {
+        "name": "already",
+        "trans": [
+            "Already is a Grade 3 word."
+        ],
+        "usphone": "already",
+        "ukphone": "already"
+    },
+    {
+        "name": "among",
+        "trans": [
+            "Among is a Grade 3 word."
+        ],
+        "usphone": "among",
+        "ukphone": "among"
+    },
+    {
+        "name": "answer",
+        "trans": [
+            "Answer is a Grade 3 word."
+        ],
+        "usphone": "answer",
+        "ukphone": "answer"
+    },
+    {
+        "name": "arrive",
+        "trans": [
+            "Arrive is a Grade 3 word."
+        ],
+        "usphone": "arrive",
+        "ukphone": "arrive"
+    },
+    {
+        "name": "attention",
+        "trans": [
+            "Attention is a Grade 3 word."
+        ],
+        "usphone": "attention",
+        "ukphone": "attention"
+    },
+    {
+        "name": "beautiful",
+        "trans": [
+            "Beautiful is a Grade 3 word."
+        ],
+        "usphone": "beautiful",
+        "ukphone": "beautiful"
+    },
+    {
+        "name": "believe",
+        "trans": [
+            "Believe is a Grade 3 word."
+        ],
+        "usphone": "believe",
+        "ukphone": "believe"
+    },
+    {
+        "name": "between",
+        "trans": [
+            "Between is a Grade 3 word."
+        ],
+        "usphone": "between",
+        "ukphone": "between"
+    },
+    {
+        "name": "birthday",
+        "trans": [
+            "Birthday is a Grade 3 word."
+        ],
+        "usphone": "birthday",
+        "ukphone": "birthday"
+    },
+    {
+        "name": "brother",
+        "trans": [
+            "Brother is a Grade 3 word."
+        ],
+        "usphone": "brother",
+        "ukphone": "brother"
+    },
+    {
+        "name": "build",
+        "trans": [
+            "Build is a Grade 3 word."
+        ],
+        "usphone": "build",
+        "ukphone": "build"
+    },
+    {
+        "name": "busy",
+        "trans": [
+            "Busy is a Grade 3 word."
+        ],
+        "usphone": "busy",
+        "ukphone": "busy"
+    },
+    {
+        "name": "captain",
+        "trans": [
+            "Captain is a Grade 3 word."
+        ],
+        "usphone": "captain",
+        "ukphone": "captain"
+    },
+    {
+        "name": "careful",
+        "trans": [
+            "Careful is a Grade 3 word."
+        ],
+        "usphone": "careful",
+        "ukphone": "careful"
+    },
+    {
+        "name": "carry",
+        "trans": [
+            "Carry is a Grade 3 word."
+        ],
+        "usphone": "carry",
+        "ukphone": "carry"
+    },
+    {
+        "name": "center",
+        "trans": [
+            "Center is a Grade 3 word."
+        ],
+        "usphone": "center",
+        "ukphone": "center"
+    },
+    {
+        "name": "circle",
+        "trans": [
+            "Circle is a Grade 3 word."
+        ],
+        "usphone": "circle",
+        "ukphone": "circle"
+    },
+    {
+        "name": "clothes",
+        "trans": [
+            "Clothes is a Grade 3 word."
+        ],
+        "usphone": "clothes",
+        "ukphone": "clothes"
+    },
+    {
+        "name": "common",
+        "trans": [
+            "Common is a Grade 3 word."
+        ],
+        "usphone": "common",
+        "ukphone": "common"
+    },
+    {
+        "name": "complete",
+        "trans": [
+            "Complete is a Grade 3 word."
+        ],
+        "usphone": "complete",
+        "ukphone": "complete"
+    },
+    {
+        "name": "country",
+        "trans": [
+            "Country is a Grade 3 word."
+        ],
+        "usphone": "country",
+        "ukphone": "country"
+    },
+    {
+        "name": "cousin",
+        "trans": [
+            "Cousin is a Grade 3 word."
+        ],
+        "usphone": "cousin",
+        "ukphone": "cousin"
+    },
+    {
+        "name": "create",
+        "trans": [
+            "Create is a Grade 3 word."
+        ],
+        "usphone": "create",
+        "ukphone": "create"
+    },
+    {
+        "name": "decide",
+        "trans": [
+            "Decide is a Grade 3 word."
+        ],
+        "usphone": "decide",
+        "ukphone": "decide"
+    },
+    {
+        "name": "describe",
+        "trans": [
+            "Describe is a Grade 3 word."
+        ],
+        "usphone": "describe",
+        "ukphone": "describe"
+    },
+    {
+        "name": "different",
+        "trans": [
+            "Different is a Grade 3 word."
+        ],
+        "usphone": "different",
+        "ukphone": "different"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "Discover is a Grade 3 word."
+        ],
+        "usphone": "discover",
+        "ukphone": "discover"
+    },
+    {
+        "name": "doctor",
+        "trans": [
+            "Doctor is a Grade 3 word."
+        ],
+        "usphone": "doctor",
+        "ukphone": "doctor"
+    },
+    {
+        "name": "during",
+        "trans": [
+            "During is a Grade 3 word."
+        ],
+        "usphone": "during",
+        "ukphone": "during"
+    },
+    {
+        "name": "early",
+        "trans": [
+            "Early is a Grade 3 word."
+        ],
+        "usphone": "early",
+        "ukphone": "early"
+    },
+    {
+        "name": "earth",
+        "trans": [
+            "Earth is a Grade 3 word."
+        ],
+        "usphone": "earth",
+        "ukphone": "earth"
+    },
+    {
+        "name": "enjoy",
+        "trans": [
+            "Enjoy is a Grade 3 word."
+        ],
+        "usphone": "enjoy",
+        "ukphone": "enjoy"
+    },
+    {
+        "name": "enough",
+        "trans": [
+            "Enough is a Grade 3 word."
+        ],
+        "usphone": "enough",
+        "ukphone": "enough"
+    },
+    {
+        "name": "example",
+        "trans": [
+            "Example is a Grade 3 word."
+        ],
+        "usphone": "example",
+        "ukphone": "example"
+    },
+    {
+        "name": "excited",
+        "trans": [
+            "Excited is a Grade 3 word."
+        ],
+        "usphone": "excited",
+        "ukphone": "excited"
+    },
+    {
+        "name": "family",
+        "trans": [
+            "Family is a Grade 3 word."
+        ],
+        "usphone": "family",
+        "ukphone": "family"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "Famous is a Grade 3 word."
+        ],
+        "usphone": "famous",
+        "ukphone": "famous"
+    },
+    {
+        "name": "favorite",
+        "trans": [
+            "Favorite is a Grade 3 word."
+        ],
+        "usphone": "favorite",
+        "ukphone": "favorite"
+    },
+    {
+        "name": "finish",
+        "trans": [
+            "Finish is a Grade 3 word."
+        ],
+        "usphone": "finish",
+        "ukphone": "finish"
+    },
+    {
+        "name": "follow",
+        "trans": [
+            "Follow is a Grade 3 word."
+        ],
+        "usphone": "follow",
+        "ukphone": "follow"
+    },
+    {
+        "name": "forest",
+        "trans": [
+            "Forest is a Grade 3 word."
+        ],
+        "usphone": "forest",
+        "ukphone": "forest"
+    },
+    {
+        "name": "friend",
+        "trans": [
+            "Friend is a Grade 3 word."
+        ],
+        "usphone": "friend",
+        "ukphone": "friend"
+    },
+    {
+        "name": "future",
+        "trans": [
+            "Future is a Grade 3 word."
+        ],
+        "usphone": "future",
+        "ukphone": "future"
+    },
+    {
+        "name": "garden",
+        "trans": [
+            "Garden is a Grade 3 word."
+        ],
+        "usphone": "garden",
+        "ukphone": "garden"
+    },
+    {
+        "name": "gentle",
+        "trans": [
+            "Gentle is a Grade 3 word."
+        ],
+        "usphone": "gentle",
+        "ukphone": "gentle"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "Giant is a Grade 3 word."
+        ],
+        "usphone": "giant",
+        "ukphone": "giant"
+    },
+    {
+        "name": "government",
+        "trans": [
+            "Government is a Grade 3 word."
+        ],
+        "usphone": "government",
+        "ukphone": "government"
+    },
+    {
+        "name": "group",
+        "trans": [
+            "Group is a Grade 3 word."
+        ],
+        "usphone": "group",
+        "ukphone": "group"
+    },
+    {
+        "name": "guess",
+        "trans": [
+            "Guess is a Grade 3 word."
+        ],
+        "usphone": "guess",
+        "ukphone": "guess"
+    },
+    {
+        "name": "happy",
+        "trans": [
+            "Happy is a Grade 3 word."
+        ],
+        "usphone": "happy",
+        "ukphone": "happy"
+    },
+    {
+        "name": "health",
+        "trans": [
+            "Health is a Grade 3 word."
+        ],
+        "usphone": "health",
+        "ukphone": "health"
+    },
+    {
+        "name": "holiday",
+        "trans": [
+            "Holiday is a Grade 3 word."
+        ],
+        "usphone": "holiday",
+        "ukphone": "holiday"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "Honest is a Grade 3 word."
+        ],
+        "usphone": "honest",
+        "ukphone": "honest"
+    },
+    {
+        "name": "important",
+        "trans": [
+            "Important is a Grade 3 word."
+        ],
+        "usphone": "important",
+        "ukphone": "important"
+    },
+    {
+        "name": "instead",
+        "trans": [
+            "Instead is a Grade 3 word."
+        ],
+        "usphone": "instead",
+        "ukphone": "instead"
+    },
+    {
+        "name": "invite",
+        "trans": [
+            "Invite is a Grade 3 word."
+        ],
+        "usphone": "invite",
+        "ukphone": "invite"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "Journey is a Grade 3 word."
+        ],
+        "usphone": "journey",
+        "ukphone": "journey"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "Jungle is a Grade 3 word."
+        ],
+        "usphone": "jungle",
+        "ukphone": "jungle"
+    },
+    {
+        "name": "kindness",
+        "trans": [
+            "Kindness is a Grade 3 word."
+        ],
+        "usphone": "kindness",
+        "ukphone": "kindness"
+    },
+    {
+        "name": "kitchen",
+        "trans": [
+            "Kitchen is a Grade 3 word."
+        ],
+        "usphone": "kitchen",
+        "ukphone": "kitchen"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is a Grade 3 word."
+        ],
+        "usphone": "language",
+        "ukphone": "language"
+    },
+    {
+        "name": "learn",
+        "trans": [
+            "Learn is a Grade 3 word."
+        ],
+        "usphone": "learn",
+        "ukphone": "learn"
+    },
+    {
+        "name": "library",
+        "trans": [
+            "Library is a Grade 3 word."
+        ],
+        "usphone": "library",
+        "ukphone": "library"
+    },
+    {
+        "name": "listen",
+        "trans": [
+            "Listen is a Grade 3 word."
+        ],
+        "usphone": "listen",
+        "ukphone": "listen"
+    },
+    {
+        "name": "market",
+        "trans": [
+            "Market is a Grade 3 word."
+        ],
+        "usphone": "market",
+        "ukphone": "market"
+    },
+    {
+        "name": "middle",
+        "trans": [
+            "Middle is a Grade 3 word."
+        ],
+        "usphone": "middle",
+        "ukphone": "middle"
+    },
+    {
+        "name": "minute",
+        "trans": [
+            "Minute is a Grade 3 word."
+        ],
+        "usphone": "minute",
+        "ukphone": "minute"
+    },
+    {
+        "name": "moment",
+        "trans": [
+            "Moment is a Grade 3 word."
+        ],
+        "usphone": "moment",
+        "ukphone": "moment"
+    },
+    {
+        "name": "mountain",
+        "trans": [
+            "Mountain is a Grade 3 word."
+        ],
+        "usphone": "mountain",
+        "ukphone": "mountain"
+    },
+    {
+        "name": "neighbor",
+        "trans": [
+            "Neighbor is a Grade 3 word."
+        ],
+        "usphone": "neighbor",
+        "ukphone": "neighbor"
+    },
+    {
+        "name": "nothing",
+        "trans": [
+            "Nothing is a Grade 3 word."
+        ],
+        "usphone": "nothing",
+        "ukphone": "nothing"
+    },
+    {
+        "name": "number",
+        "trans": [
+            "Number is a Grade 3 word."
+        ],
+        "usphone": "number",
+        "ukphone": "number"
+    },
+    {
+        "name": "ocean",
+        "trans": [
+            "Ocean is a Grade 3 word."
+        ],
+        "usphone": "ocean",
+        "ukphone": "ocean"
+    },
+    {
+        "name": "office",
+        "trans": [
+            "Office is a Grade 3 word."
+        ],
+        "usphone": "office",
+        "ukphone": "office"
+    },
+    {
+        "name": "often",
+        "trans": [
+            "Often is a Grade 3 word."
+        ],
+        "usphone": "often",
+        "ukphone": "often"
+    },
+    {
+        "name": "outside",
+        "trans": [
+            "Outside is a Grade 3 word."
+        ],
+        "usphone": "outside",
+        "ukphone": "outside"
+    },
+    {
+        "name": "parents",
+        "trans": [
+            "Parents is a Grade 3 word."
+        ],
+        "usphone": "parents",
+        "ukphone": "parents"
+    },
+    {
+        "name": "people",
+        "trans": [
+            "People is a Grade 3 word."
+        ],
+        "usphone": "people",
+        "ukphone": "people"
+    },
+    {
+        "name": "planet",
+        "trans": [
+            "Planet is a Grade 3 word."
+        ],
+        "usphone": "planet",
+        "ukphone": "planet"
+    },
+    {
+        "name": "present",
+        "trans": [
+            "Present is a Grade 3 word."
+        ],
+        "usphone": "present",
+        "ukphone": "present"
+    },
+    {
+        "name": "pretty",
+        "trans": [
+            "Pretty is a Grade 3 word."
+        ],
+        "usphone": "pretty",
+        "ukphone": "pretty"
+    },
+    {
+        "name": "promise",
+        "trans": [
+            "Promise is a Grade 3 word."
+        ],
+        "usphone": "promise",
+        "ukphone": "promise"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "Protect is a Grade 3 word."
+        ],
+        "usphone": "protect",
+        "ukphone": "protect"
+    },
+    {
+        "name": "question",
+        "trans": [
+            "Question is a Grade 3 word."
+        ],
+        "usphone": "question",
+        "ukphone": "question"
+    },
+    {
+        "name": "quietly",
+        "trans": [
+            "Quietly is a Grade 3 word."
+        ],
+        "usphone": "quietly",
+        "ukphone": "quietly"
+    },
+    {
+        "name": "reason",
+        "trans": [
+            "Reason is a Grade 3 word."
+        ],
+        "usphone": "reason",
+        "ukphone": "reason"
+    },
+    {
+        "name": "remember",
+        "trans": [
+            "Remember is a Grade 3 word."
+        ],
+        "usphone": "remember",
+        "ukphone": "remember"
+    },
+    {
+        "name": "school",
+        "trans": [
+            "School is a Grade 3 word."
+        ],
+        "usphone": "school",
+        "ukphone": "school"
+    },
+    {
+        "name": "season",
+        "trans": [
+            "Season is a Grade 3 word."
+        ],
+        "usphone": "season",
+        "ukphone": "season"
+    },
+    {
+        "name": "sister",
+        "trans": [
+            "Sister is a Grade 3 word."
+        ],
+        "usphone": "sister",
+        "ukphone": "sister"
+    },
+    {
+        "name": "snow",
+        "trans": [
+            "Snow is a Grade 3 word."
+        ],
+        "usphone": "snow",
+        "ukphone": "snow"
+    },
+    {
+        "name": "someone",
+        "trans": [
+            "Someone is a Grade 3 word."
+        ],
+        "usphone": "someone",
+        "ukphone": "someone"
+    },
+    {
+        "name": "special",
+        "trans": [
+            "Special is a Grade 3 word."
+        ],
+        "usphone": "special",
+        "ukphone": "special"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "name": "apple",
+        "trans": [
+            "Apple is a simple Grade 1 word."
+        ],
+        "usphone": "apple",
+        "ukphone": "apple"
+    },
+    {
+        "name": "ball",
+        "trans": [
+            "Ball is a simple Grade 1 word."
+        ],
+        "usphone": "ball",
+        "ukphone": "ball"
+    },
+    {
+        "name": "cat",
+        "trans": [
+            "Cat is a simple Grade 1 word."
+        ],
+        "usphone": "cat",
+        "ukphone": "cat"
+    },
+    {
+        "name": "dog",
+        "trans": [
+            "Dog is a simple Grade 1 word."
+        ],
+        "usphone": "dog",
+        "ukphone": "dog"
+    },
+    {
+        "name": "egg",
+        "trans": [
+            "Egg is a simple Grade 1 word."
+        ],
+        "usphone": "egg",
+        "ukphone": "egg"
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "Fish is a simple Grade 1 word."
+        ],
+        "usphone": "fish",
+        "ukphone": "fish"
+    },
+    {
+        "name": "go",
+        "trans": [
+            "Go is a simple Grade 1 word."
+        ],
+        "usphone": "go",
+        "ukphone": "go"
+    },
+    {
+        "name": "hat",
+        "trans": [
+            "Hat is a simple Grade 1 word."
+        ],
+        "usphone": "hat",
+        "ukphone": "hat"
+    },
+    {
+        "name": "ice",
+        "trans": [
+            "Ice is a simple Grade 1 word."
+        ],
+        "usphone": "ice",
+        "ukphone": "ice"
+    },
+    {
+        "name": "jump",
+        "trans": [
+            "Jump is a simple Grade 1 word."
+        ],
+        "usphone": "jump",
+        "ukphone": "jump"
+    },
+    {
+        "name": "kite",
+        "trans": [
+            "Kite is a simple Grade 1 word."
+        ],
+        "usphone": "kite",
+        "ukphone": "kite"
+    },
+    {
+        "name": "lion",
+        "trans": [
+            "Lion is a simple Grade 1 word."
+        ],
+        "usphone": "lion",
+        "ukphone": "lion"
+    },
+    {
+        "name": "man",
+        "trans": [
+            "Man is a simple Grade 1 word."
+        ],
+        "usphone": "man",
+        "ukphone": "man"
+    },
+    {
+        "name": "nest",
+        "trans": [
+            "Nest is a simple Grade 1 word."
+        ],
+        "usphone": "nest",
+        "ukphone": "nest"
+    },
+    {
+        "name": "orange",
+        "trans": [
+            "Orange is a simple Grade 1 word."
+        ],
+        "usphone": "orange",
+        "ukphone": "orange"
+    },
+    {
+        "name": "pen",
+        "trans": [
+            "Pen is a simple Grade 1 word."
+        ],
+        "usphone": "pen",
+        "ukphone": "pen"
+    },
+    {
+        "name": "queen",
+        "trans": [
+            "Queen is a simple Grade 1 word."
+        ],
+        "usphone": "queen",
+        "ukphone": "queen"
+    },
+    {
+        "name": "run",
+        "trans": [
+            "Run is a simple Grade 1 word."
+        ],
+        "usphone": "run",
+        "ukphone": "run"
+    },
+    {
+        "name": "sun",
+        "trans": [
+            "Sun is a simple Grade 1 word."
+        ],
+        "usphone": "sun",
+        "ukphone": "sun"
+    },
+    {
+        "name": "top",
+        "trans": [
+            "Top is a simple Grade 1 word."
+        ],
+        "usphone": "top",
+        "ukphone": "top"
+    },
+    {
+        "name": "umbrella",
+        "trans": [
+            "Umbrella is a simple Grade 1 word."
+        ],
+        "usphone": "umbrella",
+        "ukphone": "umbrella"
+    },
+    {
+        "name": "van",
+        "trans": [
+            "Van is a simple Grade 1 word."
+        ],
+        "usphone": "van",
+        "ukphone": "van"
+    },
+    {
+        "name": "water",
+        "trans": [
+            "Water is a simple Grade 1 word."
+        ],
+        "usphone": "water",
+        "ukphone": "water"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "X-ray is a simple Grade 1 word."
+        ],
+        "usphone": "x-ray",
+        "ukphone": "x-ray"
+    },
+    {
+        "name": "yellow",
+        "trans": [
+            "Yellow is a simple Grade 1 word."
+        ],
+        "usphone": "yellow",
+        "ukphone": "yellow"
+    },
+    {
+        "name": "zebra",
+        "trans": [
+            "Zebra is a simple Grade 1 word."
+        ],
+        "usphone": "zebra",
+        "ukphone": "zebra"
+    },
+    {
+        "name": "book",
+        "trans": [
+            "Book is a simple Grade 1 word."
+        ],
+        "usphone": "book",
+        "ukphone": "book"
+    },
+    {
+        "name": "car",
+        "trans": [
+            "Car is a simple Grade 1 word."
+        ],
+        "usphone": "car",
+        "ukphone": "car"
+    },
+    {
+        "name": "door",
+        "trans": [
+            "Door is a simple Grade 1 word."
+        ],
+        "usphone": "door",
+        "ukphone": "door"
+    },
+    {
+        "name": "ear",
+        "trans": [
+            "Ear is a simple Grade 1 word."
+        ],
+        "usphone": "ear",
+        "ukphone": "ear"
+    },
+    {
+        "name": "flower",
+        "trans": [
+            "Flower is a simple Grade 1 word."
+        ],
+        "usphone": "flower",
+        "ukphone": "flower"
+    },
+    {
+        "name": "girl",
+        "trans": [
+            "Girl is a simple Grade 1 word."
+        ],
+        "usphone": "girl",
+        "ukphone": "girl"
+    },
+    {
+        "name": "hand",
+        "trans": [
+            "Hand is a simple Grade 1 word."
+        ],
+        "usphone": "hand",
+        "ukphone": "hand"
+    },
+    {
+        "name": "ink",
+        "trans": [
+            "Ink is a simple Grade 1 word."
+        ],
+        "usphone": "ink",
+        "ukphone": "ink"
+    },
+    {
+        "name": "juice",
+        "trans": [
+            "Juice is a simple Grade 1 word."
+        ],
+        "usphone": "juice",
+        "ukphone": "juice"
+    },
+    {
+        "name": "key",
+        "trans": [
+            "Key is a simple Grade 1 word."
+        ],
+        "usphone": "key",
+        "ukphone": "key"
+    },
+    {
+        "name": "leg",
+        "trans": [
+            "Leg is a simple Grade 1 word."
+        ],
+        "usphone": "leg",
+        "ukphone": "leg"
+    },
+    {
+        "name": "milk",
+        "trans": [
+            "Milk is a simple Grade 1 word."
+        ],
+        "usphone": "milk",
+        "ukphone": "milk"
+    },
+    {
+        "name": "nose",
+        "trans": [
+            "Nose is a simple Grade 1 word."
+        ],
+        "usphone": "nose",
+        "ukphone": "nose"
+    },
+    {
+        "name": "open",
+        "trans": [
+            "Open is a simple Grade 1 word."
+        ],
+        "usphone": "open",
+        "ukphone": "open"
+    },
+    {
+        "name": "pig",
+        "trans": [
+            "Pig is a simple Grade 1 word."
+        ],
+        "usphone": "pig",
+        "ukphone": "pig"
+    },
+    {
+        "name": "quiet",
+        "trans": [
+            "Quiet is a simple Grade 1 word."
+        ],
+        "usphone": "quiet",
+        "ukphone": "quiet"
+    },
+    {
+        "name": "red",
+        "trans": [
+            "Red is a simple Grade 1 word."
+        ],
+        "usphone": "red",
+        "ukphone": "red"
+    },
+    {
+        "name": "star",
+        "trans": [
+            "Star is a simple Grade 1 word."
+        ],
+        "usphone": "star",
+        "ukphone": "star"
+    },
+    {
+        "name": "tree",
+        "trans": [
+            "Tree is a simple Grade 1 word."
+        ],
+        "usphone": "tree",
+        "ukphone": "tree"
+    },
+    {
+        "name": "up",
+        "trans": [
+            "Up is a simple Grade 1 word."
+        ],
+        "usphone": "up",
+        "ukphone": "up"
+    },
+    {
+        "name": "voice",
+        "trans": [
+            "Voice is a simple Grade 1 word."
+        ],
+        "usphone": "voice",
+        "ukphone": "voice"
+    },
+    {
+        "name": "wind",
+        "trans": [
+            "Wind is a simple Grade 1 word."
+        ],
+        "usphone": "wind",
+        "ukphone": "wind"
+    },
+    {
+        "name": "xylophone",
+        "trans": [
+            "Xylophone is a simple Grade 1 word."
+        ],
+        "usphone": "xylophone",
+        "ukphone": "xylophone"
+    },
+    {
+        "name": "yarn",
+        "trans": [
+            "Yarn is a simple Grade 1 word."
+        ],
+        "usphone": "yarn",
+        "ukphone": "yarn"
+    },
+    {
+        "name": "zoo",
+        "trans": [
+            "Zoo is a simple Grade 1 word."
+        ],
+        "usphone": "zoo",
+        "ukphone": "zoo"
+    },
+    {
+        "name": "bag",
+        "trans": [
+            "Bag is a simple Grade 1 word."
+        ],
+        "usphone": "bag",
+        "ukphone": "bag"
+    },
+    {
+        "name": "cup",
+        "trans": [
+            "Cup is a simple Grade 1 word."
+        ],
+        "usphone": "cup",
+        "ukphone": "cup"
+    },
+    {
+        "name": "desk",
+        "trans": [
+            "Desk is a simple Grade 1 word."
+        ],
+        "usphone": "desk",
+        "ukphone": "desk"
+    },
+    {
+        "name": "eye",
+        "trans": [
+            "Eye is a simple Grade 1 word."
+        ],
+        "usphone": "eye",
+        "ukphone": "eye"
+    },
+    {
+        "name": "frog",
+        "trans": [
+            "Frog is a simple Grade 1 word."
+        ],
+        "usphone": "frog",
+        "ukphone": "frog"
+    },
+    {
+        "name": "game",
+        "trans": [
+            "Game is a simple Grade 1 word."
+        ],
+        "usphone": "game",
+        "ukphone": "game"
+    },
+    {
+        "name": "house",
+        "trans": [
+            "House is a simple Grade 1 word."
+        ],
+        "usphone": "house",
+        "ukphone": "house"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "Island is a simple Grade 1 word."
+        ],
+        "usphone": "island",
+        "ukphone": "island"
+    },
+    {
+        "name": "jam",
+        "trans": [
+            "Jam is a simple Grade 1 word."
+        ],
+        "usphone": "jam",
+        "ukphone": "jam"
+    },
+    {
+        "name": "king",
+        "trans": [
+            "King is a simple Grade 1 word."
+        ],
+        "usphone": "king",
+        "ukphone": "king"
+    },
+    {
+        "name": "lamp",
+        "trans": [
+            "Lamp is a simple Grade 1 word."
+        ],
+        "usphone": "lamp",
+        "ukphone": "lamp"
+    },
+    {
+        "name": "moon",
+        "trans": [
+            "Moon is a simple Grade 1 word."
+        ],
+        "usphone": "moon",
+        "ukphone": "moon"
+    },
+    {
+        "name": "net",
+        "trans": [
+            "Net is a simple Grade 1 word."
+        ],
+        "usphone": "net",
+        "ukphone": "net"
+    },
+    {
+        "name": "ocean",
+        "trans": [
+            "Ocean is a simple Grade 1 word."
+        ],
+        "usphone": "ocean",
+        "ukphone": "ocean"
+    },
+    {
+        "name": "paper",
+        "trans": [
+            "Paper is a simple Grade 1 word."
+        ],
+        "usphone": "paper",
+        "ukphone": "paper"
+    },
+    {
+        "name": "quilt",
+        "trans": [
+            "Quilt is a simple Grade 1 word."
+        ],
+        "usphone": "quilt",
+        "ukphone": "quilt"
+    },
+    {
+        "name": "road",
+        "trans": [
+            "Road is a simple Grade 1 word."
+        ],
+        "usphone": "road",
+        "ukphone": "road"
+    },
+    {
+        "name": "shoe",
+        "trans": [
+            "Shoe is a simple Grade 1 word."
+        ],
+        "usphone": "shoe",
+        "ukphone": "shoe"
+    },
+    {
+        "name": "table",
+        "trans": [
+            "Table is a simple Grade 1 word."
+        ],
+        "usphone": "table",
+        "ukphone": "table"
+    },
+    {
+        "name": "under",
+        "trans": [
+            "Under is a simple Grade 1 word."
+        ],
+        "usphone": "under",
+        "ukphone": "under"
+    },
+    {
+        "name": "vase",
+        "trans": [
+            "Vase is a simple Grade 1 word."
+        ],
+        "usphone": "vase",
+        "ukphone": "vase"
+    },
+    {
+        "name": "watch",
+        "trans": [
+            "Watch is a simple Grade 1 word."
+        ],
+        "usphone": "watch",
+        "ukphone": "watch"
+    },
+    {
+        "name": "box",
+        "trans": [
+            "Box is a simple Grade 1 word."
+        ],
+        "usphone": "box",
+        "ukphone": "box"
+    },
+    {
+        "name": "yard",
+        "trans": [
+            "Yard is a simple Grade 1 word."
+        ],
+        "usphone": "yard",
+        "ukphone": "yard"
+    },
+    {
+        "name": "zero",
+        "trans": [
+            "Zero is a simple Grade 1 word."
+        ],
+        "usphone": "zero",
+        "ukphone": "zero"
+    },
+    {
+        "name": "ant",
+        "trans": [
+            "Ant is a simple Grade 1 word."
+        ],
+        "usphone": "ant",
+        "ukphone": "ant"
+    },
+    {
+        "name": "bread",
+        "trans": [
+            "Bread is a simple Grade 1 word."
+        ],
+        "usphone": "bread",
+        "ukphone": "bread"
+    },
+    {
+        "name": "chair",
+        "trans": [
+            "Chair is a simple Grade 1 word."
+        ],
+        "usphone": "chair",
+        "ukphone": "chair"
+    },
+    {
+        "name": "duck",
+        "trans": [
+            "Duck is a simple Grade 1 word."
+        ],
+        "usphone": "duck",
+        "ukphone": "duck"
+    },
+    {
+        "name": "far",
+        "trans": [
+            "Far is a simple Grade 1 word."
+        ],
+        "usphone": "far",
+        "ukphone": "far"
+    },
+    {
+        "name": "good",
+        "trans": [
+            "Good is a simple Grade 1 word."
+        ],
+        "usphone": "good",
+        "ukphone": "good"
+    },
+    {
+        "name": "hot",
+        "trans": [
+            "Hot is a simple Grade 1 word."
+        ],
+        "usphone": "hot",
+        "ukphone": "hot"
+    },
+    {
+        "name": "ill",
+        "trans": [
+            "Ill is a simple Grade 1 word."
+        ],
+        "usphone": "ill",
+        "ukphone": "ill"
+    },
+    {
+        "name": "job",
+        "trans": [
+            "Job is a simple Grade 1 word."
+        ],
+        "usphone": "job",
+        "ukphone": "job"
+    },
+    {
+        "name": "kind",
+        "trans": [
+            "Kind is a simple Grade 1 word."
+        ],
+        "usphone": "kind",
+        "ukphone": "kind"
+    },
+    {
+        "name": "long",
+        "trans": [
+            "Long is a simple Grade 1 word."
+        ],
+        "usphone": "long",
+        "ukphone": "long"
+    },
+    {
+        "name": "map",
+        "trans": [
+            "Map is a simple Grade 1 word."
+        ],
+        "usphone": "map",
+        "ukphone": "map"
+    },
+    {
+        "name": "new",
+        "trans": [
+            "New is a simple Grade 1 word."
+        ],
+        "usphone": "new",
+        "ukphone": "new"
+    },
+    {
+        "name": "old",
+        "trans": [
+            "Old is a simple Grade 1 word."
+        ],
+        "usphone": "old",
+        "ukphone": "old"
+    },
+    {
+        "name": "pet",
+        "trans": [
+            "Pet is a simple Grade 1 word."
+        ],
+        "usphone": "pet",
+        "ukphone": "pet"
+    },
+    {
+        "name": "queenly",
+        "trans": [
+            "Queenly is a simple Grade 1 word."
+        ],
+        "usphone": "queenly",
+        "ukphone": "queenly"
+    },
+    {
+        "name": "rain",
+        "trans": [
+            "Rain is a simple Grade 1 word."
+        ],
+        "usphone": "rain",
+        "ukphone": "rain"
+    },
+    {
+        "name": "sit",
+        "trans": [
+            "Sit is a simple Grade 1 word."
+        ],
+        "usphone": "sit",
+        "ukphone": "sit"
+    },
+    {
+        "name": "toy",
+        "trans": [
+            "Toy is a simple Grade 1 word."
+        ],
+        "usphone": "toy",
+        "ukphone": "toy"
+    },
+    {
+        "name": "use",
+        "trans": [
+            "Use is a simple Grade 1 word."
+        ],
+        "usphone": "use",
+        "ukphone": "use"
+    },
+    {
+        "name": "very",
+        "trans": [
+            "Very is a simple Grade 1 word."
+        ],
+        "usphone": "very",
+        "ukphone": "very"
+    },
+    {
+        "name": "warm",
+        "trans": [
+            "Warm is a simple Grade 1 word."
+        ],
+        "usphone": "warm",
+        "ukphone": "warm"
+    },
+    {
+        "name": "yes",
+        "trans": [
+            "Yes is a simple Grade 1 word."
+        ],
+        "usphone": "yes",
+        "ukphone": "yes"
+    },
+    {
+        "name": "zip",
+        "trans": [
+            "Zip is a simple Grade 1 word."
+        ],
+        "usphone": "zip",
+        "ukphone": "zip"
+    }
+]
