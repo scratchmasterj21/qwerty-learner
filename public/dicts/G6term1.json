@@ -1,0 +1,402 @@
+[
+    {
+        "name": "abolish",
+        "trans": [
+            "To officially end or stop something, especially a law or system"
+        ],
+        "usphone": "uh-bol-ish",
+        "ukphone": "uh-bol-ish"
+    },
+    {
+        "name": "abundant",
+        "trans": [
+            "Existing in large quantities; more than enough"
+        ],
+        "usphone": "uh-bun-duhnt",
+        "ukphone": "uh-bun-duhnt"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Correct and exact; without any mistakes"
+        ],
+        "usphone": "ak-yer-it",
+        "ukphone": "ak-yer-it"
+    },
+    {
+        "name": "achievement",
+        "trans": [
+            "Something accomplished successfully, especially through effort or skill"
+        ],
+        "usphone": "uh-cheev-muhnt",
+        "ukphone": "uh-cheev-muhnt"
+    },
+    {
+        "name": "acknowledge",
+        "trans": [
+            "To accept or admit that something exists or is true"
+        ],
+        "usphone": "ak-nol-ij",
+        "ukphone": "ak-nol-ij"
+    },
+    {
+        "name": "adapt",
+        "trans": [
+            "To change or adjust to fit new conditions or situations"
+        ],
+        "usphone": "uh-dapt",
+        "ukphone": "uh-dapt"
+    },
+    {
+        "name": "adequate",
+        "trans": [
+            "Enough or good enough for a particular purpose"
+        ],
+        "usphone": "ad-i-kwit",
+        "ukphone": "ad-i-kwit"
+    },
+    {
+        "name": "adjacent",
+        "trans": [
+            "Next to or adjoining something else"
+        ],
+        "usphone": "uh-jay-suhnt",
+        "ukphone": "uh-jay-suhnt"
+    },
+    {
+        "name": "adversity",
+        "trans": [
+            "Difficult or unpleasant situations; hardship"
+        ],
+        "usphone": "ad-vur-si-tee",
+        "ukphone": "ad-vur-si-tee"
+    },
+    {
+        "name": "advocate",
+        "trans": [
+            "To publicly support or recommend a particular cause or policy"
+        ],
+        "usphone": "ad-vuh-kayt",
+        "ukphone": "ad-vuh-kayt"
+    },
+    {
+        "name": "aesthetic",
+        "trans": [
+            "Concerned with beauty or the appreciation of beauty"
+        ],
+        "usphone": "es-thet-ik",
+        "ukphone": "es-thet-ik"
+    },
+    {
+        "name": "affection",
+        "trans": [
+            "A gentle feeling of fondness or liking"
+        ],
+        "usphone": "uh-fek-shuhn",
+        "ukphone": "uh-fek-shuhn"
+    },
+    {
+        "name": "agriculture",
+        "trans": [
+            "The science or practice of farming, including growing crops and raising animals"
+        ],
+        "usphone": "ag-ri-kul-cher",
+        "ukphone": "ag-ri-kul-cher"
+    },
+    {
+        "name": "allegiance",
+        "trans": [
+            "Loyalty or commitment to a group, country, or cause"
+        ],
+        "usphone": "uh-lee-juhns",
+        "ukphone": "uh-lee-juhns"
+    },
+    {
+        "name": "allocate",
+        "trans": [
+            "To distribute or assign resources for a particular purpose"
+        ],
+        "usphone": "al-uh-kayt",
+        "ukphone": "al-uh-kayt"
+    },
+    {
+        "name": "alter",
+        "trans": [
+            "To change or make different"
+        ],
+        "usphone": "awl-ter",
+        "ukphone": "awl-ter"
+    },
+    {
+        "name": "alternative",
+        "trans": [
+            "Another choice or option available instead of the original"
+        ],
+        "usphone": "awl-tur-nuh-tiv",
+        "ukphone": "awl-tur-nuh-tiv"
+    },
+    {
+        "name": "ambiguous",
+        "trans": [
+            "Having more than one possible meaning; unclear"
+        ],
+        "usphone": "am-big-yoo-us",
+        "ukphone": "am-big-yoo-us"
+    },
+    {
+        "name": "ambitious",
+        "trans": [
+            "Having a strong desire to achieve success or accomplish goals"
+        ],
+        "usphone": "am-bish-us",
+        "ukphone": "am-bish-us"
+    },
+    {
+        "name": "analyze",
+        "trans": [
+            "To examine something carefully and in detail"
+        ],
+        "usphone": "an-uh-lyz",
+        "ukphone": "an-uh-lyz"
+    },
+    {
+        "name": "ancestor",
+        "trans": [
+            "A person from your family who lived a long time ago"
+        ],
+        "usphone": "an-ses-ter",
+        "ukphone": "an-ses-ter"
+    },
+    {
+        "name": "ancient",
+        "trans": [
+            "Very old; belonging to the distant past"
+        ],
+        "usphone": "ayn-shuhnt",
+        "ukphone": "ayn-shuhnt"
+    },
+    {
+        "name": "anxious",
+        "trans": [
+            "Worried or nervous about something"
+        ],
+        "usphone": "angk-shus",
+        "ukphone": "angk-shus"
+    },
+    {
+        "name": "appeal",
+        "trans": [
+            "To make a serious request; also to be attractive or interesting"
+        ],
+        "usphone": "uh-peel",
+        "ukphone": "uh-peel"
+    },
+    {
+        "name": "approach",
+        "trans": [
+            "To come near or closer to something; also a way of dealing with something"
+        ],
+        "usphone": "uh-prohch",
+        "ukphone": "uh-prohch"
+    },
+    {
+        "name": "appropriate",
+        "trans": [
+            "Suitable or proper for a particular situation"
+        ],
+        "usphone": "uh-proh-pree-it",
+        "ukphone": "uh-proh-pree-it"
+    },
+    {
+        "name": "approximate",
+        "trans": [
+            "Close to the actual but not exact; estimated"
+        ],
+        "usphone": "uh-prok-suh-mit",
+        "ukphone": "uh-prok-suh-mit"
+    },
+    {
+        "name": "architecture",
+        "trans": [
+            "The art and science of designing and constructing buildings"
+        ],
+        "usphone": "ar-ki-tek-cher",
+        "ukphone": "ar-ki-tek-cher"
+    },
+    {
+        "name": "articulate",
+        "trans": [
+            "To express thoughts or feelings clearly in words"
+        ],
+        "usphone": "ar-tik-yuh-layt",
+        "ukphone": "ar-tik-yuh-layt"
+    },
+    {
+        "name": "aspect",
+        "trans": [
+            "A particular part or feature of something"
+        ],
+        "usphone": "as-pekt",
+        "ukphone": "as-pekt"
+    },
+    {
+        "name": "assemble",
+        "trans": [
+            "To gather together or put parts together"
+        ],
+        "usphone": "uh-sem-buhl",
+        "ukphone": "uh-sem-buhl"
+    },
+    {
+        "name": "assess",
+        "trans": [
+            "To evaluate or judge the quality, importance, or value of something"
+        ],
+        "usphone": "uh-ses",
+        "ukphone": "uh-ses"
+    },
+    {
+        "name": "assign",
+        "trans": [
+            "To give a task or duty to someone"
+        ],
+        "usphone": "uh-syn",
+        "ukphone": "uh-syn"
+    },
+    {
+        "name": "assist",
+        "trans": [
+            "To help someone do something"
+        ],
+        "usphone": "uh-sist",
+        "ukphone": "uh-sist"
+    },
+    {
+        "name": "assume",
+        "trans": [
+            "To believe something is true without proof"
+        ],
+        "usphone": "uh-soom",
+        "ukphone": "uh-syoom"
+    },
+    {
+        "name": "assure",
+        "trans": [
+            "To tell someone something confidently to remove doubt"
+        ],
+        "usphone": "uh-shur",
+        "ukphone": "uh-shur"
+    },
+    {
+        "name": "astonish",
+        "trans": [
+            "To surprise someone greatly; to amaze"
+        ],
+        "usphone": "uh-ston-ish",
+        "ukphone": "uh-ston-ish"
+    },
+    {
+        "name": "atmosphere",
+        "trans": [
+            "The layer of gases surrounding Earth; also the mood or feeling of a place"
+        ],
+        "usphone": "at-mus-feer",
+        "ukphone": "at-mus-feer"
+    },
+    {
+        "name": "attain",
+        "trans": [
+            "To succeed in achieving something, especially after effort"
+        ],
+        "usphone": "uh-tayn",
+        "ukphone": "uh-tayn"
+    },
+    {
+        "name": "attempt",
+        "trans": [
+            "To try to do something"
+        ],
+        "usphone": "uh-tempt",
+        "ukphone": "uh-tempt"
+    },
+    {
+        "name": "attitude",
+        "trans": [
+            "A way of thinking or feeling about something"
+        ],
+        "usphone": "at-i-tood",
+        "ukphone": "at-i-tyood"
+    },
+    {
+        "name": "attract",
+        "trans": [
+            "To cause someone or something to come closer or be interested"
+        ],
+        "usphone": "uh-trakt",
+        "ukphone": "uh-trakt"
+    },
+    {
+        "name": "authentic",
+        "trans": [
+            "Real or genuine; not copied or fake"
+        ],
+        "usphone": "aw-then-tik",
+        "ukphone": "aw-then-tik"
+    },
+    {
+        "name": "authority",
+        "trans": [
+            "The power or right to give orders and make decisions"
+        ],
+        "usphone": "uh-thor-i-tee",
+        "ukphone": "aw-thor-i-tee"
+    },
+    {
+        "name": "available",
+        "trans": [
+            "Able to be used or obtained; at hand"
+        ],
+        "usphone": "uh-vay-luh-buhl",
+        "ukphone": "uh-vay-luh-buhl"
+    },
+    {
+        "name": "aware",
+        "trans": [
+            "Having knowledge or perception of a situation or fact"
+        ],
+        "usphone": "uh-wair",
+        "ukphone": "uh-wair"
+    },
+    {
+        "name": "awkward",
+        "trans": [
+            "Causing difficulty or embarrassment; not smooth or graceful"
+        ],
+        "usphone": "awk-werd",
+        "ukphone": "awk-werd"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "An even distribution of weight or equal amounts; to keep steady"
+        ],
+        "usphone": "bal-uhns",
+        "ukphone": "bal-uhns"
+    },
+    {
+        "name": "barrier",
+        "trans": [
+            "Something that blocks or prevents movement or progress"
+        ],
+        "usphone": "bar-ee-er",
+        "ukphone": "bar-ee-er"
+    },
+    {
+        "name": "beneficial",
+        "trans": [
+            "Producing good or helpful results; favorable"
+        ],
+        "usphone": "ben-uh-fish-uhl",
+        "ukphone": "ben-uh-fish-uhl"
+    }
+]

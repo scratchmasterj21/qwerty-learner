@@ -2,7 +2,7 @@
     {
         "name": "ability",
         "trans": [
-            "Ability is a Grade 3 word."
+            "The skill or power to do something."
         ],
         "usphone": "ability",
         "ukphone": "ability"
@@ -10,7 +10,7 @@
     {
         "name": "accident",
         "trans": [
-            "Accident is a Grade 3 word."
+            "Something bad that happens by mistake or without planning."
         ],
         "usphone": "accident",
         "ukphone": "accident"
@@ -18,7 +18,7 @@
     {
         "name": "address",
         "trans": [
-            "Address is a Grade 3 word."
+            "The place where someone lives, including street name and number."
         ],
         "usphone": "address",
         "ukphone": "address"
@@ -26,7 +26,7 @@
     {
         "name": "adventure",
         "trans": [
-            "Adventure is a Grade 3 word."
+            "An exciting experience or journey."
         ],
         "usphone": "adventure",
         "ukphone": "adventure"
@@ -34,7 +34,7 @@
     {
         "name": "afternoon",
         "trans": [
-            "Afternoon is a Grade 3 word."
+            "The time of day between noon and evening."
         ],
         "usphone": "afternoon",
         "ukphone": "afternoon"
@@ -42,7 +42,7 @@
     {
         "name": "agree",
         "trans": [
-            "Agree is a Grade 3 word."
+            "To have the same opinion as someone else; to say yes."
         ],
         "usphone": "agree",
         "ukphone": "agree"
@@ -50,7 +50,7 @@
     {
         "name": "almost",
         "trans": [
-            "Almost is a Grade 3 word."
+            "Nearly; very close to but not quite."
         ],
         "usphone": "almost",
         "ukphone": "almost"
@@ -58,7 +58,7 @@
     {
         "name": "already",
         "trans": [
-            "Already is a Grade 3 word."
+            "By this time; before now."
         ],
         "usphone": "already",
         "ukphone": "already"
@@ -66,7 +66,7 @@
     {
         "name": "among",
         "trans": [
-            "Among is a Grade 3 word."
+            "In the middle of a group; surrounded by."
         ],
         "usphone": "among",
         "ukphone": "among"
@@ -74,7 +74,7 @@
     {
         "name": "answer",
         "trans": [
-            "Answer is a Grade 3 word."
+            "A response to a question; what you say when someone asks something."
         ],
         "usphone": "answer",
         "ukphone": "answer"
@@ -82,7 +82,7 @@
     {
         "name": "arrive",
         "trans": [
-            "Arrive is a Grade 3 word."
+            "To reach a place; to get to where you are going."
         ],
         "usphone": "arrive",
         "ukphone": "arrive"
@@ -90,7 +90,7 @@
     {
         "name": "attention",
         "trans": [
-            "Attention is a Grade 3 word."
+            "When you focus your mind on something and listen or watch carefully."
         ],
         "usphone": "attention",
         "ukphone": "attention"
@@ -98,7 +98,7 @@
     {
         "name": "beautiful",
         "trans": [
-            "Beautiful is a Grade 3 word."
+            "Very pretty or pleasing to look at."
         ],
         "usphone": "beautiful",
         "ukphone": "beautiful"
@@ -106,7 +106,7 @@
     {
         "name": "believe",
         "trans": [
-            "Believe is a Grade 3 word."
+            "To think something is true or real."
         ],
         "usphone": "believe",
         "ukphone": "believe"
@@ -114,7 +114,7 @@
     {
         "name": "between",
         "trans": [
-            "Between is a Grade 3 word."
+            "In the middle of two things."
         ],
         "usphone": "between",
         "ukphone": "between"
@@ -122,7 +122,7 @@
     {
         "name": "birthday",
         "trans": [
-            "Birthday is a Grade 3 word."
+            "The day you were born; celebrated each year."
         ],
         "usphone": "birthday",
         "ukphone": "birthday"
@@ -130,7 +130,7 @@
     {
         "name": "brother",
         "trans": [
-            "Brother is a Grade 3 word."
+            "A boy who has the same parents as you."
         ],
         "usphone": "brother",
         "ukphone": "brother"
@@ -138,7 +138,7 @@
     {
         "name": "build",
         "trans": [
-            "Build is a Grade 3 word."
+            "To make or construct something by putting parts together."
         ],
         "usphone": "build",
         "ukphone": "build"
@@ -146,7 +146,7 @@
     {
         "name": "busy",
         "trans": [
-            "Busy is a Grade 3 word."
+            "Having a lot to do; not having free time."
         ],
         "usphone": "busy",
         "ukphone": "busy"
@@ -154,7 +154,7 @@
     {
         "name": "captain",
         "trans": [
-            "Captain is a Grade 3 word."
+            "The leader of a team or ship."
         ],
         "usphone": "captain",
         "ukphone": "captain"
@@ -162,7 +162,7 @@
     {
         "name": "careful",
         "trans": [
-            "Careful is a Grade 3 word."
+            "Taking care to avoid mistakes or danger; paying close attention."
         ],
         "usphone": "careful",
         "ukphone": "careful"
@@ -170,7 +170,7 @@
     {
         "name": "carry",
         "trans": [
-            "Carry is a Grade 3 word."
+            "To hold something and move it from one place to another."
         ],
         "usphone": "carry",
         "ukphone": "carry"
@@ -178,7 +178,7 @@
     {
         "name": "center",
         "trans": [
-            "Center is a Grade 3 word."
+            "The middle point or part of something."
         ],
         "usphone": "center",
         "ukphone": "center"
@@ -186,7 +186,7 @@
     {
         "name": "circle",
         "trans": [
-            "Circle is a Grade 3 word."
+            "A round shape with no corners."
         ],
         "usphone": "circle",
         "ukphone": "circle"
@@ -194,7 +194,7 @@
     {
         "name": "clothes",
         "trans": [
-            "Clothes is a Grade 3 word."
+            "Things you wear on your body like shirts, pants, and dresses."
         ],
         "usphone": "clothes",
         "ukphone": "clothes"
@@ -202,7 +202,7 @@
     {
         "name": "common",
         "trans": [
-            "Common is a Grade 3 word."
+            "Happening often; usual or ordinary."
         ],
         "usphone": "common",
         "ukphone": "common"
@@ -210,7 +210,7 @@
     {
         "name": "complete",
         "trans": [
-            "Complete is a Grade 3 word."
+            "To finish something; having all parts."
         ],
         "usphone": "complete",
         "ukphone": "complete"
@@ -218,7 +218,7 @@
     {
         "name": "country",
         "trans": [
-            "Country is a Grade 3 word."
+            "A large area of land with its own government and people."
         ],
         "usphone": "country",
         "ukphone": "country"
@@ -226,7 +226,7 @@
     {
         "name": "cousin",
         "trans": [
-            "Cousin is a Grade 3 word."
+            "The child of your aunt or uncle."
         ],
         "usphone": "cousin",
         "ukphone": "cousin"
@@ -234,7 +234,7 @@
     {
         "name": "create",
         "trans": [
-            "Create is a Grade 3 word."
+            "To make something new."
         ],
         "usphone": "create",
         "ukphone": "create"
@@ -242,7 +242,7 @@
     {
         "name": "decide",
         "trans": [
-            "Decide is a Grade 3 word."
+            "To make up your mind about something; to choose."
         ],
         "usphone": "decide",
         "ukphone": "decide"
@@ -250,7 +250,7 @@
     {
         "name": "describe",
         "trans": [
-            "Describe is a Grade 3 word."
+            "To tell or write about what something is like."
         ],
         "usphone": "describe",
         "ukphone": "describe"
@@ -258,7 +258,7 @@
     {
         "name": "different",
         "trans": [
-            "Different is a Grade 3 word."
+            "Not the same; not alike."
         ],
         "usphone": "different",
         "ukphone": "different"
@@ -266,7 +266,7 @@
     {
         "name": "discover",
         "trans": [
-            "Discover is a Grade 3 word."
+            "To find something for the first time."
         ],
         "usphone": "discover",
         "ukphone": "discover"
@@ -274,7 +274,7 @@
     {
         "name": "doctor",
         "trans": [
-            "Doctor is a Grade 3 word."
+            "A person who helps sick or hurt people get better."
         ],
         "usphone": "doctor",
         "ukphone": "doctor"
@@ -282,7 +282,7 @@
     {
         "name": "during",
         "trans": [
-            "During is a Grade 3 word."
+            "Throughout the time something is happening."
         ],
         "usphone": "during",
         "ukphone": "during"
@@ -290,7 +290,7 @@
     {
         "name": "early",
         "trans": [
-            "Early is a Grade 3 word."
+            "Before the usual or expected time; near the beginning."
         ],
         "usphone": "early",
         "ukphone": "early"
@@ -298,7 +298,7 @@
     {
         "name": "earth",
         "trans": [
-            "Earth is a Grade 3 word."
+            "The planet we live on; also the soil or ground."
         ],
         "usphone": "earth",
         "ukphone": "earth"
@@ -306,7 +306,7 @@
     {
         "name": "enjoy",
         "trans": [
-            "Enjoy is a Grade 3 word."
+            "To like something and have fun doing it."
         ],
         "usphone": "enjoy",
         "ukphone": "enjoy"
@@ -314,7 +314,7 @@
     {
         "name": "enough",
         "trans": [
-            "Enough is a Grade 3 word."
+            "As much as you need; not too little."
         ],
         "usphone": "enough",
         "ukphone": "enough"
@@ -322,7 +322,7 @@
     {
         "name": "example",
         "trans": [
-            "Example is a Grade 3 word."
+            "Something that shows what other similar things are like."
         ],
         "usphone": "example",
         "ukphone": "example"
@@ -330,7 +330,7 @@
     {
         "name": "excited",
         "trans": [
-            "Excited is a Grade 3 word."
+            "Feeling very happy and eager about something."
         ],
         "usphone": "excited",
         "ukphone": "excited"
@@ -338,7 +338,7 @@
     {
         "name": "family",
         "trans": [
-            "Family is a Grade 3 word."
+            "People who are related to you, like parents, brothers, and sisters."
         ],
         "usphone": "family",
         "ukphone": "family"
@@ -346,7 +346,7 @@
     {
         "name": "famous",
         "trans": [
-            "Famous is a Grade 3 word."
+            "Known by many people; well-known."
         ],
         "usphone": "famous",
         "ukphone": "famous"
@@ -354,7 +354,7 @@
     {
         "name": "favorite",
         "trans": [
-            "Favorite is a Grade 3 word."
+            "The one you like best of all."
         ],
         "usphone": "favorite",
         "ukphone": "favorite"
@@ -362,7 +362,7 @@
     {
         "name": "finish",
         "trans": [
-            "Finish is a Grade 3 word."
+            "To complete something; to reach the end."
         ],
         "usphone": "finish",
         "ukphone": "finish"
@@ -370,7 +370,7 @@
     {
         "name": "follow",
         "trans": [
-            "Follow is a Grade 3 word."
+            "To go behind someone or something; to come after."
         ],
         "usphone": "follow",
         "ukphone": "follow"
@@ -378,7 +378,7 @@
     {
         "name": "forest",
         "trans": [
-            "Forest is a Grade 3 word."
+            "A large area with many trees growing close together."
         ],
         "usphone": "forest",
         "ukphone": "forest"
@@ -386,7 +386,7 @@
     {
         "name": "friend",
         "trans": [
-            "Friend is a Grade 3 word."
+            "Someone you like and who likes you; a pal."
         ],
         "usphone": "friend",
         "ukphone": "friend"
@@ -394,7 +394,7 @@
     {
         "name": "future",
         "trans": [
-            "Future is a Grade 3 word."
+            "The time that has not happened yet; what is to come."
         ],
         "usphone": "future",
         "ukphone": "future"
@@ -402,7 +402,7 @@
     {
         "name": "garden",
         "trans": [
-            "Garden is a Grade 3 word."
+            "A piece of ground where you grow flowers, fruits, or vegetables."
         ],
         "usphone": "garden",
         "ukphone": "garden"
@@ -410,7 +410,7 @@
     {
         "name": "gentle",
         "trans": [
-            "Gentle is a Grade 3 word."
+            "Soft and kind; not rough or harsh."
         ],
         "usphone": "gentle",
         "ukphone": "gentle"
@@ -418,7 +418,7 @@
     {
         "name": "giant",
         "trans": [
-            "Giant is a Grade 3 word."
+            "Something or someone that is very, very big."
         ],
         "usphone": "giant",
         "ukphone": "giant"
@@ -426,7 +426,7 @@
     {
         "name": "government",
         "trans": [
-            "Government is a Grade 3 word."
+            "The group of people who make rules and run a country."
         ],
         "usphone": "government",
         "ukphone": "government"
@@ -434,7 +434,7 @@
     {
         "name": "group",
         "trans": [
-            "Group is a Grade 3 word."
+            "A number of people or things that are together."
         ],
         "usphone": "group",
         "ukphone": "group"
@@ -442,7 +442,7 @@
     {
         "name": "guess",
         "trans": [
-            "Guess is a Grade 3 word."
+            "To try to answer without knowing for sure."
         ],
         "usphone": "guess",
         "ukphone": "guess"
@@ -450,7 +450,7 @@
     {
         "name": "happy",
         "trans": [
-            "Happy is a Grade 3 word."
+            "Feeling joy and pleasure; not sad."
         ],
         "usphone": "happy",
         "ukphone": "happy"
@@ -458,7 +458,7 @@
     {
         "name": "health",
         "trans": [
-            "Health is a Grade 3 word."
+            "The condition of your body; being well or sick."
         ],
         "usphone": "health",
         "ukphone": "health"
@@ -466,7 +466,7 @@
     {
         "name": "holiday",
         "trans": [
-            "Holiday is a Grade 3 word."
+            "A special day when people don't work or go to school to celebrate."
         ],
         "usphone": "holiday",
         "ukphone": "holiday"
@@ -474,7 +474,7 @@
     {
         "name": "honest",
         "trans": [
-            "Honest is a Grade 3 word."
+            "Telling the truth; not lying."
         ],
         "usphone": "honest",
         "ukphone": "honest"
@@ -482,7 +482,7 @@
     {
         "name": "important",
         "trans": [
-            "Important is a Grade 3 word."
+            "Something that matters a lot and is very special."
         ],
         "usphone": "important",
         "ukphone": "important"
@@ -490,7 +490,7 @@
     {
         "name": "instead",
         "trans": [
-            "Instead is a Grade 3 word."
+            "In place of something else."
         ],
         "usphone": "instead",
         "ukphone": "instead"
@@ -498,7 +498,7 @@
     {
         "name": "invite",
         "trans": [
-            "Invite is a Grade 3 word."
+            "To ask someone to come to an event or place."
         ],
         "usphone": "invite",
         "ukphone": "invite"
@@ -506,7 +506,7 @@
     {
         "name": "journey",
         "trans": [
-            "Journey is a Grade 3 word."
+            "A trip from one place to another."
         ],
         "usphone": "journey",
         "ukphone": "journey"
@@ -514,7 +514,7 @@
     {
         "name": "jungle",
         "trans": [
-            "Jungle is a Grade 3 word."
+            "A thick forest in a hot place with many plants and wild animals."
         ],
         "usphone": "jungle",
         "ukphone": "jungle"
@@ -522,7 +522,7 @@
     {
         "name": "kindness",
         "trans": [
-            "Kindness is a Grade 3 word."
+            "Being nice and caring toward others."
         ],
         "usphone": "kindness",
         "ukphone": "kindness"
@@ -530,7 +530,7 @@
     {
         "name": "kitchen",
         "trans": [
-            "Kitchen is a Grade 3 word."
+            "The room where food is cooked."
         ],
         "usphone": "kitchen",
         "ukphone": "kitchen"
@@ -538,7 +538,7 @@
     {
         "name": "language",
         "trans": [
-            "Language is a Grade 3 word."
+            "The words people use to speak and write to each other."
         ],
         "usphone": "language",
         "ukphone": "language"
@@ -546,7 +546,7 @@
     {
         "name": "learn",
         "trans": [
-            "Learn is a Grade 3 word."
+            "To get new knowledge or skills by studying or practicing."
         ],
         "usphone": "learn",
         "ukphone": "learn"
@@ -554,7 +554,7 @@
     {
         "name": "library",
         "trans": [
-            "Library is a Grade 3 word."
+            "A place where books are kept and you can borrow them."
         ],
         "usphone": "library",
         "ukphone": "library"
@@ -562,7 +562,7 @@
     {
         "name": "listen",
         "trans": [
-            "Listen is a Grade 3 word."
+            "To pay attention to sounds or what someone is saying."
         ],
         "usphone": "listen",
         "ukphone": "listen"
@@ -570,7 +570,7 @@
     {
         "name": "market",
         "trans": [
-            "Market is a Grade 3 word."
+            "A place where people buy and sell food and other things."
         ],
         "usphone": "market",
         "ukphone": "market"
@@ -578,7 +578,7 @@
     {
         "name": "middle",
         "trans": [
-            "Middle is a Grade 3 word."
+            "The center point or part that is between two sides."
         ],
         "usphone": "middle",
         "ukphone": "middle"
@@ -586,7 +586,7 @@
     {
         "name": "minute",
         "trans": [
-            "Minute is a Grade 3 word."
+            "A short period of time; sixty seconds."
         ],
         "usphone": "minute",
         "ukphone": "minute"
@@ -594,7 +594,7 @@
     {
         "name": "moment",
         "trans": [
-            "Moment is a Grade 3 word."
+            "A very short period of time; an instant."
         ],
         "usphone": "moment",
         "ukphone": "moment"
@@ -602,7 +602,7 @@
     {
         "name": "mountain",
         "trans": [
-            "Mountain is a Grade 3 word."
+            "A very tall, high piece of land that rises above the earth."
         ],
         "usphone": "mountain",
         "ukphone": "mountain"
@@ -610,7 +610,7 @@
     {
         "name": "neighbor",
         "trans": [
-            "Neighbor is a Grade 3 word."
+            "A person who lives near you."
         ],
         "usphone": "neighbor",
         "ukphone": "neighbor"
@@ -618,7 +618,7 @@
     {
         "name": "nothing",
         "trans": [
-            "Nothing is a Grade 3 word."
+            "Not anything at all; zero things."
         ],
         "usphone": "nothing",
         "ukphone": "nothing"
@@ -626,7 +626,7 @@
     {
         "name": "number",
         "trans": [
-            "Number is a Grade 3 word."
+            "A word or symbol that shows how many, like 1, 2, 3."
         ],
         "usphone": "number",
         "ukphone": "number"
@@ -634,7 +634,7 @@
     {
         "name": "ocean",
         "trans": [
-            "Ocean is a Grade 3 word."
+            "A very large area of salty water."
         ],
         "usphone": "ocean",
         "ukphone": "ocean"
@@ -642,7 +642,7 @@
     {
         "name": "office",
         "trans": [
-            "Office is a Grade 3 word."
+            "A room or building where people work at desks."
         ],
         "usphone": "office",
         "ukphone": "office"
@@ -650,7 +650,7 @@
     {
         "name": "often",
         "trans": [
-            "Often is a Grade 3 word."
+            "Many times; frequently."
         ],
         "usphone": "often",
         "ukphone": "often"
@@ -658,7 +658,7 @@
     {
         "name": "outside",
         "trans": [
-            "Outside is a Grade 3 word."
+            "Not inside a building; in the open air."
         ],
         "usphone": "outside",
         "ukphone": "outside"
@@ -666,7 +666,7 @@
     {
         "name": "parents",
         "trans": [
-            "Parents is a Grade 3 word."
+            "Your mother and father."
         ],
         "usphone": "parents",
         "ukphone": "parents"
@@ -674,7 +674,7 @@
     {
         "name": "people",
         "trans": [
-            "People is a Grade 3 word."
+            "More than one person; human beings."
         ],
         "usphone": "people",
         "ukphone": "people"
@@ -682,7 +682,7 @@
     {
         "name": "planet",
         "trans": [
-            "Planet is a Grade 3 word."
+            "A large round object in space that moves around a star, like Earth."
         ],
         "usphone": "planet",
         "ukphone": "planet"
@@ -690,7 +690,7 @@
     {
         "name": "present",
         "trans": [
-            "Present is a Grade 3 word."
+            "A gift; also means here or now."
         ],
         "usphone": "present",
         "ukphone": "present"
@@ -698,7 +698,7 @@
     {
         "name": "pretty",
         "trans": [
-            "Pretty is a Grade 3 word."
+            "Nice to look at; beautiful."
         ],
         "usphone": "pretty",
         "ukphone": "pretty"
@@ -706,7 +706,7 @@
     {
         "name": "promise",
         "trans": [
-            "Promise is a Grade 3 word."
+            "To say you will definitely do something."
         ],
         "usphone": "promise",
         "ukphone": "promise"
@@ -714,7 +714,7 @@
     {
         "name": "protect",
         "trans": [
-            "Protect is a Grade 3 word."
+            "To keep someone or something safe from harm."
         ],
         "usphone": "protect",
         "ukphone": "protect"
@@ -722,7 +722,7 @@
     {
         "name": "question",
         "trans": [
-            "Question is a Grade 3 word."
+            "Something you ask when you want to know information."
         ],
         "usphone": "question",
         "ukphone": "question"
@@ -730,7 +730,7 @@
     {
         "name": "quietly",
         "trans": [
-            "Quietly is a Grade 3 word."
+            "In a way that makes little or no noise."
         ],
         "usphone": "quietly",
         "ukphone": "quietly"
@@ -738,7 +738,7 @@
     {
         "name": "reason",
         "trans": [
-            "Reason is a Grade 3 word."
+            "The explanation for why something happens or is done."
         ],
         "usphone": "reason",
         "ukphone": "reason"
@@ -746,7 +746,7 @@
     {
         "name": "remember",
         "trans": [
-            "Remember is a Grade 3 word."
+            "To think of something again; not to forget."
         ],
         "usphone": "remember",
         "ukphone": "remember"
@@ -754,7 +754,7 @@
     {
         "name": "school",
         "trans": [
-            "School is a Grade 3 word."
+            "A place where children go to learn."
         ],
         "usphone": "school",
         "ukphone": "school"
@@ -762,7 +762,7 @@
     {
         "name": "season",
         "trans": [
-            "Season is a Grade 3 word."
+            "One of the four parts of the year: spring, summer, fall, or winter."
         ],
         "usphone": "season",
         "ukphone": "season"
@@ -770,7 +770,7 @@
     {
         "name": "sister",
         "trans": [
-            "Sister is a Grade 3 word."
+            "A girl who has the same parents as you."
         ],
         "usphone": "sister",
         "ukphone": "sister"
@@ -778,7 +778,7 @@
     {
         "name": "snow",
         "trans": [
-            "Snow is a Grade 3 word."
+            "White frozen water that falls from the sky in winter."
         ],
         "usphone": "snow",
         "ukphone": "snow"
@@ -786,7 +786,7 @@
     {
         "name": "someone",
         "trans": [
-            "Someone is a Grade 3 word."
+            "A person; somebody."
         ],
         "usphone": "someone",
         "ukphone": "someone"
@@ -794,7 +794,7 @@
     {
         "name": "special",
         "trans": [
-            "Special is a Grade 3 word."
+            "Different from others in a good way; important."
         ],
         "usphone": "special",
         "ukphone": "special"

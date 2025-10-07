@@ -1,0 +1,802 @@
+[
+    {
+        "name": "achieve",
+        "trans": [
+            "To achieve means to reach a goal or succeed in doing something."
+        ],
+        "usphone": "\u0259't\u0283iv",
+        "ukphone": "\u0259't\u0283i\u02d0v"
+    },
+    {
+        "name": "benefit",
+        "trans": [
+            "A benefit is something that helps or is good for you."
+        ],
+        "usphone": "'b\u025bn\u026af\u026at",
+        "ukphone": "'ben\u026af\u026at"
+    },
+    {
+        "name": "combine",
+        "trans": [
+            "To combine means to mix or join things together."
+        ],
+        "usphone": "k\u0259m'ba\u026an",
+        "ukphone": "k\u0259m'ba\u026an"
+    },
+    {
+        "name": "discuss",
+        "trans": [
+            "To discuss means to talk about something with others."
+        ],
+        "usphone": "d\u026a'sk\u028cs",
+        "ukphone": "d\u026a'sk\u028cs"
+    },
+    {
+        "name": "effect",
+        "trans": [
+            "An effect is the result of an action or event."
+        ],
+        "usphone": "\u026a'f\u025bkt",
+        "ukphone": "\u026a'fekt"
+    },
+    {
+        "name": "focus",
+        "trans": [
+            "To focus means to pay close attention to something."
+        ],
+        "usphone": "'fok\u0259s",
+        "ukphone": "'f\u0259\u028ak\u0259s"
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "To gather means to collect or bring together."
+        ],
+        "usphone": "'\u0261\u00e6\u00f0\u025a",
+        "ukphone": "'\u0261\u00e6\u00f0\u0259"
+    },
+    {
+        "name": "handle",
+        "trans": [
+            "To handle means to deal with or take care of something."
+        ],
+        "usphone": "'h\u00e6ndl",
+        "ukphone": "'h\u00e6ndl"
+    },
+    {
+        "name": "improve",
+        "trans": [
+            "To improve means to make something better."
+        ],
+        "usphone": "\u026am'pruv",
+        "ukphone": "\u026am'pru\u02d0v"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "A journey is a trip from one place to another."
+        ],
+        "usphone": "'d\u0292\u025dni",
+        "ukphone": "'d\u0292\u025c\u02d0ni"
+    },
+    {
+        "name": "achieve",
+        "trans": [
+            "To achieve means to reach a goal or succeed in doing something."
+        ],
+        "usphone": "\u0259't\u0283iv",
+        "ukphone": "\u0259't\u0283i\u02d0v"
+    },
+    {
+        "name": "benefit",
+        "trans": [
+            "A benefit is something that helps or is good for you."
+        ],
+        "usphone": "'b\u025bn\u026af\u026at",
+        "ukphone": "'ben\u026af\u026at"
+    },
+    {
+        "name": "combine",
+        "trans": [
+            "To combine means to mix or join things together."
+        ],
+        "usphone": "k\u0259m'ba\u026an",
+        "ukphone": "k\u0259m'ba\u026an"
+    },
+    {
+        "name": "discuss",
+        "trans": [
+            "To discuss means to talk about something with others."
+        ],
+        "usphone": "d\u026a'sk\u028cs",
+        "ukphone": "d\u026a'sk\u028cs"
+    },
+    {
+        "name": "effect",
+        "trans": [
+            "An effect is the result of an action or event."
+        ],
+        "usphone": "\u026a'f\u025bkt",
+        "ukphone": "\u026a'fekt"
+    },
+    {
+        "name": "focus",
+        "trans": [
+            "To focus means to pay close attention to something."
+        ],
+        "usphone": "'fok\u0259s",
+        "ukphone": "'f\u0259\u028ak\u0259s"
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "To gather means to collect or bring together."
+        ],
+        "usphone": "'\u0261\u00e6\u00f0\u025a",
+        "ukphone": "'\u0261\u00e6\u00f0\u0259"
+    },
+    {
+        "name": "handle",
+        "trans": [
+            "To handle means to deal with or take care of something."
+        ],
+        "usphone": "'h\u00e6ndl",
+        "ukphone": "'h\u00e6ndl"
+    },
+    {
+        "name": "improve",
+        "trans": [
+            "To improve means to make something better."
+        ],
+        "usphone": "\u026am'pruv",
+        "ukphone": "\u026am'pru\u02d0v"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "A journey is a trip from one place to another."
+        ],
+        "usphone": "'d\u0292\u025dni",
+        "ukphone": "'d\u0292\u025c\u02d0ni"
+    },
+    {
+        "name": "achieve",
+        "trans": [
+            "To achieve means to reach a goal or succeed in doing something."
+        ],
+        "usphone": "\u0259't\u0283iv",
+        "ukphone": "\u0259't\u0283i\u02d0v"
+    },
+    {
+        "name": "benefit",
+        "trans": [
+            "A benefit is something that helps or is good for you."
+        ],
+        "usphone": "'b\u025bn\u026af\u026at",
+        "ukphone": "'ben\u026af\u026at"
+    },
+    {
+        "name": "combine",
+        "trans": [
+            "To combine means to mix or join things together."
+        ],
+        "usphone": "k\u0259m'ba\u026an",
+        "ukphone": "k\u0259m'ba\u026an"
+    },
+    {
+        "name": "discuss",
+        "trans": [
+            "To discuss means to talk about something with others."
+        ],
+        "usphone": "d\u026a'sk\u028cs",
+        "ukphone": "d\u026a'sk\u028cs"
+    },
+    {
+        "name": "effect",
+        "trans": [
+            "An effect is the result of an action or event."
+        ],
+        "usphone": "\u026a'f\u025bkt",
+        "ukphone": "\u026a'fekt"
+    },
+    {
+        "name": "focus",
+        "trans": [
+            "To focus means to pay close attention to something."
+        ],
+        "usphone": "'fok\u0259s",
+        "ukphone": "'f\u0259\u028ak\u0259s"
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "To gather means to collect or bring together."
+        ],
+        "usphone": "'\u0261\u00e6\u00f0\u025a",
+        "ukphone": "'\u0261\u00e6\u00f0\u0259"
+    },
+    {
+        "name": "handle",
+        "trans": [
+            "To handle means to deal with or take care of something."
+        ],
+        "usphone": "'h\u00e6ndl",
+        "ukphone": "'h\u00e6ndl"
+    },
+    {
+        "name": "improve",
+        "trans": [
+            "To improve means to make something better."
+        ],
+        "usphone": "\u026am'pruv",
+        "ukphone": "\u026am'pru\u02d0v"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "A journey is a trip from one place to another."
+        ],
+        "usphone": "'d\u0292\u025dni",
+        "ukphone": "'d\u0292\u025c\u02d0ni"
+    },
+    {
+        "name": "achieve",
+        "trans": [
+            "To achieve means to reach a goal or succeed in doing something."
+        ],
+        "usphone": "\u0259't\u0283iv",
+        "ukphone": "\u0259't\u0283i\u02d0v"
+    },
+    {
+        "name": "benefit",
+        "trans": [
+            "A benefit is something that helps or is good for you."
+        ],
+        "usphone": "'b\u025bn\u026af\u026at",
+        "ukphone": "'ben\u026af\u026at"
+    },
+    {
+        "name": "combine",
+        "trans": [
+            "To combine means to mix or join things together."
+        ],
+        "usphone": "k\u0259m'ba\u026an",
+        "ukphone": "k\u0259m'ba\u026an"
+    },
+    {
+        "name": "discuss",
+        "trans": [
+            "To discuss means to talk about something with others."
+        ],
+        "usphone": "d\u026a'sk\u028cs",
+        "ukphone": "d\u026a'sk\u028cs"
+    },
+    {
+        "name": "effect",
+        "trans": [
+            "An effect is the result of an action or event."
+        ],
+        "usphone": "\u026a'f\u025bkt",
+        "ukphone": "\u026a'fekt"
+    },
+    {
+        "name": "focus",
+        "trans": [
+            "To focus means to pay close attention to something."
+        ],
+        "usphone": "'fok\u0259s",
+        "ukphone": "'f\u0259\u028ak\u0259s"
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "To gather means to collect or bring together."
+        ],
+        "usphone": "'\u0261\u00e6\u00f0\u025a",
+        "ukphone": "'\u0261\u00e6\u00f0\u0259"
+    },
+    {
+        "name": "handle",
+        "trans": [
+            "To handle means to deal with or take care of something."
+        ],
+        "usphone": "'h\u00e6ndl",
+        "ukphone": "'h\u00e6ndl"
+    },
+    {
+        "name": "improve",
+        "trans": [
+            "To improve means to make something better."
+        ],
+        "usphone": "\u026am'pruv",
+        "ukphone": "\u026am'pru\u02d0v"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "A journey is a trip from one place to another."
+        ],
+        "usphone": "'d\u0292\u025dni",
+        "ukphone": "'d\u0292\u025c\u02d0ni"
+    },
+    {
+        "name": "achieve",
+        "trans": [
+            "To achieve means to reach a goal or succeed in doing something."
+        ],
+        "usphone": "\u0259't\u0283iv",
+        "ukphone": "\u0259't\u0283i\u02d0v"
+    },
+    {
+        "name": "benefit",
+        "trans": [
+            "A benefit is something that helps or is good for you."
+        ],
+        "usphone": "'b\u025bn\u026af\u026at",
+        "ukphone": "'ben\u026af\u026at"
+    },
+    {
+        "name": "combine",
+        "trans": [
+            "To combine means to mix or join things together."
+        ],
+        "usphone": "k\u0259m'ba\u026an",
+        "ukphone": "k\u0259m'ba\u026an"
+    },
+    {
+        "name": "discuss",
+        "trans": [
+            "To discuss means to talk about something with others."
+        ],
+        "usphone": "d\u026a'sk\u028cs",
+        "ukphone": "d\u026a'sk\u028cs"
+    },
+    {
+        "name": "effect",
+        "trans": [
+            "An effect is the result of an action or event."
+        ],
+        "usphone": "\u026a'f\u025bkt",
+        "ukphone": "\u026a'fekt"
+    },
+    {
+        "name": "focus",
+        "trans": [
+            "To focus means to pay close attention to something."
+        ],
+        "usphone": "'fok\u0259s",
+        "ukphone": "'f\u0259\u028ak\u0259s"
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "To gather means to collect or bring together."
+        ],
+        "usphone": "'\u0261\u00e6\u00f0\u025a",
+        "ukphone": "'\u0261\u00e6\u00f0\u0259"
+    },
+    {
+        "name": "handle",
+        "trans": [
+            "To handle means to deal with or take care of something."
+        ],
+        "usphone": "'h\u00e6ndl",
+        "ukphone": "'h\u00e6ndl"
+    },
+    {
+        "name": "improve",
+        "trans": [
+            "To improve means to make something better."
+        ],
+        "usphone": "\u026am'pruv",
+        "ukphone": "\u026am'pru\u02d0v"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "A journey is a trip from one place to another."
+        ],
+        "usphone": "'d\u0292\u025dni",
+        "ukphone": "'d\u0292\u025c\u02d0ni"
+    },
+    {
+        "name": "achieve",
+        "trans": [
+            "To achieve means to reach a goal or succeed in doing something."
+        ],
+        "usphone": "\u0259't\u0283iv",
+        "ukphone": "\u0259't\u0283i\u02d0v"
+    },
+    {
+        "name": "benefit",
+        "trans": [
+            "A benefit is something that helps or is good for you."
+        ],
+        "usphone": "'b\u025bn\u026af\u026at",
+        "ukphone": "'ben\u026af\u026at"
+    },
+    {
+        "name": "combine",
+        "trans": [
+            "To combine means to mix or join things together."
+        ],
+        "usphone": "k\u0259m'ba\u026an",
+        "ukphone": "k\u0259m'ba\u026an"
+    },
+    {
+        "name": "discuss",
+        "trans": [
+            "To discuss means to talk about something with others."
+        ],
+        "usphone": "d\u026a'sk\u028cs",
+        "ukphone": "d\u026a'sk\u028cs"
+    },
+    {
+        "name": "effect",
+        "trans": [
+            "An effect is the result of an action or event."
+        ],
+        "usphone": "\u026a'f\u025bkt",
+        "ukphone": "\u026a'fekt"
+    },
+    {
+        "name": "focus",
+        "trans": [
+            "To focus means to pay close attention to something."
+        ],
+        "usphone": "'fok\u0259s",
+        "ukphone": "'f\u0259\u028ak\u0259s"
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "To gather means to collect or bring together."
+        ],
+        "usphone": "'\u0261\u00e6\u00f0\u025a",
+        "ukphone": "'\u0261\u00e6\u00f0\u0259"
+    },
+    {
+        "name": "handle",
+        "trans": [
+            "To handle means to deal with or take care of something."
+        ],
+        "usphone": "'h\u00e6ndl",
+        "ukphone": "'h\u00e6ndl"
+    },
+    {
+        "name": "improve",
+        "trans": [
+            "To improve means to make something better."
+        ],
+        "usphone": "\u026am'pruv",
+        "ukphone": "\u026am'pru\u02d0v"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "A journey is a trip from one place to another."
+        ],
+        "usphone": "'d\u0292\u025dni",
+        "ukphone": "'d\u0292\u025c\u02d0ni"
+    },
+    {
+        "name": "achieve",
+        "trans": [
+            "To achieve means to reach a goal or succeed in doing something."
+        ],
+        "usphone": "\u0259't\u0283iv",
+        "ukphone": "\u0259't\u0283i\u02d0v"
+    },
+    {
+        "name": "benefit",
+        "trans": [
+            "A benefit is something that helps or is good for you."
+        ],
+        "usphone": "'b\u025bn\u026af\u026at",
+        "ukphone": "'ben\u026af\u026at"
+    },
+    {
+        "name": "combine",
+        "trans": [
+            "To combine means to mix or join things together."
+        ],
+        "usphone": "k\u0259m'ba\u026an",
+        "ukphone": "k\u0259m'ba\u026an"
+    },
+    {
+        "name": "discuss",
+        "trans": [
+            "To discuss means to talk about something with others."
+        ],
+        "usphone": "d\u026a'sk\u028cs",
+        "ukphone": "d\u026a'sk\u028cs"
+    },
+    {
+        "name": "effect",
+        "trans": [
+            "An effect is the result of an action or event."
+        ],
+        "usphone": "\u026a'f\u025bkt",
+        "ukphone": "\u026a'fekt"
+    },
+    {
+        "name": "focus",
+        "trans": [
+            "To focus means to pay close attention to something."
+        ],
+        "usphone": "'fok\u0259s",
+        "ukphone": "'f\u0259\u028ak\u0259s"
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "To gather means to collect or bring together."
+        ],
+        "usphone": "'\u0261\u00e6\u00f0\u025a",
+        "ukphone": "'\u0261\u00e6\u00f0\u0259"
+    },
+    {
+        "name": "handle",
+        "trans": [
+            "To handle means to deal with or take care of something."
+        ],
+        "usphone": "'h\u00e6ndl",
+        "ukphone": "'h\u00e6ndl"
+    },
+    {
+        "name": "improve",
+        "trans": [
+            "To improve means to make something better."
+        ],
+        "usphone": "\u026am'pruv",
+        "ukphone": "\u026am'pru\u02d0v"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "A journey is a trip from one place to another."
+        ],
+        "usphone": "'d\u0292\u025dni",
+        "ukphone": "'d\u0292\u025c\u02d0ni"
+    },
+    {
+        "name": "achieve",
+        "trans": [
+            "To achieve means to reach a goal or succeed in doing something."
+        ],
+        "usphone": "\u0259't\u0283iv",
+        "ukphone": "\u0259't\u0283i\u02d0v"
+    },
+    {
+        "name": "benefit",
+        "trans": [
+            "A benefit is something that helps or is good for you."
+        ],
+        "usphone": "'b\u025bn\u026af\u026at",
+        "ukphone": "'ben\u026af\u026at"
+    },
+    {
+        "name": "combine",
+        "trans": [
+            "To combine means to mix or join things together."
+        ],
+        "usphone": "k\u0259m'ba\u026an",
+        "ukphone": "k\u0259m'ba\u026an"
+    },
+    {
+        "name": "discuss",
+        "trans": [
+            "To discuss means to talk about something with others."
+        ],
+        "usphone": "d\u026a'sk\u028cs",
+        "ukphone": "d\u026a'sk\u028cs"
+    },
+    {
+        "name": "effect",
+        "trans": [
+            "An effect is the result of an action or event."
+        ],
+        "usphone": "\u026a'f\u025bkt",
+        "ukphone": "\u026a'fekt"
+    },
+    {
+        "name": "focus",
+        "trans": [
+            "To focus means to pay close attention to something."
+        ],
+        "usphone": "'fok\u0259s",
+        "ukphone": "'f\u0259\u028ak\u0259s"
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "To gather means to collect or bring together."
+        ],
+        "usphone": "'\u0261\u00e6\u00f0\u025a",
+        "ukphone": "'\u0261\u00e6\u00f0\u0259"
+    },
+    {
+        "name": "handle",
+        "trans": [
+            "To handle means to deal with or take care of something."
+        ],
+        "usphone": "'h\u00e6ndl",
+        "ukphone": "'h\u00e6ndl"
+    },
+    {
+        "name": "improve",
+        "trans": [
+            "To improve means to make something better."
+        ],
+        "usphone": "\u026am'pruv",
+        "ukphone": "\u026am'pru\u02d0v"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "A journey is a trip from one place to another."
+        ],
+        "usphone": "'d\u0292\u025dni",
+        "ukphone": "'d\u0292\u025c\u02d0ni"
+    },
+    {
+        "name": "achieve",
+        "trans": [
+            "To achieve means to reach a goal or succeed in doing something."
+        ],
+        "usphone": "\u0259't\u0283iv",
+        "ukphone": "\u0259't\u0283i\u02d0v"
+    },
+    {
+        "name": "benefit",
+        "trans": [
+            "A benefit is something that helps or is good for you."
+        ],
+        "usphone": "'b\u025bn\u026af\u026at",
+        "ukphone": "'ben\u026af\u026at"
+    },
+    {
+        "name": "combine",
+        "trans": [
+            "To combine means to mix or join things together."
+        ],
+        "usphone": "k\u0259m'ba\u026an",
+        "ukphone": "k\u0259m'ba\u026an"
+    },
+    {
+        "name": "discuss",
+        "trans": [
+            "To discuss means to talk about something with others."
+        ],
+        "usphone": "d\u026a'sk\u028cs",
+        "ukphone": "d\u026a'sk\u028cs"
+    },
+    {
+        "name": "effect",
+        "trans": [
+            "An effect is the result of an action or event."
+        ],
+        "usphone": "\u026a'f\u025bkt",
+        "ukphone": "\u026a'fekt"
+    },
+    {
+        "name": "focus",
+        "trans": [
+            "To focus means to pay close attention to something."
+        ],
+        "usphone": "'fok\u0259s",
+        "ukphone": "'f\u0259\u028ak\u0259s"
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "To gather means to collect or bring together."
+        ],
+        "usphone": "'\u0261\u00e6\u00f0\u025a",
+        "ukphone": "'\u0261\u00e6\u00f0\u0259"
+    },
+    {
+        "name": "handle",
+        "trans": [
+            "To handle means to deal with or take care of something."
+        ],
+        "usphone": "'h\u00e6ndl",
+        "ukphone": "'h\u00e6ndl"
+    },
+    {
+        "name": "improve",
+        "trans": [
+            "To improve means to make something better."
+        ],
+        "usphone": "\u026am'pruv",
+        "ukphone": "\u026am'pru\u02d0v"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "A journey is a trip from one place to another."
+        ],
+        "usphone": "'d\u0292\u025dni",
+        "ukphone": "'d\u0292\u025c\u02d0ni"
+    },
+    {
+        "name": "achieve",
+        "trans": [
+            "To achieve means to reach a goal or succeed in doing something."
+        ],
+        "usphone": "\u0259't\u0283iv",
+        "ukphone": "\u0259't\u0283i\u02d0v"
+    },
+    {
+        "name": "benefit",
+        "trans": [
+            "A benefit is something that helps or is good for you."
+        ],
+        "usphone": "'b\u025bn\u026af\u026at",
+        "ukphone": "'ben\u026af\u026at"
+    },
+    {
+        "name": "combine",
+        "trans": [
+            "To combine means to mix or join things together."
+        ],
+        "usphone": "k\u0259m'ba\u026an",
+        "ukphone": "k\u0259m'ba\u026an"
+    },
+    {
+        "name": "discuss",
+        "trans": [
+            "To discuss means to talk about something with others."
+        ],
+        "usphone": "d\u026a'sk\u028cs",
+        "ukphone": "d\u026a'sk\u028cs"
+    },
+    {
+        "name": "effect",
+        "trans": [
+            "An effect is the result of an action or event."
+        ],
+        "usphone": "\u026a'f\u025bkt",
+        "ukphone": "\u026a'fekt"
+    },
+    {
+        "name": "focus",
+        "trans": [
+            "To focus means to pay close attention to something."
+        ],
+        "usphone": "'fok\u0259s",
+        "ukphone": "'f\u0259\u028ak\u0259s"
+    },
+    {
+        "name": "gather",
+        "trans": [
+            "To gather means to collect or bring together."
+        ],
+        "usphone": "'\u0261\u00e6\u00f0\u025a",
+        "ukphone": "'\u0261\u00e6\u00f0\u0259"
+    },
+    {
+        "name": "handle",
+        "trans": [
+            "To handle means to deal with or take care of something."
+        ],
+        "usphone": "'h\u00e6ndl",
+        "ukphone": "'h\u00e6ndl"
+    },
+    {
+        "name": "improve",
+        "trans": [
+            "To improve means to make something better."
+        ],
+        "usphone": "\u026am'pruv",
+        "ukphone": "\u026am'pru\u02d0v"
+    },
+    {
+        "name": "journey",
+        "trans": [
+            "A journey is a trip from one place to another."
+        ],
+        "usphone": "'d\u0292\u025dni",
+        "ukphone": "'d\u0292\u025c\u02d0ni"
+    }
+]

@@ -2,111 +2,111 @@
     {
         "name": "school",
         "trans": [
-            "School is a Grade 3 word."
+            "A place where children go to learn and be taught by teachers"
         ],
-        "usphone": "school",
-        "ukphone": "school"
+        "usphone": "skool",
+        "ukphone": "skool"
     },
     {
         "name": "science",
         "trans": [
-            "Science is a Grade 3 word."
+            "The study of the natural world through observation and experiments"
         ],
-        "usphone": "science",
-        "ukphone": "science"
+        "usphone": "sy-uhns",
+        "ukphone": "sy-uhns"
     },
     {
         "name": "season",
         "trans": [
-            "Season is a Grade 3 word."
+            "One of the four parts of the year: spring, summer, fall, or winter"
         ],
-        "usphone": "season",
-        "ukphone": "season"
+        "usphone": "see-zuhn",
+        "ukphone": "see-zuhn"
     },
     {
         "name": "secret",
         "trans": [
-            "Secret is a Grade 3 word."
+            "Something that is kept hidden or known by only a few people"
         ],
-        "usphone": "secret",
-        "ukphone": "secret"
+        "usphone": "see-krit",
+        "ukphone": "see-krit"
     },
     {
         "name": "sentence",
         "trans": [
-            "Sentence is a Grade 3 word."
+            "A group of words that expresses a complete thought"
         ],
-        "usphone": "sentence",
-        "ukphone": "sentence"
+        "usphone": "sen-tuhns",
+        "ukphone": "sen-tuhns"
     },
     {
         "name": "shape",
         "trans": [
-            "Shape is a Grade 3 word."
+            "The form or outline of something, like a circle, square, or triangle"
         ],
-        "usphone": "shape",
-        "ukphone": "shape"
+        "usphone": "shayp",
+        "ukphone": "shayp"
     },
     {
         "name": "shout",
         "trans": [
-            "Shout is a Grade 3 word."
+            "To speak or cry out very loudly"
         ],
-        "usphone": "shout",
-        "ukphone": "shout"
+        "usphone": "showt",
+        "ukphone": "showt"
     },
     {
         "name": "silent",
         "trans": [
-            "Silent is a Grade 3 word."
+            "Making no sound; completely quiet"
         ],
-        "usphone": "silent",
-        "ukphone": "silent"
+        "usphone": "sy-luhnt",
+        "ukphone": "sy-luhnt"
     },
     {
         "name": "simple",
         "trans": [
-            "Simple is a Grade 3 word."
+            "Easy to understand or do; not complicated"
         ],
-        "usphone": "simple",
-        "ukphone": "simple"
+        "usphone": "sim-puhl",
+        "ukphone": "sim-puhl"
     },
     {
         "name": "since",
         "trans": [
-            "Since is a Grade 3 word."
+            "From a particular time in the past until now"
         ],
-        "usphone": "since",
-        "ukphone": "since"
+        "usphone": "sins",
+        "ukphone": "sins"
     },
     {
         "name": "snow",
         "trans": [
-            "Snow is a Grade 3 word."
+            "White frozen flakes of water that fall from the sky in cold weather"
         ],
-        "usphone": "snow",
-        "ukphone": "snow"
+        "usphone": "snoh",
+        "ukphone": "snoh"
     },
     {
         "name": "someone",
         "trans": [
-            "Someone is a Grade 3 word."
+            "A person, but you don't know or say who exactly"
         ],
-        "usphone": "someone",
-        "ukphone": "someone"
+        "usphone": "sum-wun",
+        "ukphone": "sum-wun"
     },
     {
         "name": "sometimes",
         "trans": [
-            "Sometimes is a Grade 3 word."
+            "On some occasions but not always"
         ],
-        "usphone": "sometimes",
-        "ukphone": "sometimes"
+        "usphone": "sum-tymz",
+        "ukphone": "sum-tymz"
     },
     {
         "name": "soon",
         "trans": [
-            "Soon is a Grade 3 word."
+            "In a short time from now; before long"
         ],
         "usphone": "soon",
         "ukphone": "soon"
@@ -114,23 +114,23 @@
     {
         "name": "sound",
         "trans": [
-            "Sound is a Grade 3 word."
+            "Something that you hear"
         ],
-        "usphone": "sound",
-        "ukphone": "sound"
+        "usphone": "sownd",
+        "ukphone": "sownd"
     },
     {
         "name": "space",
         "trans": [
-            "Space is a Grade 3 word."
+            "An empty area or room; also the area beyond Earth where stars and planets are"
         ],
-        "usphone": "space",
-        "ukphone": "space"
+        "usphone": "spays",
+        "ukphone": "spays"
     },
     {
         "name": "spring",
         "trans": [
-            "Spring is a Grade 3 word."
+            "The season between winter and summer when flowers bloom"
         ],
         "usphone": "spring",
         "ukphone": "spring"
@@ -138,7 +138,7 @@
     {
         "name": "stand",
         "trans": [
-            "Stand is a Grade 3 word."
+            "To be upright on your feet; not sitting or lying down"
         ],
         "usphone": "stand",
         "ukphone": "stand"
@@ -146,55 +146,55 @@
     {
         "name": "station",
         "trans": [
-            "Station is a Grade 3 word."
+            "A place where trains or buses stop to let people on and off"
         ],
-        "usphone": "station",
-        "ukphone": "station"
+        "usphone": "stay-shuhn",
+        "ukphone": "stay-shuhn"
     },
     {
         "name": "story",
         "trans": [
-            "Story is a Grade 3 word."
+            "A tale or account of events, real or imaginary"
         ],
-        "usphone": "story",
-        "ukphone": "story"
+        "usphone": "stor-ee",
+        "ukphone": "stor-ee"
     },
     {
         "name": "study",
         "trans": [
-            "Study is a Grade 3 word."
+            "To spend time learning about something"
         ],
-        "usphone": "study",
-        "ukphone": "study"
+        "usphone": "stud-ee",
+        "ukphone": "stud-ee"
     },
     {
         "name": "sudden",
         "trans": [
-            "Sudden is a Grade 3 word."
+            "Happening quickly and unexpectedly"
         ],
-        "usphone": "sudden",
-        "ukphone": "sudden"
+        "usphone": "sud-uhn",
+        "ukphone": "sud-uhn"
     },
     {
         "name": "summer",
         "trans": [
-            "Summer is a Grade 3 word."
+            "The warmest season of the year, between spring and fall"
         ],
-        "usphone": "summer",
-        "ukphone": "summer"
+        "usphone": "sum-er",
+        "ukphone": "sum-er"
     },
     {
         "name": "surprise",
         "trans": [
-            "Surprise is a Grade 3 word."
+            "An unexpected event or gift that makes you feel amazed"
         ],
-        "usphone": "surprise",
-        "ukphone": "surprise"
+        "usphone": "ser-pryz",
+        "ukphone": "ser-pryz"
     },
     {
         "name": "swim",
         "trans": [
-            "Swim is a Grade 3 word."
+            "To move through water using your arms and legs"
         ],
         "usphone": "swim",
         "ukphone": "swim"
@@ -202,239 +202,239 @@
     {
         "name": "table",
         "trans": [
-            "Table is a Grade 3 word."
+            "A piece of furniture with a flat top and legs, used for eating or working"
         ],
-        "usphone": "table",
-        "ukphone": "table"
+        "usphone": "tay-buhl",
+        "ukphone": "tay-buhl"
     },
     {
         "name": "teacher",
         "trans": [
-            "Teacher is a Grade 3 word."
+            "A person whose job is to help students learn"
         ],
-        "usphone": "teacher",
-        "ukphone": "teacher"
+        "usphone": "tee-cher",
+        "ukphone": "tee-cher"
     },
     {
         "name": "together",
         "trans": [
-            "Together is a Grade 3 word."
+            "With each other; in the same place or at the same time"
         ],
-        "usphone": "together",
-        "ukphone": "together"
+        "usphone": "tuh-geth-er",
+        "ukphone": "tuh-geth-er"
     },
     {
         "name": "tomorrow",
         "trans": [
-            "Tomorrow is a Grade 3 word."
+            "The day after today"
         ],
-        "usphone": "tomorrow",
-        "ukphone": "tomorrow"
+        "usphone": "tuh-mor-oh",
+        "ukphone": "tuh-mor-oh"
     },
     {
         "name": "tonight",
         "trans": [
-            "Tonight is a Grade 3 word."
+            "The night of this day; the coming night"
         ],
-        "usphone": "tonight",
-        "ukphone": "tonight"
+        "usphone": "tuh-nyt",
+        "ukphone": "tuh-nyt"
     },
     {
         "name": "touch",
         "trans": [
-            "Touch is a Grade 3 word."
+            "To feel something with your hands or fingers"
         ],
-        "usphone": "touch",
-        "ukphone": "touch"
+        "usphone": "tuch",
+        "ukphone": "tuch"
     },
     {
         "name": "travel",
         "trans": [
-            "Travel is a Grade 3 word."
+            "To go from one place to another, especially to far away places"
         ],
-        "usphone": "travel",
-        "ukphone": "travel"
+        "usphone": "trav-uhl",
+        "ukphone": "trav-uhl"
     },
     {
         "name": "trouble",
         "trans": [
-            "Trouble is a Grade 3 word."
+            "Problems or difficulties; a situation that causes worry"
         ],
-        "usphone": "trouble",
-        "ukphone": "trouble"
+        "usphone": "trub-uhl",
+        "ukphone": "trub-uhl"
     },
     {
         "name": "truth",
         "trans": [
-            "Truth is a Grade 3 word."
+            "What is real and correct; the opposite of a lie"
         ],
-        "usphone": "truth",
-        "ukphone": "truth"
+        "usphone": "trooth",
+        "ukphone": "trooth"
     },
     {
         "name": "uncle",
         "trans": [
-            "Uncle is a Grade 3 word."
+            "The brother of your mother or father, or the husband of your aunt"
         ],
-        "usphone": "uncle",
-        "ukphone": "uncle"
+        "usphone": "ung-kuhl",
+        "ukphone": "ung-kuhl"
     },
     {
         "name": "understand",
         "trans": [
-            "Understand is a Grade 3 word."
+            "To know the meaning of something or how something works"
         ],
-        "usphone": "understand",
-        "ukphone": "understand"
+        "usphone": "un-der-stand",
+        "ukphone": "un-der-stand"
     },
     {
         "name": "useful",
         "trans": [
-            "Useful is a Grade 3 word."
+            "Helpful; able to be used for a good purpose"
         ],
-        "usphone": "useful",
-        "ukphone": "useful"
+        "usphone": "yoos-fuhl",
+        "ukphone": "yoos-fuhl"
     },
     {
         "name": "usual",
         "trans": [
-            "Usual is a Grade 3 word."
+            "Normal; what happens most of the time"
         ],
-        "usphone": "usual",
-        "ukphone": "usual"
+        "usphone": "yoo-zhoo-uhl",
+        "ukphone": "yoo-zhoo-uhl"
     },
     {
         "name": "vacation",
         "trans": [
-            "Vacation is a Grade 3 word."
+            "A time when you don't go to school or work and can relax or travel"
         ],
-        "usphone": "vacation",
-        "ukphone": "vacation"
+        "usphone": "vay-kay-shuhn",
+        "ukphone": "vay-kay-shuhn"
     },
     {
         "name": "valley",
         "trans": [
-            "Valley is a Grade 3 word."
+            "A low area of land between hills or mountains"
         ],
-        "usphone": "valley",
-        "ukphone": "valley"
+        "usphone": "val-ee",
+        "ukphone": "val-ee"
     },
     {
         "name": "village",
         "trans": [
-            "Village is a Grade 3 word."
+            "A small community or group of houses in the countryside, smaller than a town"
         ],
-        "usphone": "village",
-        "ukphone": "village"
+        "usphone": "vil-ij",
+        "ukphone": "vil-ij"
     },
     {
         "name": "visit",
         "trans": [
-            "Visit is a Grade 3 word."
+            "To go to see a person or place for a short time"
         ],
-        "usphone": "visit",
-        "ukphone": "visit"
+        "usphone": "viz-it",
+        "ukphone": "viz-it"
     },
     {
         "name": "voice",
         "trans": [
-            "Voice is a Grade 3 word."
+            "The sound you make when you speak or sing"
         ],
-        "usphone": "voice",
-        "ukphone": "voice"
+        "usphone": "voys",
+        "ukphone": "voys"
     },
     {
         "name": "wait",
         "trans": [
-            "Wait is a Grade 3 word."
+            "To stay in a place until something happens or someone arrives"
         ],
-        "usphone": "wait",
-        "ukphone": "wait"
+        "usphone": "wayt",
+        "ukphone": "wayt"
     },
     {
         "name": "watch",
         "trans": [
-            "Watch is a Grade 3 word."
+            "To look at something carefully for a period of time"
         ],
-        "usphone": "watch",
-        "ukphone": "watch"
+        "usphone": "woch",
+        "ukphone": "woch"
     },
     {
         "name": "waterfall",
         "trans": [
-            "Waterfall is a Grade 3 word."
+            "A place where water flows over the edge of a cliff or rock"
         ],
-        "usphone": "waterfall",
-        "ukphone": "waterfall"
+        "usphone": "waw-ter-fawl",
+        "ukphone": "waw-ter-fawl"
     },
     {
         "name": "weather",
         "trans": [
-            "Weather is a Grade 3 word."
+            "The condition outside, like sunny, rainy, or snowy"
         ],
-        "usphone": "weather",
-        "ukphone": "weather"
+        "usphone": "weth-er",
+        "ukphone": "weth-er"
     },
     {
         "name": "welcome",
         "trans": [
-            "Welcome is a Grade 3 word."
+            "To greet someone in a friendly way when they arrive"
         ],
-        "usphone": "welcome",
-        "ukphone": "welcome"
+        "usphone": "wel-kum",
+        "ukphone": "wel-kum"
     },
     {
         "name": "whisper",
         "trans": [
-            "Whisper is a Grade 3 word."
+            "To speak very quietly, using your breath more than your voice"
         ],
-        "usphone": "whisper",
-        "ukphone": "whisper"
+        "usphone": "hwis-per",
+        "ukphone": "wis-per"
     },
     {
         "name": "window",
         "trans": [
-            "Window is a Grade 3 word."
+            "An opening in a wall with glass that lets light in and lets you see outside"
         ],
-        "usphone": "window",
-        "ukphone": "window"
+        "usphone": "win-doh",
+        "ukphone": "win-doh"
     },
     {
         "name": "winter",
         "trans": [
-            "Winter is a Grade 3 word."
+            "The coldest season of the year, between fall and spring"
         ],
-        "usphone": "winter",
-        "ukphone": "winter"
+        "usphone": "win-ter",
+        "ukphone": "win-ter"
     },
     {
         "name": "without",
         "trans": [
-            "Without is a Grade 3 word."
+            "Not having or not using something"
         ],
-        "usphone": "without",
-        "ukphone": "without"
+        "usphone": "with-owt",
+        "ukphone": "with-owt"
     },
     {
         "name": "wonder",
         "trans": [
-            "Wonder is a Grade 3 word."
+            "To think about something and want to know more; to be curious"
         ],
-        "usphone": "wonder",
-        "ukphone": "wonder"
+        "usphone": "wun-der",
+        "ukphone": "wun-der"
     },
     {
         "name": "wonderful",
         "trans": [
-            "Wonderful is a Grade 3 word."
+            "Extremely good; making you feel very happy"
         ],
-        "usphone": "wonderful",
-        "ukphone": "wonderful"
+        "usphone": "wun-der-fuhl",
+        "ukphone": "wun-der-fuhl"
     },
     {
         "name": "wood",
         "trans": [
-            "Wood is a Grade 3 word."
+            "The hard material that comes from trees"
         ],
         "usphone": "wood",
         "ukphone": "wood"
@@ -442,135 +442,135 @@
     {
         "name": "world",
         "trans": [
-            "World is a Grade 3 word."
+            "The Earth and all the people and places on it"
         ],
-        "usphone": "world",
-        "ukphone": "world"
+        "usphone": "wurld",
+        "ukphone": "wurld"
     },
     {
         "name": "worry",
         "trans": [
-            "Worry is a Grade 3 word."
+            "To feel anxious or concerned about something"
         ],
-        "usphone": "worry",
-        "ukphone": "worry"
+        "usphone": "wur-ee",
+        "ukphone": "wur-ee"
     },
     {
         "name": "wrong",
         "trans": [
-            "Wrong is a Grade 3 word."
+            "Not correct; not right; a mistake"
         ],
-        "usphone": "wrong",
-        "ukphone": "wrong"
+        "usphone": "rawng",
+        "ukphone": "rong"
     },
     {
         "name": "yesterday",
         "trans": [
-            "Yesterday is a Grade 3 word."
+            "The day before today"
         ],
-        "usphone": "yesterday",
-        "ukphone": "yesterday"
+        "usphone": "yes-ter-day",
+        "ukphone": "yes-ter-day"
     },
     {
         "name": "young",
         "trans": [
-            "Young is a Grade 3 word."
+            "Not old; in an early stage of life"
         ],
-        "usphone": "young",
-        "ukphone": "young"
+        "usphone": "yung",
+        "ukphone": "yung"
     },
     {
         "name": "zebra",
         "trans": [
-            "Zebra is a Grade 3 word."
+            "An African animal like a horse with black and white stripes"
         ],
-        "usphone": "zebra",
-        "ukphone": "zebra"
+        "usphone": "zee-bruh",
+        "ukphone": "zeb-ruh"
     },
     {
         "name": "across",
         "trans": [
-            "Across is a Grade 3 word."
+            "From one side to the other side of something"
         ],
-        "usphone": "across",
-        "ukphone": "across"
+        "usphone": "uh-kross",
+        "ukphone": "uh-kross"
     },
     {
         "name": "afraid",
         "trans": [
-            "Afraid is a Grade 3 word."
+            "Feeling fear or worry about something"
         ],
-        "usphone": "afraid",
-        "ukphone": "afraid"
+        "usphone": "uh-frayd",
+        "ukphone": "uh-frayd"
     },
     {
         "name": "angry",
         "trans": [
-            "Angry is a Grade 3 word."
+            "Feeling very annoyed or mad about something"
         ],
-        "usphone": "angry",
-        "ukphone": "angry"
+        "usphone": "ang-gree",
+        "ukphone": "ang-gree"
     },
     {
         "name": "anyone",
         "trans": [
-            "Anyone is a Grade 3 word."
+            "Any person at all; it doesn't matter who"
         ],
-        "usphone": "anyone",
-        "ukphone": "anyone"
+        "usphone": "en-ee-wun",
+        "ukphone": "en-ee-wun"
     },
     {
         "name": "arrive",
         "trans": [
-            "Arrive is a Grade 3 word."
+            "To reach a place; to get somewhere"
         ],
-        "usphone": "arrive",
-        "ukphone": "arrive"
+        "usphone": "uh-ryv",
+        "ukphone": "uh-ryv"
     },
     {
         "name": "balloon",
         "trans": [
-            "Balloon is a Grade 3 word."
+            "A colorful rubber bag that is filled with air or gas and floats"
         ],
-        "usphone": "balloon",
-        "ukphone": "balloon"
+        "usphone": "buh-loon",
+        "ukphone": "buh-loon"
     },
     {
         "name": "beautiful",
         "trans": [
-            "Beautiful is a Grade 3 word."
+            "Very pretty or pleasing to look at"
         ],
-        "usphone": "beautiful",
-        "ukphone": "beautiful"
+        "usphone": "byoo-tuh-fuhl",
+        "ukphone": "byoo-tuh-fuhl"
     },
     {
         "name": "believe",
         "trans": [
-            "Believe is a Grade 3 word."
+            "To think that something is true or real"
         ],
-        "usphone": "believe",
-        "ukphone": "believe"
+        "usphone": "buh-leev",
+        "ukphone": "buh-leev"
     },
     {
         "name": "between",
         "trans": [
-            "Between is a Grade 3 word."
+            "In the space or time separating two things"
         ],
-        "usphone": "between",
-        "ukphone": "between"
+        "usphone": "bih-tween",
+        "ukphone": "bih-tween"
     },
     {
         "name": "bright",
         "trans": [
-            "Bright is a Grade 3 word."
+            "Giving out a lot of light; shining strongly"
         ],
-        "usphone": "bright",
-        "ukphone": "bright"
+        "usphone": "bryt",
+        "ukphone": "bryt"
     },
     {
         "name": "bring",
         "trans": [
-            "Bring is a Grade 3 word."
+            "To carry or take something with you to a place"
         ],
         "usphone": "bring",
         "ukphone": "bring"
@@ -578,225 +578,225 @@
     {
         "name": "butterfly",
         "trans": [
-            "Butterfly is a Grade 3 word."
+            "An insect with large colorful wings"
         ],
-        "usphone": "butterfly",
-        "ukphone": "butterfly"
+        "usphone": "but-er-fly",
+        "ukphone": "but-er-fly"
     },
     {
         "name": "castle",
         "trans": [
-            "Castle is a Grade 3 word."
+            "A large strong building with towers and thick walls, often where kings and queens lived"
         ],
-        "usphone": "castle",
-        "ukphone": "castle"
+        "usphone": "kas-uhl",
+        "ukphone": "kah-suhl"
     },
     {
         "name": "change",
         "trans": [
-            "Change is a Grade 3 word."
+            "To make something different; to become different"
         ],
-        "usphone": "change",
-        "ukphone": "change"
+        "usphone": "chaynj",
+        "ukphone": "chaynj"
     },
     {
         "name": "clothes",
         "trans": [
-            "Clothes is a Grade 3 word."
+            "Things you wear on your body, like shirts, pants, and dresses"
         ],
-        "usphone": "clothes",
-        "ukphone": "clothes"
+        "usphone": "klohz",
+        "ukphone": "klohz"
     },
     {
         "name": "complete",
         "trans": [
-            "Complete is a Grade 3 word."
+            "Having all the necessary parts; finished"
         ],
-        "usphone": "complete",
-        "ukphone": "complete"
+        "usphone": "kum-pleet",
+        "ukphone": "kum-pleet"
     },
     {
         "name": "country",
         "trans": [
-            "Country is a Grade 3 word."
+            "A nation with its own government; also, land outside of cities"
         ],
-        "usphone": "country",
-        "ukphone": "country"
+        "usphone": "kun-tree",
+        "ukphone": "kun-tree"
     },
     {
         "name": "cousin",
         "trans": [
-            "Cousin is a Grade 3 word."
+            "The child of your aunt or uncle"
         ],
-        "usphone": "cousin",
-        "ukphone": "cousin"
+        "usphone": "kuz-in",
+        "ukphone": "kuz-in"
     },
     {
         "name": "create",
         "trans": [
-            "Create is a Grade 3 word."
+            "To make something new"
         ],
-        "usphone": "create",
-        "ukphone": "create"
+        "usphone": "kree-ayt",
+        "ukphone": "kree-ayt"
     },
     {
         "name": "decide",
         "trans": [
-            "Decide is a Grade 3 word."
+            "To make a choice about something"
         ],
-        "usphone": "decide",
-        "ukphone": "decide"
+        "usphone": "dih-syd",
+        "ukphone": "dih-syd"
     },
     {
         "name": "describe",
         "trans": [
-            "Describe is a Grade 3 word."
+            "To tell or write what something or someone is like"
         ],
-        "usphone": "describe",
-        "ukphone": "describe"
+        "usphone": "dih-skryb",
+        "ukphone": "dih-skryb"
     },
     {
         "name": "discover",
         "trans": [
-            "Discover is a Grade 3 word."
+            "To find or learn something for the first time"
         ],
-        "usphone": "discover",
-        "ukphone": "discover"
+        "usphone": "dis-kuv-er",
+        "ukphone": "dis-kuv-er"
     },
     {
         "name": "doctor",
         "trans": [
-            "Doctor is a Grade 3 word."
+            "A person who helps sick or injured people get better"
         ],
-        "usphone": "doctor",
-        "ukphone": "doctor"
+        "usphone": "dok-ter",
+        "ukphone": "dok-ter"
     },
     {
         "name": "dream",
         "trans": [
-            "Dream is a Grade 3 word."
+            "Pictures and events in your mind while you sleep; also a hope for the future"
         ],
-        "usphone": "dream",
-        "ukphone": "dream"
+        "usphone": "dreem",
+        "ukphone": "dreem"
     },
     {
         "name": "during",
         "trans": [
-            "During is a Grade 3 word."
+            "Throughout the time that something is happening"
         ],
-        "usphone": "during",
-        "ukphone": "during"
+        "usphone": "dur-ing",
+        "ukphone": "dyur-ing"
     },
     {
         "name": "early",
         "trans": [
-            "Early is a Grade 3 word."
+            "Near the beginning of a time period; before the usual time"
         ],
-        "usphone": "early",
-        "ukphone": "early"
+        "usphone": "ur-lee",
+        "ukphone": "ur-lee"
     },
     {
         "name": "enjoy",
         "trans": [
-            "Enjoy is a Grade 3 word."
+            "To get pleasure from something; to like doing something"
         ],
-        "usphone": "enjoy",
-        "ukphone": "enjoy"
+        "usphone": "en-joy",
+        "ukphone": "en-joy"
     },
     {
         "name": "enough",
         "trans": [
-            "Enough is a Grade 3 word."
+            "As much as needed; the right amount"
         ],
-        "usphone": "enough",
-        "ukphone": "enough"
+        "usphone": "ih-nuf",
+        "ukphone": "ih-nuf"
     },
     {
         "name": "evening",
         "trans": [
-            "Evening is a Grade 3 word."
+            "The time of day between afternoon and night"
         ],
-        "usphone": "evening",
-        "ukphone": "evening"
+        "usphone": "eev-ning",
+        "ukphone": "eev-ning"
     },
     {
         "name": "family",
         "trans": [
-            "Family is a Grade 3 word."
+            "A group of people related to each other, especially parents and children"
         ],
-        "usphone": "family",
-        "ukphone": "family"
+        "usphone": "fam-uh-lee",
+        "ukphone": "fam-uh-lee"
     },
     {
         "name": "famous",
         "trans": [
-            "Famous is a Grade 3 word."
+            "Known by many people; well-known"
         ],
-        "usphone": "famous",
-        "ukphone": "famous"
+        "usphone": "fay-mus",
+        "ukphone": "fay-mus"
     },
     {
         "name": "finish",
         "trans": [
-            "Finish is a Grade 3 word."
+            "To complete something; to reach the end"
         ],
-        "usphone": "finish",
-        "ukphone": "finish"
+        "usphone": "fin-ish",
+        "ukphone": "fin-ish"
     },
     {
         "name": "follow",
         "trans": [
-            "Follow is a Grade 3 word."
+            "To go behind someone or something; to come after"
         ],
-        "usphone": "follow",
-        "ukphone": "follow"
+        "usphone": "fol-oh",
+        "ukphone": "fol-oh"
     },
     {
         "name": "friend",
         "trans": [
-            "Friend is a Grade 3 word."
+            "A person you like and enjoy spending time with"
         ],
-        "usphone": "friend",
-        "ukphone": "friend"
+        "usphone": "frend",
+        "ukphone": "frend"
     },
     {
         "name": "future",
         "trans": [
-            "Future is a Grade 3 word."
+            "The time that will come after now; what hasn't happened yet"
         ],
-        "usphone": "future",
-        "ukphone": "future"
+        "usphone": "fyoo-cher",
+        "ukphone": "fyoo-cher"
     },
     {
         "name": "garden",
         "trans": [
-            "Garden is a Grade 3 word."
+            "A piece of land where flowers, vegetables, or fruits are grown"
         ],
-        "usphone": "garden",
-        "ukphone": "garden"
+        "usphone": "gar-duhn",
+        "ukphone": "gar-duhn"
     },
     {
         "name": "gentle",
         "trans": [
-            "Gentle is a Grade 3 word."
+            "Kind, calm, and careful; not rough or violent"
         ],
-        "usphone": "gentle",
-        "ukphone": "gentle"
+        "usphone": "jen-tuhl",
+        "ukphone": "jen-tuhl"
     },
     {
         "name": "giant",
         "trans": [
-            "Giant is a Grade 3 word."
+            "Extremely large; also a very big creature in stories"
         ],
-        "usphone": "giant",
-        "ukphone": "giant"
+        "usphone": "jy-uhnt",
+        "ukphone": "jy-uhnt"
     },
     {
         "name": "group",
         "trans": [
-            "Group is a Grade 3 word."
+            "A number of people or things that are together"
         ],
-        "usphone": "group",
-        "ukphone": "group"
+        "usphone": "groop",
+        "ukphone": "groop"
     }
 ]

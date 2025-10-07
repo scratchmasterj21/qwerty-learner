@@ -1,0 +1,802 @@
+[
+    {
+        "name": "knowledge",
+        "trans": [
+            "Knowledge is information or understanding that you get from learning."
+        ],
+        "usphone": "'n\u0251l\u026ad\u0292",
+        "ukphone": "'n\u0252l\u026ad\u0292"
+    },
+    {
+        "name": "limit",
+        "trans": [
+            "A limit is a point that you cannot go beyond."
+        ],
+        "usphone": "'l\u026am\u026at",
+        "ukphone": "'l\u026am\u026at"
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "To maintain means to keep something in good condition."
+        ],
+        "usphone": "men'ten",
+        "ukphone": "me\u026an'te\u026an"
+    },
+    {
+        "name": "notice",
+        "trans": [
+            "To notice means to see or become aware of something."
+        ],
+        "usphone": "'not\u026as",
+        "ukphone": "'n\u0259\u028at\u026as"
+    },
+    {
+        "name": "organize",
+        "trans": [
+            "To organize means to plan or arrange things neatly."
+        ],
+        "usphone": "'\u0254r\u0261\u0259na\u026az",
+        "ukphone": "'\u0254\u02d0\u0261\u0259na\u026az"
+    },
+    {
+        "name": "participate",
+        "trans": [
+            "To participate means to take part in something."
+        ],
+        "usphone": "p\u0251r't\u026as\u0259pet",
+        "ukphone": "p\u0251\u02d0't\u026as\u026ape\u026at"
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "Quality means how good or bad something is."
+        ],
+        "usphone": "'kw\u0251l\u0259ti",
+        "ukphone": "'kw\u0252l\u0259ti"
+    },
+    {
+        "name": "reflect",
+        "trans": [
+            "To reflect means to show or think deeply about something."
+        ],
+        "usphone": "r\u026a'fl\u025bkt",
+        "ukphone": "r\u026a'flekt"
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "Strength means being strong or powerful."
+        ],
+        "usphone": "str\u025b\u014bk\u03b8",
+        "ukphone": "stre\u014b(k)\u03b8"
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "To transport means to carry people or goods from one place to another."
+        ],
+        "usphone": "tr\u00e6ns'p\u0254rt",
+        "ukphone": "tr\u00e6ns'p\u0254\u02d0t"
+    },
+    {
+        "name": "knowledge",
+        "trans": [
+            "Knowledge is information or understanding that you get from learning."
+        ],
+        "usphone": "'n\u0251l\u026ad\u0292",
+        "ukphone": "'n\u0252l\u026ad\u0292"
+    },
+    {
+        "name": "limit",
+        "trans": [
+            "A limit is a point that you cannot go beyond."
+        ],
+        "usphone": "'l\u026am\u026at",
+        "ukphone": "'l\u026am\u026at"
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "To maintain means to keep something in good condition."
+        ],
+        "usphone": "men'ten",
+        "ukphone": "me\u026an'te\u026an"
+    },
+    {
+        "name": "notice",
+        "trans": [
+            "To notice means to see or become aware of something."
+        ],
+        "usphone": "'not\u026as",
+        "ukphone": "'n\u0259\u028at\u026as"
+    },
+    {
+        "name": "organize",
+        "trans": [
+            "To organize means to plan or arrange things neatly."
+        ],
+        "usphone": "'\u0254r\u0261\u0259na\u026az",
+        "ukphone": "'\u0254\u02d0\u0261\u0259na\u026az"
+    },
+    {
+        "name": "participate",
+        "trans": [
+            "To participate means to take part in something."
+        ],
+        "usphone": "p\u0251r't\u026as\u0259pet",
+        "ukphone": "p\u0251\u02d0't\u026as\u026ape\u026at"
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "Quality means how good or bad something is."
+        ],
+        "usphone": "'kw\u0251l\u0259ti",
+        "ukphone": "'kw\u0252l\u0259ti"
+    },
+    {
+        "name": "reflect",
+        "trans": [
+            "To reflect means to show or think deeply about something."
+        ],
+        "usphone": "r\u026a'fl\u025bkt",
+        "ukphone": "r\u026a'flekt"
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "Strength means being strong or powerful."
+        ],
+        "usphone": "str\u025b\u014bk\u03b8",
+        "ukphone": "stre\u014b(k)\u03b8"
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "To transport means to carry people or goods from one place to another."
+        ],
+        "usphone": "tr\u00e6ns'p\u0254rt",
+        "ukphone": "tr\u00e6ns'p\u0254\u02d0t"
+    },
+    {
+        "name": "knowledge",
+        "trans": [
+            "Knowledge is information or understanding that you get from learning."
+        ],
+        "usphone": "'n\u0251l\u026ad\u0292",
+        "ukphone": "'n\u0252l\u026ad\u0292"
+    },
+    {
+        "name": "limit",
+        "trans": [
+            "A limit is a point that you cannot go beyond."
+        ],
+        "usphone": "'l\u026am\u026at",
+        "ukphone": "'l\u026am\u026at"
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "To maintain means to keep something in good condition."
+        ],
+        "usphone": "men'ten",
+        "ukphone": "me\u026an'te\u026an"
+    },
+    {
+        "name": "notice",
+        "trans": [
+            "To notice means to see or become aware of something."
+        ],
+        "usphone": "'not\u026as",
+        "ukphone": "'n\u0259\u028at\u026as"
+    },
+    {
+        "name": "organize",
+        "trans": [
+            "To organize means to plan or arrange things neatly."
+        ],
+        "usphone": "'\u0254r\u0261\u0259na\u026az",
+        "ukphone": "'\u0254\u02d0\u0261\u0259na\u026az"
+    },
+    {
+        "name": "participate",
+        "trans": [
+            "To participate means to take part in something."
+        ],
+        "usphone": "p\u0251r't\u026as\u0259pet",
+        "ukphone": "p\u0251\u02d0't\u026as\u026ape\u026at"
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "Quality means how good or bad something is."
+        ],
+        "usphone": "'kw\u0251l\u0259ti",
+        "ukphone": "'kw\u0252l\u0259ti"
+    },
+    {
+        "name": "reflect",
+        "trans": [
+            "To reflect means to show or think deeply about something."
+        ],
+        "usphone": "r\u026a'fl\u025bkt",
+        "ukphone": "r\u026a'flekt"
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "Strength means being strong or powerful."
+        ],
+        "usphone": "str\u025b\u014bk\u03b8",
+        "ukphone": "stre\u014b(k)\u03b8"
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "To transport means to carry people or goods from one place to another."
+        ],
+        "usphone": "tr\u00e6ns'p\u0254rt",
+        "ukphone": "tr\u00e6ns'p\u0254\u02d0t"
+    },
+    {
+        "name": "knowledge",
+        "trans": [
+            "Knowledge is information or understanding that you get from learning."
+        ],
+        "usphone": "'n\u0251l\u026ad\u0292",
+        "ukphone": "'n\u0252l\u026ad\u0292"
+    },
+    {
+        "name": "limit",
+        "trans": [
+            "A limit is a point that you cannot go beyond."
+        ],
+        "usphone": "'l\u026am\u026at",
+        "ukphone": "'l\u026am\u026at"
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "To maintain means to keep something in good condition."
+        ],
+        "usphone": "men'ten",
+        "ukphone": "me\u026an'te\u026an"
+    },
+    {
+        "name": "notice",
+        "trans": [
+            "To notice means to see or become aware of something."
+        ],
+        "usphone": "'not\u026as",
+        "ukphone": "'n\u0259\u028at\u026as"
+    },
+    {
+        "name": "organize",
+        "trans": [
+            "To organize means to plan or arrange things neatly."
+        ],
+        "usphone": "'\u0254r\u0261\u0259na\u026az",
+        "ukphone": "'\u0254\u02d0\u0261\u0259na\u026az"
+    },
+    {
+        "name": "participate",
+        "trans": [
+            "To participate means to take part in something."
+        ],
+        "usphone": "p\u0251r't\u026as\u0259pet",
+        "ukphone": "p\u0251\u02d0't\u026as\u026ape\u026at"
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "Quality means how good or bad something is."
+        ],
+        "usphone": "'kw\u0251l\u0259ti",
+        "ukphone": "'kw\u0252l\u0259ti"
+    },
+    {
+        "name": "reflect",
+        "trans": [
+            "To reflect means to show or think deeply about something."
+        ],
+        "usphone": "r\u026a'fl\u025bkt",
+        "ukphone": "r\u026a'flekt"
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "Strength means being strong or powerful."
+        ],
+        "usphone": "str\u025b\u014bk\u03b8",
+        "ukphone": "stre\u014b(k)\u03b8"
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "To transport means to carry people or goods from one place to another."
+        ],
+        "usphone": "tr\u00e6ns'p\u0254rt",
+        "ukphone": "tr\u00e6ns'p\u0254\u02d0t"
+    },
+    {
+        "name": "knowledge",
+        "trans": [
+            "Knowledge is information or understanding that you get from learning."
+        ],
+        "usphone": "'n\u0251l\u026ad\u0292",
+        "ukphone": "'n\u0252l\u026ad\u0292"
+    },
+    {
+        "name": "limit",
+        "trans": [
+            "A limit is a point that you cannot go beyond."
+        ],
+        "usphone": "'l\u026am\u026at",
+        "ukphone": "'l\u026am\u026at"
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "To maintain means to keep something in good condition."
+        ],
+        "usphone": "men'ten",
+        "ukphone": "me\u026an'te\u026an"
+    },
+    {
+        "name": "notice",
+        "trans": [
+            "To notice means to see or become aware of something."
+        ],
+        "usphone": "'not\u026as",
+        "ukphone": "'n\u0259\u028at\u026as"
+    },
+    {
+        "name": "organize",
+        "trans": [
+            "To organize means to plan or arrange things neatly."
+        ],
+        "usphone": "'\u0254r\u0261\u0259na\u026az",
+        "ukphone": "'\u0254\u02d0\u0261\u0259na\u026az"
+    },
+    {
+        "name": "participate",
+        "trans": [
+            "To participate means to take part in something."
+        ],
+        "usphone": "p\u0251r't\u026as\u0259pet",
+        "ukphone": "p\u0251\u02d0't\u026as\u026ape\u026at"
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "Quality means how good or bad something is."
+        ],
+        "usphone": "'kw\u0251l\u0259ti",
+        "ukphone": "'kw\u0252l\u0259ti"
+    },
+    {
+        "name": "reflect",
+        "trans": [
+            "To reflect means to show or think deeply about something."
+        ],
+        "usphone": "r\u026a'fl\u025bkt",
+        "ukphone": "r\u026a'flekt"
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "Strength means being strong or powerful."
+        ],
+        "usphone": "str\u025b\u014bk\u03b8",
+        "ukphone": "stre\u014b(k)\u03b8"
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "To transport means to carry people or goods from one place to another."
+        ],
+        "usphone": "tr\u00e6ns'p\u0254rt",
+        "ukphone": "tr\u00e6ns'p\u0254\u02d0t"
+    },
+    {
+        "name": "knowledge",
+        "trans": [
+            "Knowledge is information or understanding that you get from learning."
+        ],
+        "usphone": "'n\u0251l\u026ad\u0292",
+        "ukphone": "'n\u0252l\u026ad\u0292"
+    },
+    {
+        "name": "limit",
+        "trans": [
+            "A limit is a point that you cannot go beyond."
+        ],
+        "usphone": "'l\u026am\u026at",
+        "ukphone": "'l\u026am\u026at"
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "To maintain means to keep something in good condition."
+        ],
+        "usphone": "men'ten",
+        "ukphone": "me\u026an'te\u026an"
+    },
+    {
+        "name": "notice",
+        "trans": [
+            "To notice means to see or become aware of something."
+        ],
+        "usphone": "'not\u026as",
+        "ukphone": "'n\u0259\u028at\u026as"
+    },
+    {
+        "name": "organize",
+        "trans": [
+            "To organize means to plan or arrange things neatly."
+        ],
+        "usphone": "'\u0254r\u0261\u0259na\u026az",
+        "ukphone": "'\u0254\u02d0\u0261\u0259na\u026az"
+    },
+    {
+        "name": "participate",
+        "trans": [
+            "To participate means to take part in something."
+        ],
+        "usphone": "p\u0251r't\u026as\u0259pet",
+        "ukphone": "p\u0251\u02d0't\u026as\u026ape\u026at"
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "Quality means how good or bad something is."
+        ],
+        "usphone": "'kw\u0251l\u0259ti",
+        "ukphone": "'kw\u0252l\u0259ti"
+    },
+    {
+        "name": "reflect",
+        "trans": [
+            "To reflect means to show or think deeply about something."
+        ],
+        "usphone": "r\u026a'fl\u025bkt",
+        "ukphone": "r\u026a'flekt"
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "Strength means being strong or powerful."
+        ],
+        "usphone": "str\u025b\u014bk\u03b8",
+        "ukphone": "stre\u014b(k)\u03b8"
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "To transport means to carry people or goods from one place to another."
+        ],
+        "usphone": "tr\u00e6ns'p\u0254rt",
+        "ukphone": "tr\u00e6ns'p\u0254\u02d0t"
+    },
+    {
+        "name": "knowledge",
+        "trans": [
+            "Knowledge is information or understanding that you get from learning."
+        ],
+        "usphone": "'n\u0251l\u026ad\u0292",
+        "ukphone": "'n\u0252l\u026ad\u0292"
+    },
+    {
+        "name": "limit",
+        "trans": [
+            "A limit is a point that you cannot go beyond."
+        ],
+        "usphone": "'l\u026am\u026at",
+        "ukphone": "'l\u026am\u026at"
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "To maintain means to keep something in good condition."
+        ],
+        "usphone": "men'ten",
+        "ukphone": "me\u026an'te\u026an"
+    },
+    {
+        "name": "notice",
+        "trans": [
+            "To notice means to see or become aware of something."
+        ],
+        "usphone": "'not\u026as",
+        "ukphone": "'n\u0259\u028at\u026as"
+    },
+    {
+        "name": "organize",
+        "trans": [
+            "To organize means to plan or arrange things neatly."
+        ],
+        "usphone": "'\u0254r\u0261\u0259na\u026az",
+        "ukphone": "'\u0254\u02d0\u0261\u0259na\u026az"
+    },
+    {
+        "name": "participate",
+        "trans": [
+            "To participate means to take part in something."
+        ],
+        "usphone": "p\u0251r't\u026as\u0259pet",
+        "ukphone": "p\u0251\u02d0't\u026as\u026ape\u026at"
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "Quality means how good or bad something is."
+        ],
+        "usphone": "'kw\u0251l\u0259ti",
+        "ukphone": "'kw\u0252l\u0259ti"
+    },
+    {
+        "name": "reflect",
+        "trans": [
+            "To reflect means to show or think deeply about something."
+        ],
+        "usphone": "r\u026a'fl\u025bkt",
+        "ukphone": "r\u026a'flekt"
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "Strength means being strong or powerful."
+        ],
+        "usphone": "str\u025b\u014bk\u03b8",
+        "ukphone": "stre\u014b(k)\u03b8"
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "To transport means to carry people or goods from one place to another."
+        ],
+        "usphone": "tr\u00e6ns'p\u0254rt",
+        "ukphone": "tr\u00e6ns'p\u0254\u02d0t"
+    },
+    {
+        "name": "knowledge",
+        "trans": [
+            "Knowledge is information or understanding that you get from learning."
+        ],
+        "usphone": "'n\u0251l\u026ad\u0292",
+        "ukphone": "'n\u0252l\u026ad\u0292"
+    },
+    {
+        "name": "limit",
+        "trans": [
+            "A limit is a point that you cannot go beyond."
+        ],
+        "usphone": "'l\u026am\u026at",
+        "ukphone": "'l\u026am\u026at"
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "To maintain means to keep something in good condition."
+        ],
+        "usphone": "men'ten",
+        "ukphone": "me\u026an'te\u026an"
+    },
+    {
+        "name": "notice",
+        "trans": [
+            "To notice means to see or become aware of something."
+        ],
+        "usphone": "'not\u026as",
+        "ukphone": "'n\u0259\u028at\u026as"
+    },
+    {
+        "name": "organize",
+        "trans": [
+            "To organize means to plan or arrange things neatly."
+        ],
+        "usphone": "'\u0254r\u0261\u0259na\u026az",
+        "ukphone": "'\u0254\u02d0\u0261\u0259na\u026az"
+    },
+    {
+        "name": "participate",
+        "trans": [
+            "To participate means to take part in something."
+        ],
+        "usphone": "p\u0251r't\u026as\u0259pet",
+        "ukphone": "p\u0251\u02d0't\u026as\u026ape\u026at"
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "Quality means how good or bad something is."
+        ],
+        "usphone": "'kw\u0251l\u0259ti",
+        "ukphone": "'kw\u0252l\u0259ti"
+    },
+    {
+        "name": "reflect",
+        "trans": [
+            "To reflect means to show or think deeply about something."
+        ],
+        "usphone": "r\u026a'fl\u025bkt",
+        "ukphone": "r\u026a'flekt"
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "Strength means being strong or powerful."
+        ],
+        "usphone": "str\u025b\u014bk\u03b8",
+        "ukphone": "stre\u014b(k)\u03b8"
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "To transport means to carry people or goods from one place to another."
+        ],
+        "usphone": "tr\u00e6ns'p\u0254rt",
+        "ukphone": "tr\u00e6ns'p\u0254\u02d0t"
+    },
+    {
+        "name": "knowledge",
+        "trans": [
+            "Knowledge is information or understanding that you get from learning."
+        ],
+        "usphone": "'n\u0251l\u026ad\u0292",
+        "ukphone": "'n\u0252l\u026ad\u0292"
+    },
+    {
+        "name": "limit",
+        "trans": [
+            "A limit is a point that you cannot go beyond."
+        ],
+        "usphone": "'l\u026am\u026at",
+        "ukphone": "'l\u026am\u026at"
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "To maintain means to keep something in good condition."
+        ],
+        "usphone": "men'ten",
+        "ukphone": "me\u026an'te\u026an"
+    },
+    {
+        "name": "notice",
+        "trans": [
+            "To notice means to see or become aware of something."
+        ],
+        "usphone": "'not\u026as",
+        "ukphone": "'n\u0259\u028at\u026as"
+    },
+    {
+        "name": "organize",
+        "trans": [
+            "To organize means to plan or arrange things neatly."
+        ],
+        "usphone": "'\u0254r\u0261\u0259na\u026az",
+        "ukphone": "'\u0254\u02d0\u0261\u0259na\u026az"
+    },
+    {
+        "name": "participate",
+        "trans": [
+            "To participate means to take part in something."
+        ],
+        "usphone": "p\u0251r't\u026as\u0259pet",
+        "ukphone": "p\u0251\u02d0't\u026as\u026ape\u026at"
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "Quality means how good or bad something is."
+        ],
+        "usphone": "'kw\u0251l\u0259ti",
+        "ukphone": "'kw\u0252l\u0259ti"
+    },
+    {
+        "name": "reflect",
+        "trans": [
+            "To reflect means to show or think deeply about something."
+        ],
+        "usphone": "r\u026a'fl\u025bkt",
+        "ukphone": "r\u026a'flekt"
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "Strength means being strong or powerful."
+        ],
+        "usphone": "str\u025b\u014bk\u03b8",
+        "ukphone": "stre\u014b(k)\u03b8"
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "To transport means to carry people or goods from one place to another."
+        ],
+        "usphone": "tr\u00e6ns'p\u0254rt",
+        "ukphone": "tr\u00e6ns'p\u0254\u02d0t"
+    },
+    {
+        "name": "knowledge",
+        "trans": [
+            "Knowledge is information or understanding that you get from learning."
+        ],
+        "usphone": "'n\u0251l\u026ad\u0292",
+        "ukphone": "'n\u0252l\u026ad\u0292"
+    },
+    {
+        "name": "limit",
+        "trans": [
+            "A limit is a point that you cannot go beyond."
+        ],
+        "usphone": "'l\u026am\u026at",
+        "ukphone": "'l\u026am\u026at"
+    },
+    {
+        "name": "maintain",
+        "trans": [
+            "To maintain means to keep something in good condition."
+        ],
+        "usphone": "men'ten",
+        "ukphone": "me\u026an'te\u026an"
+    },
+    {
+        "name": "notice",
+        "trans": [
+            "To notice means to see or become aware of something."
+        ],
+        "usphone": "'not\u026as",
+        "ukphone": "'n\u0259\u028at\u026as"
+    },
+    {
+        "name": "organize",
+        "trans": [
+            "To organize means to plan or arrange things neatly."
+        ],
+        "usphone": "'\u0254r\u0261\u0259na\u026az",
+        "ukphone": "'\u0254\u02d0\u0261\u0259na\u026az"
+    },
+    {
+        "name": "participate",
+        "trans": [
+            "To participate means to take part in something."
+        ],
+        "usphone": "p\u0251r't\u026as\u0259pet",
+        "ukphone": "p\u0251\u02d0't\u026as\u026ape\u026at"
+    },
+    {
+        "name": "quality",
+        "trans": [
+            "Quality means how good or bad something is."
+        ],
+        "usphone": "'kw\u0251l\u0259ti",
+        "ukphone": "'kw\u0252l\u0259ti"
+    },
+    {
+        "name": "reflect",
+        "trans": [
+            "To reflect means to show or think deeply about something."
+        ],
+        "usphone": "r\u026a'fl\u025bkt",
+        "ukphone": "r\u026a'flekt"
+    },
+    {
+        "name": "strength",
+        "trans": [
+            "Strength means being strong or powerful."
+        ],
+        "usphone": "str\u025b\u014bk\u03b8",
+        "ukphone": "stre\u014b(k)\u03b8"
+    },
+    {
+        "name": "transport",
+        "trans": [
+            "To transport means to carry people or goods from one place to another."
+        ],
+        "usphone": "tr\u00e6ns'p\u0254rt",
+        "ukphone": "tr\u00e6ns'p\u0254\u02d0t"
+    }
+]

@@ -1,5 +1,4 @@
 import { GalleryContext } from '.'
-import enFlag from '@/assets/flags/en.png'
 import type { LanguageCategoryType } from '@/typings'
 import { RadioGroup } from '@headlessui/react'
 import { useCallback, useContext } from 'react'
@@ -10,7 +9,7 @@ export type LanguageTabOption = {
   flag: string
 }
 
-const options: LanguageTabOption[] = [{ id: 'en', name: 'English', flag: enFlag }]
+const options: LanguageTabOption[] = [{ id: 'en', name: 'English', flag: '🇺🇸' }]
 
 export function LanguageTabSwitcher() {
   // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
@@ -32,7 +31,7 @@ export function LanguageTabSwitcher() {
           <RadioGroup.Option key={option.id} value={option.id} className="cursor-pointer">
             {({ checked }) => (
               <div className={`flex items-center border-b-2 px-2 pb-1 ${checked ? 'border-indigo-500' : 'border-transparent'}`}>
-                <img src={option.flag} className="mr-1.5 h-7 w-7" />
+                <span className="mr-1.5 text-2xl">{option.flag}</span>
                 <p className={`text-lg font-medium text-gray-700 dark:text-gray-200`}>{option.name}</p>
               </div>
             )}

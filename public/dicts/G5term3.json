@@ -1,0 +1,802 @@
+[
+    {
+        "name": "unique",
+        "trans": [
+            "Unique means one of a kind or very special."
+        ],
+        "usphone": "ju'nik",
+        "ukphone": "ju\u02d0'ni\u02d0k"
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "Variety means having many different kinds of things."
+        ],
+        "usphone": "v\u0259'ra\u026a\u0259ti",
+        "ukphone": "v\u0259'ra\u026a\u0259ti"
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "Wealth means a lot of money or valuable things."
+        ],
+        "usphone": "w\u025bl\u03b8",
+        "ukphone": "wel\u03b8"
+    },
+    {
+        "name": "expand",
+        "trans": [
+            "To expand means to grow or increase in size."
+        ],
+        "usphone": "\u026ak'sp\u00e6nd",
+        "ukphone": "\u026ak'sp\u00e6nd"
+    },
+    {
+        "name": "yawn",
+        "trans": [
+            "To yawn means to open your mouth wide when tired or bored."
+        ],
+        "usphone": "j\u0254n",
+        "ukphone": "j\u0254\u02d0n"
+    },
+    {
+        "name": "zeal",
+        "trans": [
+            "Zeal means great energy or excitement for something."
+        ],
+        "usphone": "zil",
+        "ukphone": "zi\u02d0l"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Accurate means correct and without mistakes."
+        ],
+        "usphone": "'\u00e6kj\u0259r\u0259t",
+        "ukphone": "'\u00e6kj\u028ar\u0259t"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "Behavior means the way a person acts."
+        ],
+        "usphone": "b\u026a'hevj\u025a",
+        "ukphone": "b\u026a'he\u026avj\u0259"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To compare means to find how things are the same or different."
+        ],
+        "usphone": "k\u0259m'p\u025br",
+        "ukphone": "k\u0259m'pe\u0259"
+    },
+    {
+        "name": "damage",
+        "trans": [
+            "Damage means harm or injury to something."
+        ],
+        "usphone": "'d\u00e6m\u026ad\u0292",
+        "ukphone": "'d\u00e6m\u026ad\u0292"
+    },
+    {
+        "name": "unique",
+        "trans": [
+            "Unique means one of a kind or very special."
+        ],
+        "usphone": "ju'nik",
+        "ukphone": "ju\u02d0'ni\u02d0k"
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "Variety means having many different kinds of things."
+        ],
+        "usphone": "v\u0259'ra\u026a\u0259ti",
+        "ukphone": "v\u0259'ra\u026a\u0259ti"
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "Wealth means a lot of money or valuable things."
+        ],
+        "usphone": "w\u025bl\u03b8",
+        "ukphone": "wel\u03b8"
+    },
+    {
+        "name": "expand",
+        "trans": [
+            "To expand means to grow or increase in size."
+        ],
+        "usphone": "\u026ak'sp\u00e6nd",
+        "ukphone": "\u026ak'sp\u00e6nd"
+    },
+    {
+        "name": "yawn",
+        "trans": [
+            "To yawn means to open your mouth wide when tired or bored."
+        ],
+        "usphone": "j\u0254n",
+        "ukphone": "j\u0254\u02d0n"
+    },
+    {
+        "name": "zeal",
+        "trans": [
+            "Zeal means great energy or excitement for something."
+        ],
+        "usphone": "zil",
+        "ukphone": "zi\u02d0l"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Accurate means correct and without mistakes."
+        ],
+        "usphone": "'\u00e6kj\u0259r\u0259t",
+        "ukphone": "'\u00e6kj\u028ar\u0259t"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "Behavior means the way a person acts."
+        ],
+        "usphone": "b\u026a'hevj\u025a",
+        "ukphone": "b\u026a'he\u026avj\u0259"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To compare means to find how things are the same or different."
+        ],
+        "usphone": "k\u0259m'p\u025br",
+        "ukphone": "k\u0259m'pe\u0259"
+    },
+    {
+        "name": "damage",
+        "trans": [
+            "Damage means harm or injury to something."
+        ],
+        "usphone": "'d\u00e6m\u026ad\u0292",
+        "ukphone": "'d\u00e6m\u026ad\u0292"
+    },
+    {
+        "name": "unique",
+        "trans": [
+            "Unique means one of a kind or very special."
+        ],
+        "usphone": "ju'nik",
+        "ukphone": "ju\u02d0'ni\u02d0k"
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "Variety means having many different kinds of things."
+        ],
+        "usphone": "v\u0259'ra\u026a\u0259ti",
+        "ukphone": "v\u0259'ra\u026a\u0259ti"
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "Wealth means a lot of money or valuable things."
+        ],
+        "usphone": "w\u025bl\u03b8",
+        "ukphone": "wel\u03b8"
+    },
+    {
+        "name": "expand",
+        "trans": [
+            "To expand means to grow or increase in size."
+        ],
+        "usphone": "\u026ak'sp\u00e6nd",
+        "ukphone": "\u026ak'sp\u00e6nd"
+    },
+    {
+        "name": "yawn",
+        "trans": [
+            "To yawn means to open your mouth wide when tired or bored."
+        ],
+        "usphone": "j\u0254n",
+        "ukphone": "j\u0254\u02d0n"
+    },
+    {
+        "name": "zeal",
+        "trans": [
+            "Zeal means great energy or excitement for something."
+        ],
+        "usphone": "zil",
+        "ukphone": "zi\u02d0l"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Accurate means correct and without mistakes."
+        ],
+        "usphone": "'\u00e6kj\u0259r\u0259t",
+        "ukphone": "'\u00e6kj\u028ar\u0259t"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "Behavior means the way a person acts."
+        ],
+        "usphone": "b\u026a'hevj\u025a",
+        "ukphone": "b\u026a'he\u026avj\u0259"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To compare means to find how things are the same or different."
+        ],
+        "usphone": "k\u0259m'p\u025br",
+        "ukphone": "k\u0259m'pe\u0259"
+    },
+    {
+        "name": "damage",
+        "trans": [
+            "Damage means harm or injury to something."
+        ],
+        "usphone": "'d\u00e6m\u026ad\u0292",
+        "ukphone": "'d\u00e6m\u026ad\u0292"
+    },
+    {
+        "name": "unique",
+        "trans": [
+            "Unique means one of a kind or very special."
+        ],
+        "usphone": "ju'nik",
+        "ukphone": "ju\u02d0'ni\u02d0k"
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "Variety means having many different kinds of things."
+        ],
+        "usphone": "v\u0259'ra\u026a\u0259ti",
+        "ukphone": "v\u0259'ra\u026a\u0259ti"
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "Wealth means a lot of money or valuable things."
+        ],
+        "usphone": "w\u025bl\u03b8",
+        "ukphone": "wel\u03b8"
+    },
+    {
+        "name": "expand",
+        "trans": [
+            "To expand means to grow or increase in size."
+        ],
+        "usphone": "\u026ak'sp\u00e6nd",
+        "ukphone": "\u026ak'sp\u00e6nd"
+    },
+    {
+        "name": "yawn",
+        "trans": [
+            "To yawn means to open your mouth wide when tired or bored."
+        ],
+        "usphone": "j\u0254n",
+        "ukphone": "j\u0254\u02d0n"
+    },
+    {
+        "name": "zeal",
+        "trans": [
+            "Zeal means great energy or excitement for something."
+        ],
+        "usphone": "zil",
+        "ukphone": "zi\u02d0l"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Accurate means correct and without mistakes."
+        ],
+        "usphone": "'\u00e6kj\u0259r\u0259t",
+        "ukphone": "'\u00e6kj\u028ar\u0259t"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "Behavior means the way a person acts."
+        ],
+        "usphone": "b\u026a'hevj\u025a",
+        "ukphone": "b\u026a'he\u026avj\u0259"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To compare means to find how things are the same or different."
+        ],
+        "usphone": "k\u0259m'p\u025br",
+        "ukphone": "k\u0259m'pe\u0259"
+    },
+    {
+        "name": "damage",
+        "trans": [
+            "Damage means harm or injury to something."
+        ],
+        "usphone": "'d\u00e6m\u026ad\u0292",
+        "ukphone": "'d\u00e6m\u026ad\u0292"
+    },
+    {
+        "name": "unique",
+        "trans": [
+            "Unique means one of a kind or very special."
+        ],
+        "usphone": "ju'nik",
+        "ukphone": "ju\u02d0'ni\u02d0k"
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "Variety means having many different kinds of things."
+        ],
+        "usphone": "v\u0259'ra\u026a\u0259ti",
+        "ukphone": "v\u0259'ra\u026a\u0259ti"
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "Wealth means a lot of money or valuable things."
+        ],
+        "usphone": "w\u025bl\u03b8",
+        "ukphone": "wel\u03b8"
+    },
+    {
+        "name": "expand",
+        "trans": [
+            "To expand means to grow or increase in size."
+        ],
+        "usphone": "\u026ak'sp\u00e6nd",
+        "ukphone": "\u026ak'sp\u00e6nd"
+    },
+    {
+        "name": "yawn",
+        "trans": [
+            "To yawn means to open your mouth wide when tired or bored."
+        ],
+        "usphone": "j\u0254n",
+        "ukphone": "j\u0254\u02d0n"
+    },
+    {
+        "name": "zeal",
+        "trans": [
+            "Zeal means great energy or excitement for something."
+        ],
+        "usphone": "zil",
+        "ukphone": "zi\u02d0l"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Accurate means correct and without mistakes."
+        ],
+        "usphone": "'\u00e6kj\u0259r\u0259t",
+        "ukphone": "'\u00e6kj\u028ar\u0259t"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "Behavior means the way a person acts."
+        ],
+        "usphone": "b\u026a'hevj\u025a",
+        "ukphone": "b\u026a'he\u026avj\u0259"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To compare means to find how things are the same or different."
+        ],
+        "usphone": "k\u0259m'p\u025br",
+        "ukphone": "k\u0259m'pe\u0259"
+    },
+    {
+        "name": "damage",
+        "trans": [
+            "Damage means harm or injury to something."
+        ],
+        "usphone": "'d\u00e6m\u026ad\u0292",
+        "ukphone": "'d\u00e6m\u026ad\u0292"
+    },
+    {
+        "name": "unique",
+        "trans": [
+            "Unique means one of a kind or very special."
+        ],
+        "usphone": "ju'nik",
+        "ukphone": "ju\u02d0'ni\u02d0k"
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "Variety means having many different kinds of things."
+        ],
+        "usphone": "v\u0259'ra\u026a\u0259ti",
+        "ukphone": "v\u0259'ra\u026a\u0259ti"
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "Wealth means a lot of money or valuable things."
+        ],
+        "usphone": "w\u025bl\u03b8",
+        "ukphone": "wel\u03b8"
+    },
+    {
+        "name": "expand",
+        "trans": [
+            "To expand means to grow or increase in size."
+        ],
+        "usphone": "\u026ak'sp\u00e6nd",
+        "ukphone": "\u026ak'sp\u00e6nd"
+    },
+    {
+        "name": "yawn",
+        "trans": [
+            "To yawn means to open your mouth wide when tired or bored."
+        ],
+        "usphone": "j\u0254n",
+        "ukphone": "j\u0254\u02d0n"
+    },
+    {
+        "name": "zeal",
+        "trans": [
+            "Zeal means great energy or excitement for something."
+        ],
+        "usphone": "zil",
+        "ukphone": "zi\u02d0l"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Accurate means correct and without mistakes."
+        ],
+        "usphone": "'\u00e6kj\u0259r\u0259t",
+        "ukphone": "'\u00e6kj\u028ar\u0259t"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "Behavior means the way a person acts."
+        ],
+        "usphone": "b\u026a'hevj\u025a",
+        "ukphone": "b\u026a'he\u026avj\u0259"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To compare means to find how things are the same or different."
+        ],
+        "usphone": "k\u0259m'p\u025br",
+        "ukphone": "k\u0259m'pe\u0259"
+    },
+    {
+        "name": "damage",
+        "trans": [
+            "Damage means harm or injury to something."
+        ],
+        "usphone": "'d\u00e6m\u026ad\u0292",
+        "ukphone": "'d\u00e6m\u026ad\u0292"
+    },
+    {
+        "name": "unique",
+        "trans": [
+            "Unique means one of a kind or very special."
+        ],
+        "usphone": "ju'nik",
+        "ukphone": "ju\u02d0'ni\u02d0k"
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "Variety means having many different kinds of things."
+        ],
+        "usphone": "v\u0259'ra\u026a\u0259ti",
+        "ukphone": "v\u0259'ra\u026a\u0259ti"
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "Wealth means a lot of money or valuable things."
+        ],
+        "usphone": "w\u025bl\u03b8",
+        "ukphone": "wel\u03b8"
+    },
+    {
+        "name": "expand",
+        "trans": [
+            "To expand means to grow or increase in size."
+        ],
+        "usphone": "\u026ak'sp\u00e6nd",
+        "ukphone": "\u026ak'sp\u00e6nd"
+    },
+    {
+        "name": "yawn",
+        "trans": [
+            "To yawn means to open your mouth wide when tired or bored."
+        ],
+        "usphone": "j\u0254n",
+        "ukphone": "j\u0254\u02d0n"
+    },
+    {
+        "name": "zeal",
+        "trans": [
+            "Zeal means great energy or excitement for something."
+        ],
+        "usphone": "zil",
+        "ukphone": "zi\u02d0l"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Accurate means correct and without mistakes."
+        ],
+        "usphone": "'\u00e6kj\u0259r\u0259t",
+        "ukphone": "'\u00e6kj\u028ar\u0259t"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "Behavior means the way a person acts."
+        ],
+        "usphone": "b\u026a'hevj\u025a",
+        "ukphone": "b\u026a'he\u026avj\u0259"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To compare means to find how things are the same or different."
+        ],
+        "usphone": "k\u0259m'p\u025br",
+        "ukphone": "k\u0259m'pe\u0259"
+    },
+    {
+        "name": "damage",
+        "trans": [
+            "Damage means harm or injury to something."
+        ],
+        "usphone": "'d\u00e6m\u026ad\u0292",
+        "ukphone": "'d\u00e6m\u026ad\u0292"
+    },
+    {
+        "name": "unique",
+        "trans": [
+            "Unique means one of a kind or very special."
+        ],
+        "usphone": "ju'nik",
+        "ukphone": "ju\u02d0'ni\u02d0k"
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "Variety means having many different kinds of things."
+        ],
+        "usphone": "v\u0259'ra\u026a\u0259ti",
+        "ukphone": "v\u0259'ra\u026a\u0259ti"
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "Wealth means a lot of money or valuable things."
+        ],
+        "usphone": "w\u025bl\u03b8",
+        "ukphone": "wel\u03b8"
+    },
+    {
+        "name": "expand",
+        "trans": [
+            "To expand means to grow or increase in size."
+        ],
+        "usphone": "\u026ak'sp\u00e6nd",
+        "ukphone": "\u026ak'sp\u00e6nd"
+    },
+    {
+        "name": "yawn",
+        "trans": [
+            "To yawn means to open your mouth wide when tired or bored."
+        ],
+        "usphone": "j\u0254n",
+        "ukphone": "j\u0254\u02d0n"
+    },
+    {
+        "name": "zeal",
+        "trans": [
+            "Zeal means great energy or excitement for something."
+        ],
+        "usphone": "zil",
+        "ukphone": "zi\u02d0l"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Accurate means correct and without mistakes."
+        ],
+        "usphone": "'\u00e6kj\u0259r\u0259t",
+        "ukphone": "'\u00e6kj\u028ar\u0259t"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "Behavior means the way a person acts."
+        ],
+        "usphone": "b\u026a'hevj\u025a",
+        "ukphone": "b\u026a'he\u026avj\u0259"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To compare means to find how things are the same or different."
+        ],
+        "usphone": "k\u0259m'p\u025br",
+        "ukphone": "k\u0259m'pe\u0259"
+    },
+    {
+        "name": "damage",
+        "trans": [
+            "Damage means harm or injury to something."
+        ],
+        "usphone": "'d\u00e6m\u026ad\u0292",
+        "ukphone": "'d\u00e6m\u026ad\u0292"
+    },
+    {
+        "name": "unique",
+        "trans": [
+            "Unique means one of a kind or very special."
+        ],
+        "usphone": "ju'nik",
+        "ukphone": "ju\u02d0'ni\u02d0k"
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "Variety means having many different kinds of things."
+        ],
+        "usphone": "v\u0259'ra\u026a\u0259ti",
+        "ukphone": "v\u0259'ra\u026a\u0259ti"
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "Wealth means a lot of money or valuable things."
+        ],
+        "usphone": "w\u025bl\u03b8",
+        "ukphone": "wel\u03b8"
+    },
+    {
+        "name": "expand",
+        "trans": [
+            "To expand means to grow or increase in size."
+        ],
+        "usphone": "\u026ak'sp\u00e6nd",
+        "ukphone": "\u026ak'sp\u00e6nd"
+    },
+    {
+        "name": "yawn",
+        "trans": [
+            "To yawn means to open your mouth wide when tired or bored."
+        ],
+        "usphone": "j\u0254n",
+        "ukphone": "j\u0254\u02d0n"
+    },
+    {
+        "name": "zeal",
+        "trans": [
+            "Zeal means great energy or excitement for something."
+        ],
+        "usphone": "zil",
+        "ukphone": "zi\u02d0l"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Accurate means correct and without mistakes."
+        ],
+        "usphone": "'\u00e6kj\u0259r\u0259t",
+        "ukphone": "'\u00e6kj\u028ar\u0259t"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "Behavior means the way a person acts."
+        ],
+        "usphone": "b\u026a'hevj\u025a",
+        "ukphone": "b\u026a'he\u026avj\u0259"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To compare means to find how things are the same or different."
+        ],
+        "usphone": "k\u0259m'p\u025br",
+        "ukphone": "k\u0259m'pe\u0259"
+    },
+    {
+        "name": "damage",
+        "trans": [
+            "Damage means harm or injury to something."
+        ],
+        "usphone": "'d\u00e6m\u026ad\u0292",
+        "ukphone": "'d\u00e6m\u026ad\u0292"
+    },
+    {
+        "name": "unique",
+        "trans": [
+            "Unique means one of a kind or very special."
+        ],
+        "usphone": "ju'nik",
+        "ukphone": "ju\u02d0'ni\u02d0k"
+    },
+    {
+        "name": "variety",
+        "trans": [
+            "Variety means having many different kinds of things."
+        ],
+        "usphone": "v\u0259'ra\u026a\u0259ti",
+        "ukphone": "v\u0259'ra\u026a\u0259ti"
+    },
+    {
+        "name": "wealth",
+        "trans": [
+            "Wealth means a lot of money or valuable things."
+        ],
+        "usphone": "w\u025bl\u03b8",
+        "ukphone": "wel\u03b8"
+    },
+    {
+        "name": "expand",
+        "trans": [
+            "To expand means to grow or increase in size."
+        ],
+        "usphone": "\u026ak'sp\u00e6nd",
+        "ukphone": "\u026ak'sp\u00e6nd"
+    },
+    {
+        "name": "yawn",
+        "trans": [
+            "To yawn means to open your mouth wide when tired or bored."
+        ],
+        "usphone": "j\u0254n",
+        "ukphone": "j\u0254\u02d0n"
+    },
+    {
+        "name": "zeal",
+        "trans": [
+            "Zeal means great energy or excitement for something."
+        ],
+        "usphone": "zil",
+        "ukphone": "zi\u02d0l"
+    },
+    {
+        "name": "accurate",
+        "trans": [
+            "Accurate means correct and without mistakes."
+        ],
+        "usphone": "'\u00e6kj\u0259r\u0259t",
+        "ukphone": "'\u00e6kj\u028ar\u0259t"
+    },
+    {
+        "name": "behavior",
+        "trans": [
+            "Behavior means the way a person acts."
+        ],
+        "usphone": "b\u026a'hevj\u025a",
+        "ukphone": "b\u026a'he\u026avj\u0259"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To compare means to find how things are the same or different."
+        ],
+        "usphone": "k\u0259m'p\u025br",
+        "ukphone": "k\u0259m'pe\u0259"
+    },
+    {
+        "name": "damage",
+        "trans": [
+            "Damage means harm or injury to something."
+        ],
+        "usphone": "'d\u00e6m\u026ad\u0292",
+        "ukphone": "'d\u00e6m\u026ad\u0292"
+    }
+]

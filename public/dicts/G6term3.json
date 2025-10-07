@@ -1,0 +1,930 @@
+[
+    {
+        "name": "concept",
+        "trans": [
+            "An abstract idea or general notion"
+        ],
+        "usphone": "kon-sept",
+        "ukphone": "kon-sept"
+    },
+    {
+        "name": "concern",
+        "trans": [
+            "A matter that causes worry or interest; to relate to or affect"
+        ],
+        "usphone": "kun-surn",
+        "ukphone": "kun-surn"
+    },
+    {
+        "name": "conclude",
+        "trans": [
+            "To bring to an end; to reach a judgment based on reasoning"
+        ],
+        "usphone": "kun-klood",
+        "ukphone": "kun-klood"
+    },
+    {
+        "name": "concrete",
+        "trans": [
+            "Existing in a physical form; definite and specific"
+        ],
+        "usphone": "kon-kreet",
+        "ukphone": "kon-kreet"
+    },
+    {
+        "name": "condemn",
+        "trans": [
+            "To express strong disapproval of; to sentence to punishment"
+        ],
+        "usphone": "kun-dem",
+        "ukphone": "kun-dem"
+    },
+    {
+        "name": "conduct",
+        "trans": [
+            "To direct or manage an activity; behavior or the way someone acts"
+        ],
+        "usphone": "kun-dukt",
+        "ukphone": "kun-dukt"
+    },
+    {
+        "name": "confer",
+        "trans": [
+            "To discuss something with others; to grant or give"
+        ],
+        "usphone": "kun-fur",
+        "ukphone": "kun-fur"
+    },
+    {
+        "name": "confess",
+        "trans": [
+            "To admit that you have done something wrong"
+        ],
+        "usphone": "kun-fes",
+        "ukphone": "kun-fes"
+    },
+    {
+        "name": "confident",
+        "trans": [
+            "Feeling sure about your abilities or beliefs"
+        ],
+        "usphone": "kon-fi-duhnt",
+        "ukphone": "kon-fi-duhnt"
+    },
+    {
+        "name": "confine",
+        "trans": [
+            "To keep within limits; to restrict or imprison"
+        ],
+        "usphone": "kun-fyn",
+        "ukphone": "kun-fyn"
+    },
+    {
+        "name": "confirm",
+        "trans": [
+            "To establish the truth or correctness of something"
+        ],
+        "usphone": "kun-furm",
+        "ukphone": "kun-furm"
+    },
+    {
+        "name": "conflict",
+        "trans": [
+            "A serious disagreement or struggle; to be incompatible"
+        ],
+        "usphone": "kon-flikt",
+        "ukphone": "kon-flikt"
+    },
+    {
+        "name": "conform",
+        "trans": [
+            "To behave according to accepted standards or rules"
+        ],
+        "usphone": "kun-form",
+        "ukphone": "kun-form"
+    },
+    {
+        "name": "confuse",
+        "trans": [
+            "To make someone unable to think clearly; to mix up"
+        ],
+        "usphone": "kun-fyooz",
+        "ukphone": "kun-fyooz"
+    },
+    {
+        "name": "congress",
+        "trans": [
+            "A formal meeting of representatives; the lawmaking body of a country"
+        ],
+        "usphone": "kong-gres",
+        "ukphone": "kong-gres"
+    },
+    {
+        "name": "conquer",
+        "trans": [
+            "To overcome and take control by military force; to successfully deal with a problem"
+        ],
+        "usphone": "kong-ker",
+        "ukphone": "kong-ker"
+    },
+    {
+        "name": "conscience",
+        "trans": [
+            "An inner feeling about what is right and wrong"
+        ],
+        "usphone": "kon-shuhns",
+        "ukphone": "kon-shuhns"
+    },
+    {
+        "name": "conscious",
+        "trans": [
+            "Aware of and responding to surroundings; awake"
+        ],
+        "usphone": "kon-shus",
+        "ukphone": "kon-shus"
+    },
+    {
+        "name": "consecutive",
+        "trans": [
+            "Following one after another without interruption"
+        ],
+        "usphone": "kun-sek-yuh-tiv",
+        "ukphone": "kun-sek-yuh-tiv"
+    },
+    {
+        "name": "consensus",
+        "trans": [
+            "General agreement among a group of people"
+        ],
+        "usphone": "kun-sen-sus",
+        "ukphone": "kun-sen-sus"
+    },
+    {
+        "name": "consequence",
+        "trans": [
+            "A result or effect of an action or condition"
+        ],
+        "usphone": "kon-si-kwens",
+        "ukphone": "kon-si-kwens"
+    },
+    {
+        "name": "conserve",
+        "trans": [
+            "To protect from harm or destruction; to use carefully to avoid waste"
+        ],
+        "usphone": "kun-surv",
+        "ukphone": "kun-surv"
+    },
+    {
+        "name": "consider",
+        "trans": [
+            "To think carefully about something before making a decision"
+        ],
+        "usphone": "kun-sid-er",
+        "ukphone": "kun-sid-er"
+    },
+    {
+        "name": "consistent",
+        "trans": [
+            "Acting or done in the same way over time; not changing"
+        ],
+        "usphone": "kun-sis-tuhnt",
+        "ukphone": "kun-sis-tuhnt"
+    },
+    {
+        "name": "console",
+        "trans": [
+            "To comfort someone who is unhappy or disappointed"
+        ],
+        "usphone": "kun-sohl",
+        "ukphone": "kun-sohl"
+    },
+    {
+        "name": "conspicuous",
+        "trans": [
+            "Easily seen or noticed; attracting attention"
+        ],
+        "usphone": "kun-spik-yoo-us",
+        "ukphone": "kun-spik-yoo-us"
+    },
+    {
+        "name": "constant",
+        "trans": [
+            "Happening all the time or repeatedly; unchanging"
+        ],
+        "usphone": "kon-stuhnt",
+        "ukphone": "kon-stuhnt"
+    },
+    {
+        "name": "constitute",
+        "trans": [
+            "To be a part of a whole; to make up or form"
+        ],
+        "usphone": "kon-sti-toot",
+        "ukphone": "kon-sti-tyoot"
+    },
+    {
+        "name": "construct",
+        "trans": [
+            "To build or make something by putting parts together"
+        ],
+        "usphone": "kun-strukt",
+        "ukphone": "kun-strukt"
+    },
+    {
+        "name": "consult",
+        "trans": [
+            "To seek information or advice from someone"
+        ],
+        "usphone": "kun-sult",
+        "ukphone": "kun-sult"
+    },
+    {
+        "name": "consume",
+        "trans": [
+            "To use up or eat and drink something"
+        ],
+        "usphone": "kun-soom",
+        "ukphone": "kun-syoom"
+    },
+    {
+        "name": "contact",
+        "trans": [
+            "Communication with someone; to get in touch with"
+        ],
+        "usphone": "kon-takt",
+        "ukphone": "kon-takt"
+    },
+    {
+        "name": "contain",
+        "trans": [
+            "To have something inside; to keep under control"
+        ],
+        "usphone": "kun-tayn",
+        "ukphone": "kun-tayn"
+    },
+    {
+        "name": "contaminate",
+        "trans": [
+            "To make something impure or harmful by adding poison or pollution"
+        ],
+        "usphone": "kun-tam-uh-nayt",
+        "ukphone": "kun-tam-uh-nayt"
+    },
+    {
+        "name": "contemplate",
+        "trans": [
+            "To think deeply about something; to consider carefully"
+        ],
+        "usphone": "kon-tem-playt",
+        "ukphone": "kon-tem-playt"
+    },
+    {
+        "name": "contemporary",
+        "trans": [
+            "Belonging to the present time; modern"
+        ],
+        "usphone": "kun-tem-puh-rer-ee",
+        "ukphone": "kun-tem-puh-ruh-ree"
+    },
+    {
+        "name": "content",
+        "trans": [
+            "The things that are included in something; satisfied and happy"
+        ],
+        "usphone": "kon-tent",
+        "ukphone": "kon-tent"
+    },
+    {
+        "name": "contest",
+        "trans": [
+            "A competition; to challenge or dispute something"
+        ],
+        "usphone": "kon-test",
+        "ukphone": "kon-test"
+    },
+    {
+        "name": "context",
+        "trans": [
+            "The circumstances or setting in which something exists or happens"
+        ],
+        "usphone": "kon-tekst",
+        "ukphone": "kon-tekst"
+    },
+    {
+        "name": "continent",
+        "trans": [
+            "One of the seven large landmasses on Earth"
+        ],
+        "usphone": "kon-tuh-nuhnt",
+        "ukphone": "kon-tuh-nuhnt"
+    },
+    {
+        "name": "continual",
+        "trans": [
+            "Happening repeatedly over a period of time"
+        ],
+        "usphone": "kun-tin-yoo-uhl",
+        "ukphone": "kun-tin-yoo-uhl"
+    },
+    {
+        "name": "continuous",
+        "trans": [
+            "Going on without stopping or interruption"
+        ],
+        "usphone": "kun-tin-yoo-us",
+        "ukphone": "kun-tin-yoo-us"
+    },
+    {
+        "name": "contract",
+        "trans": [
+            "A written legal agreement; to become smaller or shorter"
+        ],
+        "usphone": "kon-trakt",
+        "ukphone": "kon-trakt"
+    },
+    {
+        "name": "contradict",
+        "trans": [
+            "To say the opposite of what someone else has said"
+        ],
+        "usphone": "kon-truh-dikt",
+        "ukphone": "kon-truh-dikt"
+    },
+    {
+        "name": "contrary",
+        "trans": [
+            "Opposite in nature or direction; completely different"
+        ],
+        "usphone": "kon-trer-ee",
+        "ukphone": "kon-truh-ree"
+    },
+    {
+        "name": "contrast",
+        "trans": [
+            "To compare in order to show differences; a noticeable difference"
+        ],
+        "usphone": "kon-trast",
+        "ukphone": "kon-trast"
+    },
+    {
+        "name": "contribute",
+        "trans": [
+            "To give something, especially money or help, to a common cause"
+        ],
+        "usphone": "kun-trib-yoot",
+        "ukphone": "kun-trib-yoot"
+    },
+    {
+        "name": "control",
+        "trans": [
+            "The power to direct or manage something; to regulate or command"
+        ],
+        "usphone": "kun-trohl",
+        "ukphone": "kun-trohl"
+    },
+    {
+        "name": "controversial",
+        "trans": [
+            "Causing disagreement or discussion; disputed"
+        ],
+        "usphone": "kon-truh-vur-shuhl",
+        "ukphone": "kon-truh-vur-shuhl"
+    },
+    {
+        "name": "convenient",
+        "trans": [
+            "Easy to use or suitable for your needs; involving little trouble"
+        ],
+        "usphone": "kun-veen-yuhnt",
+        "ukphone": "kun-veen-yuhnt"
+    },
+    {
+        "name": "convention",
+        "trans": [
+            "A large meeting or conference; a customary practice"
+        ],
+        "usphone": "kun-ven-shuhn",
+        "ukphone": "kun-ven-shuhn"
+    },
+    {
+        "name": "conversation",
+        "trans": [
+            "An informal talk between two or more people"
+        ],
+        "usphone": "kon-ver-say-shuhn",
+        "ukphone": "kon-vuh-say-shuhn"
+    },
+    {
+        "name": "convert",
+        "trans": [
+            "To change from one form or use to another"
+        ],
+        "usphone": "kun-vurt",
+        "ukphone": "kun-vurt"
+    },
+    {
+        "name": "convey",
+        "trans": [
+            "To transport or carry to a place; to communicate an idea or feeling"
+        ],
+        "usphone": "kun-vay",
+        "ukphone": "kun-vay"
+    },
+    {
+        "name": "convince",
+        "trans": [
+            "To make someone believe that something is true"
+        ],
+        "usphone": "kun-vins",
+        "ukphone": "kun-vins"
+    },
+    {
+        "name": "cooperate",
+        "trans": [
+            "To work together toward a common goal"
+        ],
+        "usphone": "koh-op-uh-rayt",
+        "ukphone": "koh-op-uh-rayt"
+    },
+    {
+        "name": "coordinate",
+        "trans": [
+            "To organize different things to work together effectively"
+        ],
+        "usphone": "koh-or-duh-nayt",
+        "ukphone": "koh-or-duh-nayt"
+    },
+    {
+        "name": "correspond",
+        "trans": [
+            "To match or be similar; to communicate by letter or email"
+        ],
+        "usphone": "kor-uh-spond",
+        "ukphone": "kor-uh-spond"
+    },
+    {
+        "name": "corrupt",
+        "trans": [
+            "Dishonest and willing to use power for personal gain; to make morally bad"
+        ],
+        "usphone": "kuh-rupt",
+        "ukphone": "kuh-rupt"
+    },
+    {
+        "name": "counsel",
+        "trans": [
+            "Advice or guidance; to give advice"
+        ],
+        "usphone": "kown-suhl",
+        "ukphone": "kown-suhl"
+    },
+    {
+        "name": "courageous",
+        "trans": [
+            "Brave; not afraid of danger or difficulty"
+        ],
+        "usphone": "kuh-ray-jus",
+        "ukphone": "kuh-ray-jus"
+    },
+    {
+        "name": "courteous",
+        "trans": [
+            "Polite and respectful in behavior"
+        ],
+        "usphone": "kur-tee-us",
+        "ukphone": "kur-tee-us"
+    },
+    {
+        "name": "create",
+        "trans": [
+            "To bring something into existence; to make something new"
+        ],
+        "usphone": "kree-ayt",
+        "ukphone": "kree-ayt"
+    },
+    {
+        "name": "creative",
+        "trans": [
+            "Having the ability to make new and original things"
+        ],
+        "usphone": "kree-ay-tiv",
+        "ukphone": "kree-ay-tiv"
+    },
+    {
+        "name": "credible",
+        "trans": [
+            "Able to be believed; convincing"
+        ],
+        "usphone": "kred-uh-buhl",
+        "ukphone": "kred-uh-buhl"
+    },
+    {
+        "name": "crisis",
+        "trans": [
+            "A time of intense difficulty or danger"
+        ],
+        "usphone": "kry-sis",
+        "ukphone": "kry-sis"
+    },
+    {
+        "name": "criticize",
+        "trans": [
+            "To point out faults or express disapproval"
+        ],
+        "usphone": "krit-uh-syz",
+        "ukphone": "krit-uh-syz"
+    },
+    {
+        "name": "crucial",
+        "trans": [
+            "Extremely important; critical to success"
+        ],
+        "usphone": "kroo-shuhl",
+        "ukphone": "kroo-shuhl"
+    },
+    {
+        "name": "cultivate",
+        "trans": [
+            "To prepare land and grow crops; to develop or improve something"
+        ],
+        "usphone": "kul-tuh-vayt",
+        "ukphone": "kul-tuh-vayt"
+    },
+    {
+        "name": "culture",
+        "trans": [
+            "The customs, beliefs, and way of life of a group of people"
+        ],
+        "usphone": "kul-cher",
+        "ukphone": "kul-cher"
+    },
+    {
+        "name": "curious",
+        "trans": [
+            "Eager to know or learn something; unusual or interesting"
+        ],
+        "usphone": "kyur-ee-us",
+        "ukphone": "kyur-ee-us"
+    },
+    {
+        "name": "current",
+        "trans": [
+            "Happening or existing now; a steady flow of water or electricity"
+        ],
+        "usphone": "kur-uhnt",
+        "ukphone": "kur-uhnt"
+    },
+    {
+        "name": "curriculum",
+        "trans": [
+            "The subjects and content taught in a school or course"
+        ],
+        "usphone": "kuh-rik-yuh-lum",
+        "ukphone": "kuh-rik-yuh-lum"
+    },
+    {
+        "name": "custom",
+        "trans": [
+            "A traditional practice or usual way of behaving"
+        ],
+        "usphone": "kus-tum",
+        "ukphone": "kus-tum"
+    },
+    {
+        "name": "cycle",
+        "trans": [
+            "A series of events that repeat in the same order"
+        ],
+        "usphone": "sy-kuhl",
+        "ukphone": "sy-kuhl"
+    },
+    {
+        "name": "decade",
+        "trans": [
+            "A period of ten years"
+        ],
+        "usphone": "dek-ayd",
+        "ukphone": "dek-ayd"
+    },
+    {
+        "name": "deceive",
+        "trans": [
+            "To deliberately cause someone to believe something that is not true"
+        ],
+        "usphone": "dih-seev",
+        "ukphone": "dih-seev"
+    },
+    {
+        "name": "decent",
+        "trans": [
+            "Acceptable or satisfactory; morally good"
+        ],
+        "usphone": "dee-suhnt",
+        "ukphone": "dee-suhnt"
+    },
+    {
+        "name": "declare",
+        "trans": [
+            "To announce something officially or publicly"
+        ],
+        "usphone": "dih-klair",
+        "ukphone": "dih-klair"
+    },
+    {
+        "name": "decline",
+        "trans": [
+            "To become smaller or weaker; to politely refuse"
+        ],
+        "usphone": "dih-klyn",
+        "ukphone": "dih-klyn"
+    },
+    {
+        "name": "dedicate",
+        "trans": [
+            "To devote time and effort to a particular purpose"
+        ],
+        "usphone": "ded-i-kayt",
+        "ukphone": "ded-i-kayt"
+    },
+    {
+        "name": "defeat",
+        "trans": [
+            "To win a victory over someone in a battle or competition"
+        ],
+        "usphone": "dih-feet",
+        "ukphone": "dih-feet"
+    },
+    {
+        "name": "defend",
+        "trans": [
+            "To protect from harm or danger; to speak in support of"
+        ],
+        "usphone": "dih-fend",
+        "ukphone": "dih-fend"
+    },
+    {
+        "name": "define",
+        "trans": [
+            "To explain the meaning of something; to describe exactly"
+        ],
+        "usphone": "dih-fyn",
+        "ukphone": "dih-fyn"
+    },
+    {
+        "name": "definite",
+        "trans": [
+            "Clearly stated or decided; certain"
+        ],
+        "usphone": "def-uh-nit",
+        "ukphone": "def-uh-nit"
+    },
+    {
+        "name": "deliberate",
+        "trans": [
+            "Done intentionally; to think carefully about something"
+        ],
+        "usphone": "dih-lib-er-it",
+        "ukphone": "dih-lib-er-it"
+    },
+    {
+        "name": "delicate",
+        "trans": [
+            "Easily broken or damaged; requiring careful handling"
+        ],
+        "usphone": "del-i-kit",
+        "ukphone": "del-i-kit"
+    },
+    {
+        "name": "demonstrate",
+        "trans": [
+            "To show clearly by giving proof or examples"
+        ],
+        "usphone": "dem-uhn-strayt",
+        "ukphone": "dem-uhn-strayt"
+    },
+    {
+        "name": "dense",
+        "trans": [
+            "Closely packed together; thick"
+        ],
+        "usphone": "dens",
+        "ukphone": "dens"
+    },
+    {
+        "name": "depict",
+        "trans": [
+            "To show or represent in a picture or story"
+        ],
+        "usphone": "dih-pikt",
+        "ukphone": "dih-pikt"
+    },
+    {
+        "name": "deposit",
+        "trans": [
+            "To put something down or place money in a bank"
+        ],
+        "usphone": "dih-poz-it",
+        "ukphone": "dih-poz-it"
+    },
+    {
+        "name": "depress",
+        "trans": [
+            "To make someone feel sad; to press down"
+        ],
+        "usphone": "dih-pres",
+        "ukphone": "dih-pres"
+    },
+    {
+        "name": "derive",
+        "trans": [
+            "To obtain something from a source; to come from"
+        ],
+        "usphone": "dih-ryv",
+        "ukphone": "dih-ryv"
+    },
+    {
+        "name": "descend",
+        "trans": [
+            "To move down from a higher to a lower place"
+        ],
+        "usphone": "dih-send",
+        "ukphone": "dih-send"
+    },
+    {
+        "name": "deserve",
+        "trans": [
+            "To be worthy of something, good or bad, because of actions"
+        ],
+        "usphone": "dih-zurv",
+        "ukphone": "dih-zurv"
+    },
+    {
+        "name": "design",
+        "trans": [
+            "To plan and create something; a plan or drawing"
+        ],
+        "usphone": "dih-zyn",
+        "ukphone": "dih-zyn"
+    },
+    {
+        "name": "despair",
+        "trans": [
+            "The complete loss of hope"
+        ],
+        "usphone": "dih-spair",
+        "ukphone": "dih-spair"
+    },
+    {
+        "name": "desperate",
+        "trans": [
+            "Feeling hopeless and willing to do anything; very serious or dangerous"
+        ],
+        "usphone": "des-per-it",
+        "ukphone": "des-per-it"
+    },
+    {
+        "name": "despite",
+        "trans": [
+            "Without being affected by; in spite of"
+        ],
+        "usphone": "dih-spyt",
+        "ukphone": "dih-spyt"
+    },
+    {
+        "name": "destination",
+        "trans": [
+            "The place where someone or something is going"
+        ],
+        "usphone": "des-tuh-nay-shuhn",
+        "ukphone": "des-tuh-nay-shuhn"
+    },
+    {
+        "name": "destroy",
+        "trans": [
+            "To damage something so badly that it no longer exists or works"
+        ],
+        "usphone": "dih-stroy",
+        "ukphone": "dih-stroy"
+    },
+    {
+        "name": "detail",
+        "trans": [
+            "A small individual fact or feature; to describe fully"
+        ],
+        "usphone": "dee-tayl",
+        "ukphone": "dee-tayl"
+    },
+    {
+        "name": "detect",
+        "trans": [
+            "To discover or notice something that is difficult to see or find"
+        ],
+        "usphone": "dih-tekt",
+        "ukphone": "dih-tekt"
+    },
+    {
+        "name": "determine",
+        "trans": [
+            "To find out or decide something; to cause something to happen"
+        ],
+        "usphone": "dih-tur-min",
+        "ukphone": "dih-tur-min"
+    },
+    {
+        "name": "develop",
+        "trans": [
+            "To grow or cause to grow gradually; to create or improve"
+        ],
+        "usphone": "dih-vel-up",
+        "ukphone": "dih-vel-up"
+    },
+    {
+        "name": "device",
+        "trans": [
+            "A tool or piece of equipment made for a specific purpose"
+        ],
+        "usphone": "dih-vys",
+        "ukphone": "dih-vys"
+    },
+    {
+        "name": "devote",
+        "trans": [
+            "To give all or most of your time or resources to something"
+        ],
+        "usphone": "dih-voht",
+        "ukphone": "dih-voht"
+    },
+    {
+        "name": "diagnose",
+        "trans": [
+            "To identify an illness by examining symptoms"
+        ],
+        "usphone": "dy-uhg-nohs",
+        "ukphone": "dy-uhg-nohz"
+    },
+    {
+        "name": "diagram",
+        "trans": [
+            "A simple drawing that shows how something works or is organized"
+        ],
+        "usphone": "dy-uh-gram",
+        "ukphone": "dy-uh-gram"
+    },
+    {
+        "name": "dialogue",
+        "trans": [
+            "A conversation between two or more people"
+        ],
+        "usphone": "dy-uh-log",
+        "ukphone": "dy-uh-log"
+    },
+    {
+        "name": "diameter",
+        "trans": [
+            "A straight line passing through the center of a circle"
+        ],
+        "usphone": "dy-am-uh-ter",
+        "ukphone": "dy-am-uh-ter"
+    },
+    {
+        "name": "dignity",
+        "trans": [
+            "The quality of being worthy of honor and respect"
+        ],
+        "usphone": "dig-ni-tee",
+        "ukphone": "dig-ni-tee"
+    },
+    {
+        "name": "dilemma",
+        "trans": [
+            "A situation requiring a choice between two difficult options"
+        ],
+        "usphone": "dih-lem-uh",
+        "ukphone": "dih-lem-uh"
+    },
+    {
+        "name": "diligent",
+        "trans": [
+            "Showing careful and persistent effort in work"
+        ],
+        "usphone": "dil-i-juhnt",
+        "ukphone": "dil-i-juhnt"
+    },
+    {
+        "name": "dimension",
+        "trans": [
+            "A measurement of length, width, or height; an aspect"
+        ],
+        "usphone": "dih-men-shuhn",
+        "ukphone": "dih-men-shuhn"
+    },
+    {
+        "name": "diminish",
+        "trans": [
+            "To make or become less; to reduce"
+        ],
+        "usphone": "dih-min-ish",
+        "ukphone": "dih-min-ish"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "name": "adventure",
+        "trans": [
+            "An adventure is an exciting or unusual experience."
+        ],
+        "usphone": "\u0259d'vent\u0283\u025a",
+        "ukphone": "\u0259d'vent\u0283\u0259"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "Balance is when different things are equal or steady."
+        ],
+        "usphone": "'b\u00e6l\u0259ns",
+        "ukphone": "'b\u00e6l\u0259ns"
+    },
+    {
+        "name": "capture",
+        "trans": [
+            "To capture means to take something by force."
+        ],
+        "usphone": "'k\u00e6pt\u0283\u025a",
+        "ukphone": "'k\u00e6pt\u0283\u0259"
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "To decorate means to make something look nice."
+        ],
+        "usphone": "'d\u025bk\u0259ret",
+        "ukphone": "'dek\u0259re\u026at"
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "Something that uses electricity."
+        ],
+        "usphone": "\u026a'l\u025bktr\u026ak",
+        "ukphone": "\u026a'lektr\u026ak"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "A famous person is known by many people."
+        ],
+        "usphone": "'fe\u026am\u0259s",
+        "ukphone": "'fe\u026am\u0259s"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "A giant is something very big."
+        ],
+        "usphone": "'d\u0292a\u026a\u0259nt",
+        "ukphone": "'d\u0292a\u026a\u0259nt"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "An honest person tells the truth."
+        ],
+        "usphone": "'\u0251n\u026ast",
+        "ukphone": "'\u0252n\u026ast"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "An island is land surrounded by water."
+        ],
+        "usphone": "'a\u026al\u0259nd",
+        "ukphone": "'a\u026al\u0259nd"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "A jungle is a forest in a hot, rainy area."
+        ],
+        "usphone": "'d\u0292\u028c\u014b\u0261l",
+        "ukphone": "'d\u0292\u028c\u014b\u0261l"
+    },
+    {
+        "name": "adventure",
+        "trans": [
+            "An adventure is an exciting or unusual experience."
+        ],
+        "usphone": "\u0259d'vent\u0283\u025a",
+        "ukphone": "\u0259d'vent\u0283\u0259"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "Balance is when different things are equal or steady."
+        ],
+        "usphone": "'b\u00e6l\u0259ns",
+        "ukphone": "'b\u00e6l\u0259ns"
+    },
+    {
+        "name": "capture",
+        "trans": [
+            "To capture means to take something by force."
+        ],
+        "usphone": "'k\u00e6pt\u0283\u025a",
+        "ukphone": "'k\u00e6pt\u0283\u0259"
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "To decorate means to make something look nice."
+        ],
+        "usphone": "'d\u025bk\u0259ret",
+        "ukphone": "'dek\u0259re\u026at"
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "Something that uses electricity."
+        ],
+        "usphone": "\u026a'l\u025bktr\u026ak",
+        "ukphone": "\u026a'lektr\u026ak"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "A famous person is known by many people."
+        ],
+        "usphone": "'fe\u026am\u0259s",
+        "ukphone": "'fe\u026am\u0259s"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "A giant is something very big."
+        ],
+        "usphone": "'d\u0292a\u026a\u0259nt",
+        "ukphone": "'d\u0292a\u026a\u0259nt"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "An honest person tells the truth."
+        ],
+        "usphone": "'\u0251n\u026ast",
+        "ukphone": "'\u0252n\u026ast"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "An island is land surrounded by water."
+        ],
+        "usphone": "'a\u026al\u0259nd",
+        "ukphone": "'a\u026al\u0259nd"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "A jungle is a forest in a hot, rainy area."
+        ],
+        "usphone": "'d\u0292\u028c\u014b\u0261l",
+        "ukphone": "'d\u0292\u028c\u014b\u0261l"
+    },
+    {
+        "name": "adventure",
+        "trans": [
+            "An adventure is an exciting or unusual experience."
+        ],
+        "usphone": "\u0259d'vent\u0283\u025a",
+        "ukphone": "\u0259d'vent\u0283\u0259"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "Balance is when different things are equal or steady."
+        ],
+        "usphone": "'b\u00e6l\u0259ns",
+        "ukphone": "'b\u00e6l\u0259ns"
+    },
+    {
+        "name": "capture",
+        "trans": [
+            "To capture means to take something by force."
+        ],
+        "usphone": "'k\u00e6pt\u0283\u025a",
+        "ukphone": "'k\u00e6pt\u0283\u0259"
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "To decorate means to make something look nice."
+        ],
+        "usphone": "'d\u025bk\u0259ret",
+        "ukphone": "'dek\u0259re\u026at"
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "Something that uses electricity."
+        ],
+        "usphone": "\u026a'l\u025bktr\u026ak",
+        "ukphone": "\u026a'lektr\u026ak"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "A famous person is known by many people."
+        ],
+        "usphone": "'fe\u026am\u0259s",
+        "ukphone": "'fe\u026am\u0259s"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "A giant is something very big."
+        ],
+        "usphone": "'d\u0292a\u026a\u0259nt",
+        "ukphone": "'d\u0292a\u026a\u0259nt"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "An honest person tells the truth."
+        ],
+        "usphone": "'\u0251n\u026ast",
+        "ukphone": "'\u0252n\u026ast"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "An island is land surrounded by water."
+        ],
+        "usphone": "'a\u026al\u0259nd",
+        "ukphone": "'a\u026al\u0259nd"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "A jungle is a forest in a hot, rainy area."
+        ],
+        "usphone": "'d\u0292\u028c\u014b\u0261l",
+        "ukphone": "'d\u0292\u028c\u014b\u0261l"
+    },
+    {
+        "name": "adventure",
+        "trans": [
+            "An adventure is an exciting or unusual experience."
+        ],
+        "usphone": "\u0259d'vent\u0283\u025a",
+        "ukphone": "\u0259d'vent\u0283\u0259"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "Balance is when different things are equal or steady."
+        ],
+        "usphone": "'b\u00e6l\u0259ns",
+        "ukphone": "'b\u00e6l\u0259ns"
+    },
+    {
+        "name": "capture",
+        "trans": [
+            "To capture means to take something by force."
+        ],
+        "usphone": "'k\u00e6pt\u0283\u025a",
+        "ukphone": "'k\u00e6pt\u0283\u0259"
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "To decorate means to make something look nice."
+        ],
+        "usphone": "'d\u025bk\u0259ret",
+        "ukphone": "'dek\u0259re\u026at"
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "Something that uses electricity."
+        ],
+        "usphone": "\u026a'l\u025bktr\u026ak",
+        "ukphone": "\u026a'lektr\u026ak"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "A famous person is known by many people."
+        ],
+        "usphone": "'fe\u026am\u0259s",
+        "ukphone": "'fe\u026am\u0259s"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "A giant is something very big."
+        ],
+        "usphone": "'d\u0292a\u026a\u0259nt",
+        "ukphone": "'d\u0292a\u026a\u0259nt"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "An honest person tells the truth."
+        ],
+        "usphone": "'\u0251n\u026ast",
+        "ukphone": "'\u0252n\u026ast"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "An island is land surrounded by water."
+        ],
+        "usphone": "'a\u026al\u0259nd",
+        "ukphone": "'a\u026al\u0259nd"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "A jungle is a forest in a hot, rainy area."
+        ],
+        "usphone": "'d\u0292\u028c\u014b\u0261l",
+        "ukphone": "'d\u0292\u028c\u014b\u0261l"
+    },
+    {
+        "name": "adventure",
+        "trans": [
+            "An adventure is an exciting or unusual experience."
+        ],
+        "usphone": "\u0259d'vent\u0283\u025a",
+        "ukphone": "\u0259d'vent\u0283\u0259"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "Balance is when different things are equal or steady."
+        ],
+        "usphone": "'b\u00e6l\u0259ns",
+        "ukphone": "'b\u00e6l\u0259ns"
+    },
+    {
+        "name": "capture",
+        "trans": [
+            "To capture means to take something by force."
+        ],
+        "usphone": "'k\u00e6pt\u0283\u025a",
+        "ukphone": "'k\u00e6pt\u0283\u0259"
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "To decorate means to make something look nice."
+        ],
+        "usphone": "'d\u025bk\u0259ret",
+        "ukphone": "'dek\u0259re\u026at"
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "Something that uses electricity."
+        ],
+        "usphone": "\u026a'l\u025bktr\u026ak",
+        "ukphone": "\u026a'lektr\u026ak"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "A famous person is known by many people."
+        ],
+        "usphone": "'fe\u026am\u0259s",
+        "ukphone": "'fe\u026am\u0259s"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "A giant is something very big."
+        ],
+        "usphone": "'d\u0292a\u026a\u0259nt",
+        "ukphone": "'d\u0292a\u026a\u0259nt"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "An honest person tells the truth."
+        ],
+        "usphone": "'\u0251n\u026ast",
+        "ukphone": "'\u0252n\u026ast"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "An island is land surrounded by water."
+        ],
+        "usphone": "'a\u026al\u0259nd",
+        "ukphone": "'a\u026al\u0259nd"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "A jungle is a forest in a hot, rainy area."
+        ],
+        "usphone": "'d\u0292\u028c\u014b\u0261l",
+        "ukphone": "'d\u0292\u028c\u014b\u0261l"
+    },
+    {
+        "name": "adventure",
+        "trans": [
+            "An adventure is an exciting or unusual experience."
+        ],
+        "usphone": "\u0259d'vent\u0283\u025a",
+        "ukphone": "\u0259d'vent\u0283\u0259"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "Balance is when different things are equal or steady."
+        ],
+        "usphone": "'b\u00e6l\u0259ns",
+        "ukphone": "'b\u00e6l\u0259ns"
+    },
+    {
+        "name": "capture",
+        "trans": [
+            "To capture means to take something by force."
+        ],
+        "usphone": "'k\u00e6pt\u0283\u025a",
+        "ukphone": "'k\u00e6pt\u0283\u0259"
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "To decorate means to make something look nice."
+        ],
+        "usphone": "'d\u025bk\u0259ret",
+        "ukphone": "'dek\u0259re\u026at"
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "Something that uses electricity."
+        ],
+        "usphone": "\u026a'l\u025bktr\u026ak",
+        "ukphone": "\u026a'lektr\u026ak"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "A famous person is known by many people."
+        ],
+        "usphone": "'fe\u026am\u0259s",
+        "ukphone": "'fe\u026am\u0259s"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "A giant is something very big."
+        ],
+        "usphone": "'d\u0292a\u026a\u0259nt",
+        "ukphone": "'d\u0292a\u026a\u0259nt"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "An honest person tells the truth."
+        ],
+        "usphone": "'\u0251n\u026ast",
+        "ukphone": "'\u0252n\u026ast"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "An island is land surrounded by water."
+        ],
+        "usphone": "'a\u026al\u0259nd",
+        "ukphone": "'a\u026al\u0259nd"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "A jungle is a forest in a hot, rainy area."
+        ],
+        "usphone": "'d\u0292\u028c\u014b\u0261l",
+        "ukphone": "'d\u0292\u028c\u014b\u0261l"
+    },
+    {
+        "name": "adventure",
+        "trans": [
+            "An adventure is an exciting or unusual experience."
+        ],
+        "usphone": "\u0259d'vent\u0283\u025a",
+        "ukphone": "\u0259d'vent\u0283\u0259"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "Balance is when different things are equal or steady."
+        ],
+        "usphone": "'b\u00e6l\u0259ns",
+        "ukphone": "'b\u00e6l\u0259ns"
+    },
+    {
+        "name": "capture",
+        "trans": [
+            "To capture means to take something by force."
+        ],
+        "usphone": "'k\u00e6pt\u0283\u025a",
+        "ukphone": "'k\u00e6pt\u0283\u0259"
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "To decorate means to make something look nice."
+        ],
+        "usphone": "'d\u025bk\u0259ret",
+        "ukphone": "'dek\u0259re\u026at"
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "Something that uses electricity."
+        ],
+        "usphone": "\u026a'l\u025bktr\u026ak",
+        "ukphone": "\u026a'lektr\u026ak"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "A famous person is known by many people."
+        ],
+        "usphone": "'fe\u026am\u0259s",
+        "ukphone": "'fe\u026am\u0259s"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "A giant is something very big."
+        ],
+        "usphone": "'d\u0292a\u026a\u0259nt",
+        "ukphone": "'d\u0292a\u026a\u0259nt"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "An honest person tells the truth."
+        ],
+        "usphone": "'\u0251n\u026ast",
+        "ukphone": "'\u0252n\u026ast"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "An island is land surrounded by water."
+        ],
+        "usphone": "'a\u026al\u0259nd",
+        "ukphone": "'a\u026al\u0259nd"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "A jungle is a forest in a hot, rainy area."
+        ],
+        "usphone": "'d\u0292\u028c\u014b\u0261l",
+        "ukphone": "'d\u0292\u028c\u014b\u0261l"
+    },
+    {
+        "name": "adventure",
+        "trans": [
+            "An adventure is an exciting or unusual experience."
+        ],
+        "usphone": "\u0259d'vent\u0283\u025a",
+        "ukphone": "\u0259d'vent\u0283\u0259"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "Balance is when different things are equal or steady."
+        ],
+        "usphone": "'b\u00e6l\u0259ns",
+        "ukphone": "'b\u00e6l\u0259ns"
+    },
+    {
+        "name": "capture",
+        "trans": [
+            "To capture means to take something by force."
+        ],
+        "usphone": "'k\u00e6pt\u0283\u025a",
+        "ukphone": "'k\u00e6pt\u0283\u0259"
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "To decorate means to make something look nice."
+        ],
+        "usphone": "'d\u025bk\u0259ret",
+        "ukphone": "'dek\u0259re\u026at"
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "Something that uses electricity."
+        ],
+        "usphone": "\u026a'l\u025bktr\u026ak",
+        "ukphone": "\u026a'lektr\u026ak"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "A famous person is known by many people."
+        ],
+        "usphone": "'fe\u026am\u0259s",
+        "ukphone": "'fe\u026am\u0259s"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "A giant is something very big."
+        ],
+        "usphone": "'d\u0292a\u026a\u0259nt",
+        "ukphone": "'d\u0292a\u026a\u0259nt"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "An honest person tells the truth."
+        ],
+        "usphone": "'\u0251n\u026ast",
+        "ukphone": "'\u0252n\u026ast"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "An island is land surrounded by water."
+        ],
+        "usphone": "'a\u026al\u0259nd",
+        "ukphone": "'a\u026al\u0259nd"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "A jungle is a forest in a hot, rainy area."
+        ],
+        "usphone": "'d\u0292\u028c\u014b\u0261l",
+        "ukphone": "'d\u0292\u028c\u014b\u0261l"
+    },
+    {
+        "name": "adventure",
+        "trans": [
+            "An adventure is an exciting or unusual experience."
+        ],
+        "usphone": "\u0259d'vent\u0283\u025a",
+        "ukphone": "\u0259d'vent\u0283\u0259"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "Balance is when different things are equal or steady."
+        ],
+        "usphone": "'b\u00e6l\u0259ns",
+        "ukphone": "'b\u00e6l\u0259ns"
+    },
+    {
+        "name": "capture",
+        "trans": [
+            "To capture means to take something by force."
+        ],
+        "usphone": "'k\u00e6pt\u0283\u025a",
+        "ukphone": "'k\u00e6pt\u0283\u0259"
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "To decorate means to make something look nice."
+        ],
+        "usphone": "'d\u025bk\u0259ret",
+        "ukphone": "'dek\u0259re\u026at"
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "Something that uses electricity."
+        ],
+        "usphone": "\u026a'l\u025bktr\u026ak",
+        "ukphone": "\u026a'lektr\u026ak"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "A famous person is known by many people."
+        ],
+        "usphone": "'fe\u026am\u0259s",
+        "ukphone": "'fe\u026am\u0259s"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "A giant is something very big."
+        ],
+        "usphone": "'d\u0292a\u026a\u0259nt",
+        "ukphone": "'d\u0292a\u026a\u0259nt"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "An honest person tells the truth."
+        ],
+        "usphone": "'\u0251n\u026ast",
+        "ukphone": "'\u0252n\u026ast"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "An island is land surrounded by water."
+        ],
+        "usphone": "'a\u026al\u0259nd",
+        "ukphone": "'a\u026al\u0259nd"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "A jungle is a forest in a hot, rainy area."
+        ],
+        "usphone": "'d\u0292\u028c\u014b\u0261l",
+        "ukphone": "'d\u0292\u028c\u014b\u0261l"
+    },
+    {
+        "name": "adventure",
+        "trans": [
+            "An adventure is an exciting or unusual experience."
+        ],
+        "usphone": "\u0259d'vent\u0283\u025a",
+        "ukphone": "\u0259d'vent\u0283\u0259"
+    },
+    {
+        "name": "balance",
+        "trans": [
+            "Balance is when different things are equal or steady."
+        ],
+        "usphone": "'b\u00e6l\u0259ns",
+        "ukphone": "'b\u00e6l\u0259ns"
+    },
+    {
+        "name": "capture",
+        "trans": [
+            "To capture means to take something by force."
+        ],
+        "usphone": "'k\u00e6pt\u0283\u025a",
+        "ukphone": "'k\u00e6pt\u0283\u0259"
+    },
+    {
+        "name": "decorate",
+        "trans": [
+            "To decorate means to make something look nice."
+        ],
+        "usphone": "'d\u025bk\u0259ret",
+        "ukphone": "'dek\u0259re\u026at"
+    },
+    {
+        "name": "electric",
+        "trans": [
+            "Something that uses electricity."
+        ],
+        "usphone": "\u026a'l\u025bktr\u026ak",
+        "ukphone": "\u026a'lektr\u026ak"
+    },
+    {
+        "name": "famous",
+        "trans": [
+            "A famous person is known by many people."
+        ],
+        "usphone": "'fe\u026am\u0259s",
+        "ukphone": "'fe\u026am\u0259s"
+    },
+    {
+        "name": "giant",
+        "trans": [
+            "A giant is something very big."
+        ],
+        "usphone": "'d\u0292a\u026a\u0259nt",
+        "ukphone": "'d\u0292a\u026a\u0259nt"
+    },
+    {
+        "name": "honest",
+        "trans": [
+            "An honest person tells the truth."
+        ],
+        "usphone": "'\u0251n\u026ast",
+        "ukphone": "'\u0252n\u026ast"
+    },
+    {
+        "name": "island",
+        "trans": [
+            "An island is land surrounded by water."
+        ],
+        "usphone": "'a\u026al\u0259nd",
+        "ukphone": "'a\u026al\u0259nd"
+    },
+    {
+        "name": "jungle",
+        "trans": [
+            "A jungle is a forest in a hot, rainy area."
+        ],
+        "usphone": "'d\u0292\u028c\u014b\u0261l",
+        "ukphone": "'d\u0292\u028c\u014b\u0261l"
+    }
+]

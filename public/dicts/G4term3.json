@@ -1,0 +1,802 @@
+[
+    {
+        "name": "value",
+        "trans": [
+            "Value is how important something is."
+        ],
+        "usphone": "'v\u00e6lju",
+        "ukphone": "'v\u00e6lju\u02d0"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "Weather is what the air is like outside."
+        ],
+        "usphone": "'w\u025b\u00f0\u025a",
+        "ukphone": "'we\u00f0\u0259"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "An x-ray is a photo of the inside of the body."
+        ],
+        "usphone": "'\u025bks,re\u026a",
+        "ukphone": "'\u025bks,re\u026a"
+    },
+    {
+        "name": "youth",
+        "trans": [
+            "Youth means young people or the time of being young."
+        ],
+        "usphone": "ju\u03b8",
+        "ukphone": "ju\u02d0\u03b8"
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "A zone is an area with special use or rule."
+        ],
+        "usphone": "zon",
+        "ukphone": "z\u0259\u028an"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "An activity is something you do for fun or work."
+        ],
+        "usphone": "\u00e6k't\u026av\u0259ti",
+        "ukphone": "\u00e6k't\u026av\u026ati"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "Brave means not afraid of danger."
+        ],
+        "usphone": "bre\u026av",
+        "ukphone": "bre\u026av"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "Clever means smart or quick to understand."
+        ],
+        "usphone": "'kl\u025bv\u025a",
+        "ukphone": "'klev\u0259"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "To discover means to find something new."
+        ],
+        "usphone": "d\u026a'sk\u028cv\u025a",
+        "ukphone": "d\u026a'sk\u028cv\u0259"
+    },
+    {
+        "name": "energy",
+        "trans": [
+            "Energy is the power to move or do work."
+        ],
+        "usphone": "'\u025bn\u025ad\u0292i",
+        "ukphone": "'\u025bn\u0259d\u0292i"
+    },
+    {
+        "name": "value",
+        "trans": [
+            "Value is how important something is."
+        ],
+        "usphone": "'v\u00e6lju",
+        "ukphone": "'v\u00e6lju\u02d0"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "Weather is what the air is like outside."
+        ],
+        "usphone": "'w\u025b\u00f0\u025a",
+        "ukphone": "'we\u00f0\u0259"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "An x-ray is a photo of the inside of the body."
+        ],
+        "usphone": "'\u025bks,re\u026a",
+        "ukphone": "'\u025bks,re\u026a"
+    },
+    {
+        "name": "youth",
+        "trans": [
+            "Youth means young people or the time of being young."
+        ],
+        "usphone": "ju\u03b8",
+        "ukphone": "ju\u02d0\u03b8"
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "A zone is an area with special use or rule."
+        ],
+        "usphone": "zon",
+        "ukphone": "z\u0259\u028an"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "An activity is something you do for fun or work."
+        ],
+        "usphone": "\u00e6k't\u026av\u0259ti",
+        "ukphone": "\u00e6k't\u026av\u026ati"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "Brave means not afraid of danger."
+        ],
+        "usphone": "bre\u026av",
+        "ukphone": "bre\u026av"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "Clever means smart or quick to understand."
+        ],
+        "usphone": "'kl\u025bv\u025a",
+        "ukphone": "'klev\u0259"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "To discover means to find something new."
+        ],
+        "usphone": "d\u026a'sk\u028cv\u025a",
+        "ukphone": "d\u026a'sk\u028cv\u0259"
+    },
+    {
+        "name": "energy",
+        "trans": [
+            "Energy is the power to move or do work."
+        ],
+        "usphone": "'\u025bn\u025ad\u0292i",
+        "ukphone": "'\u025bn\u0259d\u0292i"
+    },
+    {
+        "name": "value",
+        "trans": [
+            "Value is how important something is."
+        ],
+        "usphone": "'v\u00e6lju",
+        "ukphone": "'v\u00e6lju\u02d0"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "Weather is what the air is like outside."
+        ],
+        "usphone": "'w\u025b\u00f0\u025a",
+        "ukphone": "'we\u00f0\u0259"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "An x-ray is a photo of the inside of the body."
+        ],
+        "usphone": "'\u025bks,re\u026a",
+        "ukphone": "'\u025bks,re\u026a"
+    },
+    {
+        "name": "youth",
+        "trans": [
+            "Youth means young people or the time of being young."
+        ],
+        "usphone": "ju\u03b8",
+        "ukphone": "ju\u02d0\u03b8"
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "A zone is an area with special use or rule."
+        ],
+        "usphone": "zon",
+        "ukphone": "z\u0259\u028an"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "An activity is something you do for fun or work."
+        ],
+        "usphone": "\u00e6k't\u026av\u0259ti",
+        "ukphone": "\u00e6k't\u026av\u026ati"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "Brave means not afraid of danger."
+        ],
+        "usphone": "bre\u026av",
+        "ukphone": "bre\u026av"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "Clever means smart or quick to understand."
+        ],
+        "usphone": "'kl\u025bv\u025a",
+        "ukphone": "'klev\u0259"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "To discover means to find something new."
+        ],
+        "usphone": "d\u026a'sk\u028cv\u025a",
+        "ukphone": "d\u026a'sk\u028cv\u0259"
+    },
+    {
+        "name": "energy",
+        "trans": [
+            "Energy is the power to move or do work."
+        ],
+        "usphone": "'\u025bn\u025ad\u0292i",
+        "ukphone": "'\u025bn\u0259d\u0292i"
+    },
+    {
+        "name": "value",
+        "trans": [
+            "Value is how important something is."
+        ],
+        "usphone": "'v\u00e6lju",
+        "ukphone": "'v\u00e6lju\u02d0"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "Weather is what the air is like outside."
+        ],
+        "usphone": "'w\u025b\u00f0\u025a",
+        "ukphone": "'we\u00f0\u0259"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "An x-ray is a photo of the inside of the body."
+        ],
+        "usphone": "'\u025bks,re\u026a",
+        "ukphone": "'\u025bks,re\u026a"
+    },
+    {
+        "name": "youth",
+        "trans": [
+            "Youth means young people or the time of being young."
+        ],
+        "usphone": "ju\u03b8",
+        "ukphone": "ju\u02d0\u03b8"
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "A zone is an area with special use or rule."
+        ],
+        "usphone": "zon",
+        "ukphone": "z\u0259\u028an"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "An activity is something you do for fun or work."
+        ],
+        "usphone": "\u00e6k't\u026av\u0259ti",
+        "ukphone": "\u00e6k't\u026av\u026ati"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "Brave means not afraid of danger."
+        ],
+        "usphone": "bre\u026av",
+        "ukphone": "bre\u026av"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "Clever means smart or quick to understand."
+        ],
+        "usphone": "'kl\u025bv\u025a",
+        "ukphone": "'klev\u0259"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "To discover means to find something new."
+        ],
+        "usphone": "d\u026a'sk\u028cv\u025a",
+        "ukphone": "d\u026a'sk\u028cv\u0259"
+    },
+    {
+        "name": "energy",
+        "trans": [
+            "Energy is the power to move or do work."
+        ],
+        "usphone": "'\u025bn\u025ad\u0292i",
+        "ukphone": "'\u025bn\u0259d\u0292i"
+    },
+    {
+        "name": "value",
+        "trans": [
+            "Value is how important something is."
+        ],
+        "usphone": "'v\u00e6lju",
+        "ukphone": "'v\u00e6lju\u02d0"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "Weather is what the air is like outside."
+        ],
+        "usphone": "'w\u025b\u00f0\u025a",
+        "ukphone": "'we\u00f0\u0259"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "An x-ray is a photo of the inside of the body."
+        ],
+        "usphone": "'\u025bks,re\u026a",
+        "ukphone": "'\u025bks,re\u026a"
+    },
+    {
+        "name": "youth",
+        "trans": [
+            "Youth means young people or the time of being young."
+        ],
+        "usphone": "ju\u03b8",
+        "ukphone": "ju\u02d0\u03b8"
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "A zone is an area with special use or rule."
+        ],
+        "usphone": "zon",
+        "ukphone": "z\u0259\u028an"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "An activity is something you do for fun or work."
+        ],
+        "usphone": "\u00e6k't\u026av\u0259ti",
+        "ukphone": "\u00e6k't\u026av\u026ati"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "Brave means not afraid of danger."
+        ],
+        "usphone": "bre\u026av",
+        "ukphone": "bre\u026av"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "Clever means smart or quick to understand."
+        ],
+        "usphone": "'kl\u025bv\u025a",
+        "ukphone": "'klev\u0259"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "To discover means to find something new."
+        ],
+        "usphone": "d\u026a'sk\u028cv\u025a",
+        "ukphone": "d\u026a'sk\u028cv\u0259"
+    },
+    {
+        "name": "energy",
+        "trans": [
+            "Energy is the power to move or do work."
+        ],
+        "usphone": "'\u025bn\u025ad\u0292i",
+        "ukphone": "'\u025bn\u0259d\u0292i"
+    },
+    {
+        "name": "value",
+        "trans": [
+            "Value is how important something is."
+        ],
+        "usphone": "'v\u00e6lju",
+        "ukphone": "'v\u00e6lju\u02d0"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "Weather is what the air is like outside."
+        ],
+        "usphone": "'w\u025b\u00f0\u025a",
+        "ukphone": "'we\u00f0\u0259"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "An x-ray is a photo of the inside of the body."
+        ],
+        "usphone": "'\u025bks,re\u026a",
+        "ukphone": "'\u025bks,re\u026a"
+    },
+    {
+        "name": "youth",
+        "trans": [
+            "Youth means young people or the time of being young."
+        ],
+        "usphone": "ju\u03b8",
+        "ukphone": "ju\u02d0\u03b8"
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "A zone is an area with special use or rule."
+        ],
+        "usphone": "zon",
+        "ukphone": "z\u0259\u028an"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "An activity is something you do for fun or work."
+        ],
+        "usphone": "\u00e6k't\u026av\u0259ti",
+        "ukphone": "\u00e6k't\u026av\u026ati"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "Brave means not afraid of danger."
+        ],
+        "usphone": "bre\u026av",
+        "ukphone": "bre\u026av"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "Clever means smart or quick to understand."
+        ],
+        "usphone": "'kl\u025bv\u025a",
+        "ukphone": "'klev\u0259"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "To discover means to find something new."
+        ],
+        "usphone": "d\u026a'sk\u028cv\u025a",
+        "ukphone": "d\u026a'sk\u028cv\u0259"
+    },
+    {
+        "name": "energy",
+        "trans": [
+            "Energy is the power to move or do work."
+        ],
+        "usphone": "'\u025bn\u025ad\u0292i",
+        "ukphone": "'\u025bn\u0259d\u0292i"
+    },
+    {
+        "name": "value",
+        "trans": [
+            "Value is how important something is."
+        ],
+        "usphone": "'v\u00e6lju",
+        "ukphone": "'v\u00e6lju\u02d0"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "Weather is what the air is like outside."
+        ],
+        "usphone": "'w\u025b\u00f0\u025a",
+        "ukphone": "'we\u00f0\u0259"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "An x-ray is a photo of the inside of the body."
+        ],
+        "usphone": "'\u025bks,re\u026a",
+        "ukphone": "'\u025bks,re\u026a"
+    },
+    {
+        "name": "youth",
+        "trans": [
+            "Youth means young people or the time of being young."
+        ],
+        "usphone": "ju\u03b8",
+        "ukphone": "ju\u02d0\u03b8"
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "A zone is an area with special use or rule."
+        ],
+        "usphone": "zon",
+        "ukphone": "z\u0259\u028an"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "An activity is something you do for fun or work."
+        ],
+        "usphone": "\u00e6k't\u026av\u0259ti",
+        "ukphone": "\u00e6k't\u026av\u026ati"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "Brave means not afraid of danger."
+        ],
+        "usphone": "bre\u026av",
+        "ukphone": "bre\u026av"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "Clever means smart or quick to understand."
+        ],
+        "usphone": "'kl\u025bv\u025a",
+        "ukphone": "'klev\u0259"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "To discover means to find something new."
+        ],
+        "usphone": "d\u026a'sk\u028cv\u025a",
+        "ukphone": "d\u026a'sk\u028cv\u0259"
+    },
+    {
+        "name": "energy",
+        "trans": [
+            "Energy is the power to move or do work."
+        ],
+        "usphone": "'\u025bn\u025ad\u0292i",
+        "ukphone": "'\u025bn\u0259d\u0292i"
+    },
+    {
+        "name": "value",
+        "trans": [
+            "Value is how important something is."
+        ],
+        "usphone": "'v\u00e6lju",
+        "ukphone": "'v\u00e6lju\u02d0"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "Weather is what the air is like outside."
+        ],
+        "usphone": "'w\u025b\u00f0\u025a",
+        "ukphone": "'we\u00f0\u0259"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "An x-ray is a photo of the inside of the body."
+        ],
+        "usphone": "'\u025bks,re\u026a",
+        "ukphone": "'\u025bks,re\u026a"
+    },
+    {
+        "name": "youth",
+        "trans": [
+            "Youth means young people or the time of being young."
+        ],
+        "usphone": "ju\u03b8",
+        "ukphone": "ju\u02d0\u03b8"
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "A zone is an area with special use or rule."
+        ],
+        "usphone": "zon",
+        "ukphone": "z\u0259\u028an"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "An activity is something you do for fun or work."
+        ],
+        "usphone": "\u00e6k't\u026av\u0259ti",
+        "ukphone": "\u00e6k't\u026av\u026ati"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "Brave means not afraid of danger."
+        ],
+        "usphone": "bre\u026av",
+        "ukphone": "bre\u026av"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "Clever means smart or quick to understand."
+        ],
+        "usphone": "'kl\u025bv\u025a",
+        "ukphone": "'klev\u0259"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "To discover means to find something new."
+        ],
+        "usphone": "d\u026a'sk\u028cv\u025a",
+        "ukphone": "d\u026a'sk\u028cv\u0259"
+    },
+    {
+        "name": "energy",
+        "trans": [
+            "Energy is the power to move or do work."
+        ],
+        "usphone": "'\u025bn\u025ad\u0292i",
+        "ukphone": "'\u025bn\u0259d\u0292i"
+    },
+    {
+        "name": "value",
+        "trans": [
+            "Value is how important something is."
+        ],
+        "usphone": "'v\u00e6lju",
+        "ukphone": "'v\u00e6lju\u02d0"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "Weather is what the air is like outside."
+        ],
+        "usphone": "'w\u025b\u00f0\u025a",
+        "ukphone": "'we\u00f0\u0259"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "An x-ray is a photo of the inside of the body."
+        ],
+        "usphone": "'\u025bks,re\u026a",
+        "ukphone": "'\u025bks,re\u026a"
+    },
+    {
+        "name": "youth",
+        "trans": [
+            "Youth means young people or the time of being young."
+        ],
+        "usphone": "ju\u03b8",
+        "ukphone": "ju\u02d0\u03b8"
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "A zone is an area with special use or rule."
+        ],
+        "usphone": "zon",
+        "ukphone": "z\u0259\u028an"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "An activity is something you do for fun or work."
+        ],
+        "usphone": "\u00e6k't\u026av\u0259ti",
+        "ukphone": "\u00e6k't\u026av\u026ati"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "Brave means not afraid of danger."
+        ],
+        "usphone": "bre\u026av",
+        "ukphone": "bre\u026av"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "Clever means smart or quick to understand."
+        ],
+        "usphone": "'kl\u025bv\u025a",
+        "ukphone": "'klev\u0259"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "To discover means to find something new."
+        ],
+        "usphone": "d\u026a'sk\u028cv\u025a",
+        "ukphone": "d\u026a'sk\u028cv\u0259"
+    },
+    {
+        "name": "energy",
+        "trans": [
+            "Energy is the power to move or do work."
+        ],
+        "usphone": "'\u025bn\u025ad\u0292i",
+        "ukphone": "'\u025bn\u0259d\u0292i"
+    },
+    {
+        "name": "value",
+        "trans": [
+            "Value is how important something is."
+        ],
+        "usphone": "'v\u00e6lju",
+        "ukphone": "'v\u00e6lju\u02d0"
+    },
+    {
+        "name": "weather",
+        "trans": [
+            "Weather is what the air is like outside."
+        ],
+        "usphone": "'w\u025b\u00f0\u025a",
+        "ukphone": "'we\u00f0\u0259"
+    },
+    {
+        "name": "x-ray",
+        "trans": [
+            "An x-ray is a photo of the inside of the body."
+        ],
+        "usphone": "'\u025bks,re\u026a",
+        "ukphone": "'\u025bks,re\u026a"
+    },
+    {
+        "name": "youth",
+        "trans": [
+            "Youth means young people or the time of being young."
+        ],
+        "usphone": "ju\u03b8",
+        "ukphone": "ju\u02d0\u03b8"
+    },
+    {
+        "name": "zone",
+        "trans": [
+            "A zone is an area with special use or rule."
+        ],
+        "usphone": "zon",
+        "ukphone": "z\u0259\u028an"
+    },
+    {
+        "name": "activity",
+        "trans": [
+            "An activity is something you do for fun or work."
+        ],
+        "usphone": "\u00e6k't\u026av\u0259ti",
+        "ukphone": "\u00e6k't\u026av\u026ati"
+    },
+    {
+        "name": "brave",
+        "trans": [
+            "Brave means not afraid of danger."
+        ],
+        "usphone": "bre\u026av",
+        "ukphone": "bre\u026av"
+    },
+    {
+        "name": "clever",
+        "trans": [
+            "Clever means smart or quick to understand."
+        ],
+        "usphone": "'kl\u025bv\u025a",
+        "ukphone": "'klev\u0259"
+    },
+    {
+        "name": "discover",
+        "trans": [
+            "To discover means to find something new."
+        ],
+        "usphone": "d\u026a'sk\u028cv\u025a",
+        "ukphone": "d\u026a'sk\u028cv\u0259"
+    },
+    {
+        "name": "energy",
+        "trans": [
+            "Energy is the power to move or do work."
+        ],
+        "usphone": "'\u025bn\u025ad\u0292i",
+        "ukphone": "'\u025bn\u0259d\u0292i"
+    }
+]

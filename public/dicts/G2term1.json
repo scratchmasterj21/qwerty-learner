@@ -2,7 +2,7 @@
     {
         "name": "above",
         "trans": [
-            "Above is a Grade 2 word."
+            "Higher than something; over it."
         ],
         "usphone": "above",
         "ukphone": "above"
@@ -10,7 +10,7 @@
     {
         "name": "afraid",
         "trans": [
-            "Afraid is a Grade 2 word."
+            "Feeling scared or worried about something."
         ],
         "usphone": "afraid",
         "ukphone": "afraid"
@@ -18,7 +18,7 @@
     {
         "name": "animal",
         "trans": [
-            "Animal is a Grade 2 word."
+            "A living creature that is not a plant or human."
         ],
         "usphone": "animal",
         "ukphone": "animal"
@@ -26,7 +26,7 @@
     {
         "name": "basket",
         "trans": [
-            "Basket is a Grade 2 word."
+            "A container made of woven material used to carry things."
         ],
         "usphone": "basket",
         "ukphone": "basket"
@@ -34,7 +34,7 @@
     {
         "name": "birthday",
         "trans": [
-            "Birthday is a Grade 2 word."
+            "The day you were born; celebrated each year."
         ],
         "usphone": "birthday",
         "ukphone": "birthday"
@@ -42,7 +42,7 @@
     {
         "name": "brother",
         "trans": [
-            "Brother is a Grade 2 word."
+            "A boy who has the same parents as you."
         ],
         "usphone": "brother",
         "ukphone": "brother"
@@ -50,7 +50,7 @@
     {
         "name": "candy",
         "trans": [
-            "Candy is a Grade 2 word."
+            "Sweet food made with sugar that tastes good."
         ],
         "usphone": "candy",
         "ukphone": "candy"
@@ -58,7 +58,7 @@
     {
         "name": "circle",
         "trans": [
-            "Circle is a Grade 2 word."
+            "A round shape with no corners."
         ],
         "usphone": "circle",
         "ukphone": "circle"
@@ -66,7 +66,7 @@
     {
         "name": "clothes",
         "trans": [
-            "Clothes is a Grade 2 word."
+            "Things you wear on your body like shirts, pants, and dresses."
         ],
         "usphone": "clothes",
         "ukphone": "clothes"
@@ -74,7 +74,7 @@
     {
         "name": "country",
         "trans": [
-            "Country is a Grade 2 word."
+            "A large area of land with its own government and people."
         ],
         "usphone": "country",
         "ukphone": "country"
@@ -82,7 +82,7 @@
     {
         "name": "danger",
         "trans": [
-            "Danger is a Grade 2 word."
+            "A situation where someone could get hurt."
         ],
         "usphone": "danger",
         "ukphone": "danger"
@@ -90,7 +90,7 @@
     {
         "name": "doctor",
         "trans": [
-            "Doctor is a Grade 2 word."
+            "A person who helps sick or hurt people get better."
         ],
         "usphone": "doctor",
         "ukphone": "doctor"
@@ -98,7 +98,7 @@
     {
         "name": "early",
         "trans": [
-            "Early is a Grade 2 word."
+            "Before the usual or expected time; near the beginning."
         ],
         "usphone": "early",
         "ukphone": "early"
@@ -106,7 +106,7 @@
     {
         "name": "eight",
         "trans": [
-            "Eight is a Grade 2 word."
+            "The number 8."
         ],
         "usphone": "eight",
         "ukphone": "eight"
@@ -114,7 +114,7 @@
     {
         "name": "family",
         "trans": [
-            "Family is a Grade 2 word."
+            "People who are related to you, like parents, brothers, and sisters."
         ],
         "usphone": "family",
         "ukphone": "family"
@@ -122,7 +122,7 @@
     {
         "name": "father",
         "trans": [
-            "Father is a Grade 2 word."
+            "A male parent; your dad."
         ],
         "usphone": "father",
         "ukphone": "father"
@@ -130,7 +130,7 @@
     {
         "name": "giant",
         "trans": [
-            "Giant is a Grade 2 word."
+            "Something or someone that is very, very big."
         ],
         "usphone": "giant",
         "ukphone": "giant"
@@ -138,7 +138,7 @@
     {
         "name": "happy",
         "trans": [
-            "Happy is a Grade 2 word."
+            "Feeling joy and pleasure; not sad."
         ],
         "usphone": "happy",
         "ukphone": "happy"
@@ -146,7 +146,7 @@
     {
         "name": "inside",
         "trans": [
-            "Inside is a Grade 2 word."
+            "In or into a building or container; not outside."
         ],
         "usphone": "inside",
         "ukphone": "inside"
@@ -154,7 +154,7 @@
     {
         "name": "jungle",
         "trans": [
-            "Jungle is a Grade 2 word."
+            "A thick forest in a hot place with many plants and wild animals."
         ],
         "usphone": "jungle",
         "ukphone": "jungle"
@@ -162,7 +162,7 @@
     {
         "name": "kind",
         "trans": [
-            "Kind is a Grade 2 word."
+            "Nice and caring toward others."
         ],
         "usphone": "kind",
         "ukphone": "kind"
@@ -170,7 +170,7 @@
     {
         "name": "laugh",
         "trans": [
-            "Laugh is a Grade 2 word."
+            "To make sounds that show you think something is funny."
         ],
         "usphone": "laugh",
         "ukphone": "laugh"
@@ -178,7 +178,7 @@
     {
         "name": "market",
         "trans": [
-            "Market is a Grade 2 word."
+            "A place where people buy and sell food and other things."
         ],
         "usphone": "market",
         "ukphone": "market"
@@ -186,7 +186,7 @@
     {
         "name": "number",
         "trans": [
-            "Number is a Grade 2 word."
+            "A word or symbol that shows how many, like 1, 2, 3."
         ],
         "usphone": "number",
         "ukphone": "number"
@@ -194,7 +194,7 @@
     {
         "name": "outside",
         "trans": [
-            "Outside is a Grade 2 word."
+            "Not inside a building; in the open air."
         ],
         "usphone": "outside",
         "ukphone": "outside"
@@ -202,7 +202,7 @@
     {
         "name": "parent",
         "trans": [
-            "Parent is a Grade 2 word."
+            "A mother or father; someone who takes care of a child."
         ],
         "usphone": "parent",
         "ukphone": "parent"
@@ -210,7 +210,7 @@
     {
         "name": "quick",
         "trans": [
-            "Quick is a Grade 2 word."
+            "Fast; done in a short time."
         ],
         "usphone": "quick",
         "ukphone": "quick"
@@ -218,7 +218,7 @@
     {
         "name": "reason",
         "trans": [
-            "Reason is a Grade 2 word."
+            "The explanation for why something happens or is done."
         ],
         "usphone": "reason",
         "ukphone": "reason"
@@ -226,7 +226,7 @@
     {
         "name": "school",
         "trans": [
-            "School is a Grade 2 word."
+            "A place where children go to learn."
         ],
         "usphone": "school",
         "ukphone": "school"
@@ -234,7 +234,7 @@
     {
         "name": "sister",
         "trans": [
-            "Sister is a Grade 2 word."
+            "A girl who has the same parents as you."
         ],
         "usphone": "sister",
         "ukphone": "sister"
@@ -242,7 +242,7 @@
     {
         "name": "teacher",
         "trans": [
-            "Teacher is a Grade 2 word."
+            "A person who helps students learn at school."
         ],
         "usphone": "teacher",
         "ukphone": "teacher"
@@ -250,7 +250,7 @@
     {
         "name": "under",
         "trans": [
-            "Under is a Grade 2 word."
+            "Below or beneath something."
         ],
         "usphone": "under",
         "ukphone": "under"
@@ -258,7 +258,7 @@
     {
         "name": "village",
         "trans": [
-            "Village is a Grade 2 word."
+            "A small town in the country with houses and shops."
         ],
         "usphone": "village",
         "ukphone": "village"
@@ -266,7 +266,7 @@
     {
         "name": "window",
         "trans": [
-            "Window is a Grade 2 word."
+            "An opening in a wall with glass that lets light in."
         ],
         "usphone": "window",
         "ukphone": "window"
@@ -274,7 +274,7 @@
     {
         "name": "yellow",
         "trans": [
-            "Yellow is a Grade 2 word."
+            "A bright color like the sun or a banana."
         ],
         "usphone": "yellow",
         "ukphone": "yellow"
@@ -282,7 +282,7 @@
     {
         "name": "zero",
         "trans": [
-            "Zero is a Grade 2 word."
+            "The number that means none or nothing; 0."
         ],
         "usphone": "zero",
         "ukphone": "zero"
@@ -290,7 +290,7 @@
     {
         "name": "around",
         "trans": [
-            "Around is a Grade 2 word."
+            "On all sides of something; in a circle."
         ],
         "usphone": "around",
         "ukphone": "around"
@@ -298,7 +298,7 @@
     {
         "name": "between",
         "trans": [
-            "Between is a Grade 2 word."
+            "In the middle of two things."
         ],
         "usphone": "between",
         "ukphone": "between"
@@ -306,7 +306,7 @@
     {
         "name": "carry",
         "trans": [
-            "Carry is a Grade 2 word."
+            "To hold something and move it from one place to another."
         ],
         "usphone": "carry",
         "ukphone": "carry"
@@ -314,7 +314,7 @@
     {
         "name": "decide",
         "trans": [
-            "Decide is a Grade 2 word."
+            "To make up your mind about something; to choose."
         ],
         "usphone": "decide",
         "ukphone": "decide"
@@ -322,7 +322,7 @@
     {
         "name": "enjoy",
         "trans": [
-            "Enjoy is a Grade 2 word."
+            "To like something and have fun doing it."
         ],
         "usphone": "enjoy",
         "ukphone": "enjoy"
@@ -330,7 +330,7 @@
     {
         "name": "finish",
         "trans": [
-            "Finish is a Grade 2 word."
+            "To complete something; to reach the end."
         ],
         "usphone": "finish",
         "ukphone": "finish"
@@ -338,7 +338,7 @@
     {
         "name": "garden",
         "trans": [
-            "Garden is a Grade 2 word."
+            "A piece of ground where you grow flowers, fruits, or vegetables."
         ],
         "usphone": "garden",
         "ukphone": "garden"
@@ -346,7 +346,7 @@
     {
         "name": "hill",
         "trans": [
-            "Hill is a Grade 2 word."
+            "A raised area of land that is smaller than a mountain."
         ],
         "usphone": "hill",
         "ukphone": "hill"
@@ -354,7 +354,7 @@
     {
         "name": "idea",
         "trans": [
-            "Idea is a Grade 2 word."
+            "A thought or plan in your mind."
         ],
         "usphone": "idea",
         "ukphone": "idea"
@@ -362,7 +362,7 @@
     {
         "name": "jacket",
         "trans": [
-            "Jacket is a Grade 2 word."
+            "A short coat that you wear over your clothes."
         ],
         "usphone": "jacket",
         "ukphone": "jacket"
@@ -370,7 +370,7 @@
     {
         "name": "kitchen",
         "trans": [
-            "Kitchen is a Grade 2 word."
+            "The room where food is cooked."
         ],
         "usphone": "kitchen",
         "ukphone": "kitchen"
@@ -378,7 +378,7 @@
     {
         "name": "learn",
         "trans": [
-            "Learn is a Grade 2 word."
+            "To get new knowledge or skills by studying or practicing."
         ],
         "usphone": "learn",
         "ukphone": "learn"
@@ -386,7 +386,7 @@
     {
         "name": "money",
         "trans": [
-            "Money is a Grade 2 word."
+            "Coins and paper bills used to buy things."
         ],
         "usphone": "money",
         "ukphone": "money"
@@ -394,7 +394,7 @@
     {
         "name": "never",
         "trans": [
-            "Never is a Grade 2 word."
+            "Not ever; at no time."
         ],
         "usphone": "never",
         "ukphone": "never"
@@ -402,7 +402,7 @@
     {
         "name": "ocean",
         "trans": [
-            "Ocean is a Grade 2 word."
+            "A very large area of salty water."
         ],
         "usphone": "ocean",
         "ukphone": "ocean"
@@ -410,7 +410,7 @@
     {
         "name": "people",
         "trans": [
-            "People is a Grade 2 word."
+            "More than one person; human beings."
         ],
         "usphone": "people",
         "ukphone": "people"
@@ -418,7 +418,7 @@
     {
         "name": "quiet",
         "trans": [
-            "Quiet is a Grade 2 word."
+            "Making little or no noise."
         ],
         "usphone": "quiet",
         "ukphone": "quiet"
@@ -426,7 +426,7 @@
     {
         "name": "river",
         "trans": [
-            "River is a Grade 2 word."
+            "A large stream of water that flows through the land."
         ],
         "usphone": "river",
         "ukphone": "river"
@@ -434,7 +434,7 @@
     {
         "name": "sound",
         "trans": [
-            "Sound is a Grade 2 word."
+            "Something you hear with your ears."
         ],
         "usphone": "sound",
         "ukphone": "sound"
@@ -442,7 +442,7 @@
     {
         "name": "table",
         "trans": [
-            "Table is a Grade 2 word."
+            "A piece of furniture with a flat top and legs."
         ],
         "usphone": "table",
         "ukphone": "table"
@@ -450,7 +450,7 @@
     {
         "name": "uncle",
         "trans": [
-            "Uncle is a Grade 2 word."
+            "The brother of your mother or father."
         ],
         "usphone": "uncle",
         "ukphone": "uncle"
@@ -458,7 +458,7 @@
     {
         "name": "voice",
         "trans": [
-            "Voice is a Grade 2 word."
+            "The sound you make when you speak or sing."
         ],
         "usphone": "voice",
         "ukphone": "voice"
@@ -466,7 +466,7 @@
     {
         "name": "water",
         "trans": [
-            "Water is a Grade 2 word."
+            "A clear liquid that we drink and that fills rivers and oceans."
         ],
         "usphone": "water",
         "ukphone": "water"
@@ -474,7 +474,7 @@
     {
         "name": "young",
         "trans": [
-            "Young is a Grade 2 word."
+            "Not old; in the early part of life."
         ],
         "usphone": "young",
         "ukphone": "young"
@@ -482,7 +482,7 @@
     {
         "name": "zebra",
         "trans": [
-            "Zebra is a Grade 2 word."
+            "An animal that looks like a horse with black and white stripes."
         ],
         "usphone": "zebra",
         "ukphone": "zebra"
@@ -490,7 +490,7 @@
     {
         "name": "alone",
         "trans": [
-            "Alone is a Grade 2 word."
+            "By yourself; with no one else around."
         ],
         "usphone": "alone",
         "ukphone": "alone"
@@ -498,7 +498,7 @@
     {
         "name": "before",
         "trans": [
-            "Before is a Grade 2 word."
+            "Earlier in time; happening first."
         ],
         "usphone": "before",
         "ukphone": "before"
@@ -506,7 +506,7 @@
     {
         "name": "center",
         "trans": [
-            "Center is a Grade 2 word."
+            "The middle point or part of something."
         ],
         "usphone": "center",
         "ukphone": "center"
@@ -514,7 +514,7 @@
     {
         "name": "dream",
         "trans": [
-            "Dream is a Grade 2 word."
+            "Pictures and thoughts in your mind while you sleep."
         ],
         "usphone": "dream",
         "ukphone": "dream"
@@ -522,7 +522,7 @@
     {
         "name": "everyone",
         "trans": [
-            "Everyone is a Grade 2 word."
+            "Every person; all people."
         ],
         "usphone": "everyone",
         "ukphone": "everyone"
@@ -530,7 +530,7 @@
     {
         "name": "friend",
         "trans": [
-            "Friend is a Grade 2 word."
+            "Someone you like and who likes you; a pal."
         ],
         "usphone": "friend",
         "ukphone": "friend"
@@ -538,7 +538,7 @@
     {
         "name": "great",
         "trans": [
-            "Great is a Grade 2 word."
+            "Very good or wonderful."
         ],
         "usphone": "great",
         "ukphone": "great"
@@ -546,7 +546,7 @@
     {
         "name": "helpful",
         "trans": [
-            "Helpful is a Grade 2 word."
+            "Willing to help others; useful."
         ],
         "usphone": "helpful",
         "ukphone": "helpful"
@@ -554,7 +554,7 @@
     {
         "name": "island",
         "trans": [
-            "Island is a Grade 2 word."
+            "Land that is surrounded by water on all sides."
         ],
         "usphone": "island",
         "ukphone": "island"
@@ -562,7 +562,7 @@
     {
         "name": "joy",
         "trans": [
-            "Joy is a Grade 2 word."
+            "A feeling of great happiness."
         ],
         "usphone": "joy",
         "ukphone": "joy"
@@ -570,7 +570,7 @@
     {
         "name": "knife",
         "trans": [
-            "Knife is a Grade 2 word."
+            "A tool with a sharp blade used for cutting."
         ],
         "usphone": "knife",
         "ukphone": "knife"
@@ -578,7 +578,7 @@
     {
         "name": "little",
         "trans": [
-            "Little is a Grade 2 word."
+            "Small in size; not big."
         ],
         "usphone": "little",
         "ukphone": "little"
@@ -586,7 +586,7 @@
     {
         "name": "morning",
         "trans": [
-            "Morning is a Grade 2 word."
+            "The early part of the day, from when you wake up until noon."
         ],
         "usphone": "morning",
         "ukphone": "morning"
@@ -594,7 +594,7 @@
     {
         "name": "night",
         "trans": [
-            "Night is a Grade 2 word."
+            "The time when it is dark outside and most people sleep."
         ],
         "usphone": "night",
         "ukphone": "night"
@@ -602,7 +602,7 @@
     {
         "name": "open",
         "trans": [
-            "Open is a Grade 2 word."
+            "To move something so you can see or go through it; not closed."
         ],
         "usphone": "open",
         "ukphone": "open"
@@ -610,7 +610,7 @@
     {
         "name": "place",
         "trans": [
-            "Place is a Grade 2 word."
+            "A spot or location; somewhere you can be."
         ],
         "usphone": "place",
         "ukphone": "place"
@@ -618,7 +618,7 @@
     {
         "name": "queen",
         "trans": [
-            "Queen is a Grade 2 word."
+            "A woman who rules a country or is married to a king."
         ],
         "usphone": "queen",
         "ukphone": "queen"
@@ -626,7 +626,7 @@
     {
         "name": "rain",
         "trans": [
-            "Rain is a Grade 2 word."
+            "Water that falls from clouds in the sky."
         ],
         "usphone": "rain",
         "ukphone": "rain"
@@ -634,7 +634,7 @@
     {
         "name": "snow",
         "trans": [
-            "Snow is a Grade 2 word."
+            "White frozen water that falls from the sky in winter."
         ],
         "usphone": "snow",
         "ukphone": "snow"
@@ -642,7 +642,7 @@
     {
         "name": "today",
         "trans": [
-            "Today is a Grade 2 word."
+            "This day; the day we are in now."
         ],
         "usphone": "today",
         "ukphone": "today"
@@ -650,7 +650,7 @@
     {
         "name": "until",
         "trans": [
-            "Until is a Grade 2 word."
+            "Up to the time when something happens."
         ],
         "usphone": "until",
         "ukphone": "until"
@@ -658,7 +658,7 @@
     {
         "name": "visit",
         "trans": [
-            "Visit is a Grade 2 word."
+            "To go to see someone or a place."
         ],
         "usphone": "visit",
         "ukphone": "visit"
@@ -666,7 +666,7 @@
     {
         "name": "world",
         "trans": [
-            "World is a Grade 2 word."
+            "The Earth and all the people and places on it."
         ],
         "usphone": "world",
         "ukphone": "world"
@@ -674,7 +674,7 @@
     {
         "name": "x-ray",
         "trans": [
-            "X-ray is a Grade 2 word."
+            "A special picture that shows the inside of your body, like your bones."
         ],
         "usphone": "x-ray",
         "ukphone": "x-ray"
@@ -682,7 +682,7 @@
     {
         "name": "your",
         "trans": [
-            "Your is a Grade 2 word."
+            "Belonging to you."
         ],
         "usphone": "your",
         "ukphone": "your"
@@ -690,7 +690,7 @@
     {
         "name": "about",
         "trans": [
-            "About is a Grade 2 word."
+            "On the subject of; concerning something."
         ],
         "usphone": "about",
         "ukphone": "about"
@@ -698,7 +698,7 @@
     {
         "name": "because",
         "trans": [
-            "Because is a Grade 2 word."
+            "For the reason that; telling why something happens."
         ],
         "usphone": "because",
         "ukphone": "because"
@@ -706,7 +706,7 @@
     {
         "name": "child",
         "trans": [
-            "Child is a Grade 2 word."
+            "A young boy or girl."
         ],
         "usphone": "child",
         "ukphone": "child"
@@ -714,7 +714,7 @@
     {
         "name": "door",
         "trans": [
-            "Door is a Grade 2 word."
+            "Something you open and close to go in and out of a room or building."
         ],
         "usphone": "door",
         "ukphone": "door"
@@ -722,7 +722,7 @@
     {
         "name": "even",
         "trans": [
-            "Even is a Grade 2 word."
+            "Flat and smooth; or used to emphasize something surprising."
         ],
         "usphone": "even",
         "ukphone": "even"
@@ -730,7 +730,7 @@
     {
         "name": "floor",
         "trans": [
-            "Floor is a Grade 2 word."
+            "The surface you walk on inside a building."
         ],
         "usphone": "floor",
         "ukphone": "floor"
@@ -738,7 +738,7 @@
     {
         "name": "green",
         "trans": [
-            "Green is a Grade 2 word."
+            "A color like grass and leaves."
         ],
         "usphone": "green",
         "ukphone": "green"
@@ -746,7 +746,7 @@
     {
         "name": "house",
         "trans": [
-            "House is a Grade 2 word."
+            "A building where people live."
         ],
         "usphone": "house",
         "ukphone": "house"
@@ -754,7 +754,7 @@
     {
         "name": "important",
         "trans": [
-            "Important is a Grade 2 word."
+            "Something that matters a lot and is very special."
         ],
         "usphone": "important",
         "ukphone": "important"
@@ -762,7 +762,7 @@
     {
         "name": "join",
         "trans": [
-            "Join is a Grade 2 word."
+            "To become part of a group or to connect things together."
         ],
         "usphone": "join",
         "ukphone": "join"
@@ -770,7 +770,7 @@
     {
         "name": "keep",
         "trans": [
-            "Keep is a Grade 2 word."
+            "To continue to have something; not to give it away."
         ],
         "usphone": "keep",
         "ukphone": "keep"
@@ -778,7 +778,7 @@
     {
         "name": "love",
         "trans": [
-            "Love is a Grade 2 word."
+            "A very strong feeling of caring about someone or something."
         ],
         "usphone": "love",
         "ukphone": "love"
@@ -786,7 +786,7 @@
     {
         "name": "music",
         "trans": [
-            "Music is a Grade 2 word."
+            "Sounds made by singing or playing instruments that are nice to hear."
         ],
         "usphone": "music",
         "ukphone": "music"
@@ -794,7 +794,7 @@
     {
         "name": "new",
         "trans": [
-            "New is a Grade 2 word."
+            "Something that has just been made or bought; not old."
         ],
         "usphone": "new",
         "ukphone": "new"

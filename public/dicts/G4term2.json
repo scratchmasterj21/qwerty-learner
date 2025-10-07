@@ -1,0 +1,802 @@
+[
+    {
+        "name": "kingdom",
+        "trans": [
+            "A kingdom is a land ruled by a king or queen."
+        ],
+        "usphone": "'k\u026a\u014bd\u0259m",
+        "ukphone": "'k\u026a\u014bd\u0259m"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is the words people use to communicate."
+        ],
+        "usphone": "'l\u00e6\u014b\u0261w\u026ad\u0292",
+        "ukphone": "'l\u00e6\u014b\u0261w\u026ad\u0292"
+    },
+    {
+        "name": "message",
+        "trans": [
+            "A message is information you send or receive."
+        ],
+        "usphone": "'m\u025bs\u026ad\u0292",
+        "ukphone": "'mes\u026ad\u0292"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "Something natural is made by nature, not by people."
+        ],
+        "usphone": "'n\u00e6t\u0283r\u0259l",
+        "ukphone": "'n\u00e6t\u0283(\u0259)r\u0259l"
+    },
+    {
+        "name": "observe",
+        "trans": [
+            "To observe means to watch carefully."
+        ],
+        "usphone": "\u0259b'z\u025dv",
+        "ukphone": "\u0259b'z\u025c\u02d0v"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "To protect means to keep something safe."
+        ],
+        "usphone": "pr\u0259't\u025bkt",
+        "ukphone": "pr\u0259'tekt"
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "Rapid means happening very fast."
+        ],
+        "usphone": "'r\u00e6p\u026ad",
+        "ukphone": "'r\u00e6p\u026ad"
+    },
+    {
+        "name": "search",
+        "trans": [
+            "To search means to look for something."
+        ],
+        "usphone": "s\u025dt\u0283",
+        "ukphone": "s\u025c\u02d0t\u0283"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "To travel means to go to another place."
+        ],
+        "usphone": "'tr\u00e6v\u0259l",
+        "ukphone": "'tr\u00e6v(\u0259)l"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "Useful means helpful or able to do something well."
+        ],
+        "usphone": "'jusfl",
+        "ukphone": "'ju\u02d0sfl"
+    },
+    {
+        "name": "kingdom",
+        "trans": [
+            "A kingdom is a land ruled by a king or queen."
+        ],
+        "usphone": "'k\u026a\u014bd\u0259m",
+        "ukphone": "'k\u026a\u014bd\u0259m"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is the words people use to communicate."
+        ],
+        "usphone": "'l\u00e6\u014b\u0261w\u026ad\u0292",
+        "ukphone": "'l\u00e6\u014b\u0261w\u026ad\u0292"
+    },
+    {
+        "name": "message",
+        "trans": [
+            "A message is information you send or receive."
+        ],
+        "usphone": "'m\u025bs\u026ad\u0292",
+        "ukphone": "'mes\u026ad\u0292"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "Something natural is made by nature, not by people."
+        ],
+        "usphone": "'n\u00e6t\u0283r\u0259l",
+        "ukphone": "'n\u00e6t\u0283(\u0259)r\u0259l"
+    },
+    {
+        "name": "observe",
+        "trans": [
+            "To observe means to watch carefully."
+        ],
+        "usphone": "\u0259b'z\u025dv",
+        "ukphone": "\u0259b'z\u025c\u02d0v"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "To protect means to keep something safe."
+        ],
+        "usphone": "pr\u0259't\u025bkt",
+        "ukphone": "pr\u0259'tekt"
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "Rapid means happening very fast."
+        ],
+        "usphone": "'r\u00e6p\u026ad",
+        "ukphone": "'r\u00e6p\u026ad"
+    },
+    {
+        "name": "search",
+        "trans": [
+            "To search means to look for something."
+        ],
+        "usphone": "s\u025dt\u0283",
+        "ukphone": "s\u025c\u02d0t\u0283"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "To travel means to go to another place."
+        ],
+        "usphone": "'tr\u00e6v\u0259l",
+        "ukphone": "'tr\u00e6v(\u0259)l"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "Useful means helpful or able to do something well."
+        ],
+        "usphone": "'jusfl",
+        "ukphone": "'ju\u02d0sfl"
+    },
+    {
+        "name": "kingdom",
+        "trans": [
+            "A kingdom is a land ruled by a king or queen."
+        ],
+        "usphone": "'k\u026a\u014bd\u0259m",
+        "ukphone": "'k\u026a\u014bd\u0259m"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is the words people use to communicate."
+        ],
+        "usphone": "'l\u00e6\u014b\u0261w\u026ad\u0292",
+        "ukphone": "'l\u00e6\u014b\u0261w\u026ad\u0292"
+    },
+    {
+        "name": "message",
+        "trans": [
+            "A message is information you send or receive."
+        ],
+        "usphone": "'m\u025bs\u026ad\u0292",
+        "ukphone": "'mes\u026ad\u0292"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "Something natural is made by nature, not by people."
+        ],
+        "usphone": "'n\u00e6t\u0283r\u0259l",
+        "ukphone": "'n\u00e6t\u0283(\u0259)r\u0259l"
+    },
+    {
+        "name": "observe",
+        "trans": [
+            "To observe means to watch carefully."
+        ],
+        "usphone": "\u0259b'z\u025dv",
+        "ukphone": "\u0259b'z\u025c\u02d0v"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "To protect means to keep something safe."
+        ],
+        "usphone": "pr\u0259't\u025bkt",
+        "ukphone": "pr\u0259'tekt"
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "Rapid means happening very fast."
+        ],
+        "usphone": "'r\u00e6p\u026ad",
+        "ukphone": "'r\u00e6p\u026ad"
+    },
+    {
+        "name": "search",
+        "trans": [
+            "To search means to look for something."
+        ],
+        "usphone": "s\u025dt\u0283",
+        "ukphone": "s\u025c\u02d0t\u0283"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "To travel means to go to another place."
+        ],
+        "usphone": "'tr\u00e6v\u0259l",
+        "ukphone": "'tr\u00e6v(\u0259)l"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "Useful means helpful or able to do something well."
+        ],
+        "usphone": "'jusfl",
+        "ukphone": "'ju\u02d0sfl"
+    },
+    {
+        "name": "kingdom",
+        "trans": [
+            "A kingdom is a land ruled by a king or queen."
+        ],
+        "usphone": "'k\u026a\u014bd\u0259m",
+        "ukphone": "'k\u026a\u014bd\u0259m"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is the words people use to communicate."
+        ],
+        "usphone": "'l\u00e6\u014b\u0261w\u026ad\u0292",
+        "ukphone": "'l\u00e6\u014b\u0261w\u026ad\u0292"
+    },
+    {
+        "name": "message",
+        "trans": [
+            "A message is information you send or receive."
+        ],
+        "usphone": "'m\u025bs\u026ad\u0292",
+        "ukphone": "'mes\u026ad\u0292"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "Something natural is made by nature, not by people."
+        ],
+        "usphone": "'n\u00e6t\u0283r\u0259l",
+        "ukphone": "'n\u00e6t\u0283(\u0259)r\u0259l"
+    },
+    {
+        "name": "observe",
+        "trans": [
+            "To observe means to watch carefully."
+        ],
+        "usphone": "\u0259b'z\u025dv",
+        "ukphone": "\u0259b'z\u025c\u02d0v"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "To protect means to keep something safe."
+        ],
+        "usphone": "pr\u0259't\u025bkt",
+        "ukphone": "pr\u0259'tekt"
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "Rapid means happening very fast."
+        ],
+        "usphone": "'r\u00e6p\u026ad",
+        "ukphone": "'r\u00e6p\u026ad"
+    },
+    {
+        "name": "search",
+        "trans": [
+            "To search means to look for something."
+        ],
+        "usphone": "s\u025dt\u0283",
+        "ukphone": "s\u025c\u02d0t\u0283"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "To travel means to go to another place."
+        ],
+        "usphone": "'tr\u00e6v\u0259l",
+        "ukphone": "'tr\u00e6v(\u0259)l"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "Useful means helpful or able to do something well."
+        ],
+        "usphone": "'jusfl",
+        "ukphone": "'ju\u02d0sfl"
+    },
+    {
+        "name": "kingdom",
+        "trans": [
+            "A kingdom is a land ruled by a king or queen."
+        ],
+        "usphone": "'k\u026a\u014bd\u0259m",
+        "ukphone": "'k\u026a\u014bd\u0259m"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is the words people use to communicate."
+        ],
+        "usphone": "'l\u00e6\u014b\u0261w\u026ad\u0292",
+        "ukphone": "'l\u00e6\u014b\u0261w\u026ad\u0292"
+    },
+    {
+        "name": "message",
+        "trans": [
+            "A message is information you send or receive."
+        ],
+        "usphone": "'m\u025bs\u026ad\u0292",
+        "ukphone": "'mes\u026ad\u0292"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "Something natural is made by nature, not by people."
+        ],
+        "usphone": "'n\u00e6t\u0283r\u0259l",
+        "ukphone": "'n\u00e6t\u0283(\u0259)r\u0259l"
+    },
+    {
+        "name": "observe",
+        "trans": [
+            "To observe means to watch carefully."
+        ],
+        "usphone": "\u0259b'z\u025dv",
+        "ukphone": "\u0259b'z\u025c\u02d0v"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "To protect means to keep something safe."
+        ],
+        "usphone": "pr\u0259't\u025bkt",
+        "ukphone": "pr\u0259'tekt"
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "Rapid means happening very fast."
+        ],
+        "usphone": "'r\u00e6p\u026ad",
+        "ukphone": "'r\u00e6p\u026ad"
+    },
+    {
+        "name": "search",
+        "trans": [
+            "To search means to look for something."
+        ],
+        "usphone": "s\u025dt\u0283",
+        "ukphone": "s\u025c\u02d0t\u0283"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "To travel means to go to another place."
+        ],
+        "usphone": "'tr\u00e6v\u0259l",
+        "ukphone": "'tr\u00e6v(\u0259)l"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "Useful means helpful or able to do something well."
+        ],
+        "usphone": "'jusfl",
+        "ukphone": "'ju\u02d0sfl"
+    },
+    {
+        "name": "kingdom",
+        "trans": [
+            "A kingdom is a land ruled by a king or queen."
+        ],
+        "usphone": "'k\u026a\u014bd\u0259m",
+        "ukphone": "'k\u026a\u014bd\u0259m"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is the words people use to communicate."
+        ],
+        "usphone": "'l\u00e6\u014b\u0261w\u026ad\u0292",
+        "ukphone": "'l\u00e6\u014b\u0261w\u026ad\u0292"
+    },
+    {
+        "name": "message",
+        "trans": [
+            "A message is information you send or receive."
+        ],
+        "usphone": "'m\u025bs\u026ad\u0292",
+        "ukphone": "'mes\u026ad\u0292"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "Something natural is made by nature, not by people."
+        ],
+        "usphone": "'n\u00e6t\u0283r\u0259l",
+        "ukphone": "'n\u00e6t\u0283(\u0259)r\u0259l"
+    },
+    {
+        "name": "observe",
+        "trans": [
+            "To observe means to watch carefully."
+        ],
+        "usphone": "\u0259b'z\u025dv",
+        "ukphone": "\u0259b'z\u025c\u02d0v"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "To protect means to keep something safe."
+        ],
+        "usphone": "pr\u0259't\u025bkt",
+        "ukphone": "pr\u0259'tekt"
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "Rapid means happening very fast."
+        ],
+        "usphone": "'r\u00e6p\u026ad",
+        "ukphone": "'r\u00e6p\u026ad"
+    },
+    {
+        "name": "search",
+        "trans": [
+            "To search means to look for something."
+        ],
+        "usphone": "s\u025dt\u0283",
+        "ukphone": "s\u025c\u02d0t\u0283"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "To travel means to go to another place."
+        ],
+        "usphone": "'tr\u00e6v\u0259l",
+        "ukphone": "'tr\u00e6v(\u0259)l"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "Useful means helpful or able to do something well."
+        ],
+        "usphone": "'jusfl",
+        "ukphone": "'ju\u02d0sfl"
+    },
+    {
+        "name": "kingdom",
+        "trans": [
+            "A kingdom is a land ruled by a king or queen."
+        ],
+        "usphone": "'k\u026a\u014bd\u0259m",
+        "ukphone": "'k\u026a\u014bd\u0259m"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is the words people use to communicate."
+        ],
+        "usphone": "'l\u00e6\u014b\u0261w\u026ad\u0292",
+        "ukphone": "'l\u00e6\u014b\u0261w\u026ad\u0292"
+    },
+    {
+        "name": "message",
+        "trans": [
+            "A message is information you send or receive."
+        ],
+        "usphone": "'m\u025bs\u026ad\u0292",
+        "ukphone": "'mes\u026ad\u0292"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "Something natural is made by nature, not by people."
+        ],
+        "usphone": "'n\u00e6t\u0283r\u0259l",
+        "ukphone": "'n\u00e6t\u0283(\u0259)r\u0259l"
+    },
+    {
+        "name": "observe",
+        "trans": [
+            "To observe means to watch carefully."
+        ],
+        "usphone": "\u0259b'z\u025dv",
+        "ukphone": "\u0259b'z\u025c\u02d0v"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "To protect means to keep something safe."
+        ],
+        "usphone": "pr\u0259't\u025bkt",
+        "ukphone": "pr\u0259'tekt"
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "Rapid means happening very fast."
+        ],
+        "usphone": "'r\u00e6p\u026ad",
+        "ukphone": "'r\u00e6p\u026ad"
+    },
+    {
+        "name": "search",
+        "trans": [
+            "To search means to look for something."
+        ],
+        "usphone": "s\u025dt\u0283",
+        "ukphone": "s\u025c\u02d0t\u0283"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "To travel means to go to another place."
+        ],
+        "usphone": "'tr\u00e6v\u0259l",
+        "ukphone": "'tr\u00e6v(\u0259)l"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "Useful means helpful or able to do something well."
+        ],
+        "usphone": "'jusfl",
+        "ukphone": "'ju\u02d0sfl"
+    },
+    {
+        "name": "kingdom",
+        "trans": [
+            "A kingdom is a land ruled by a king or queen."
+        ],
+        "usphone": "'k\u026a\u014bd\u0259m",
+        "ukphone": "'k\u026a\u014bd\u0259m"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is the words people use to communicate."
+        ],
+        "usphone": "'l\u00e6\u014b\u0261w\u026ad\u0292",
+        "ukphone": "'l\u00e6\u014b\u0261w\u026ad\u0292"
+    },
+    {
+        "name": "message",
+        "trans": [
+            "A message is information you send or receive."
+        ],
+        "usphone": "'m\u025bs\u026ad\u0292",
+        "ukphone": "'mes\u026ad\u0292"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "Something natural is made by nature, not by people."
+        ],
+        "usphone": "'n\u00e6t\u0283r\u0259l",
+        "ukphone": "'n\u00e6t\u0283(\u0259)r\u0259l"
+    },
+    {
+        "name": "observe",
+        "trans": [
+            "To observe means to watch carefully."
+        ],
+        "usphone": "\u0259b'z\u025dv",
+        "ukphone": "\u0259b'z\u025c\u02d0v"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "To protect means to keep something safe."
+        ],
+        "usphone": "pr\u0259't\u025bkt",
+        "ukphone": "pr\u0259'tekt"
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "Rapid means happening very fast."
+        ],
+        "usphone": "'r\u00e6p\u026ad",
+        "ukphone": "'r\u00e6p\u026ad"
+    },
+    {
+        "name": "search",
+        "trans": [
+            "To search means to look for something."
+        ],
+        "usphone": "s\u025dt\u0283",
+        "ukphone": "s\u025c\u02d0t\u0283"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "To travel means to go to another place."
+        ],
+        "usphone": "'tr\u00e6v\u0259l",
+        "ukphone": "'tr\u00e6v(\u0259)l"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "Useful means helpful or able to do something well."
+        ],
+        "usphone": "'jusfl",
+        "ukphone": "'ju\u02d0sfl"
+    },
+    {
+        "name": "kingdom",
+        "trans": [
+            "A kingdom is a land ruled by a king or queen."
+        ],
+        "usphone": "'k\u026a\u014bd\u0259m",
+        "ukphone": "'k\u026a\u014bd\u0259m"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is the words people use to communicate."
+        ],
+        "usphone": "'l\u00e6\u014b\u0261w\u026ad\u0292",
+        "ukphone": "'l\u00e6\u014b\u0261w\u026ad\u0292"
+    },
+    {
+        "name": "message",
+        "trans": [
+            "A message is information you send or receive."
+        ],
+        "usphone": "'m\u025bs\u026ad\u0292",
+        "ukphone": "'mes\u026ad\u0292"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "Something natural is made by nature, not by people."
+        ],
+        "usphone": "'n\u00e6t\u0283r\u0259l",
+        "ukphone": "'n\u00e6t\u0283(\u0259)r\u0259l"
+    },
+    {
+        "name": "observe",
+        "trans": [
+            "To observe means to watch carefully."
+        ],
+        "usphone": "\u0259b'z\u025dv",
+        "ukphone": "\u0259b'z\u025c\u02d0v"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "To protect means to keep something safe."
+        ],
+        "usphone": "pr\u0259't\u025bkt",
+        "ukphone": "pr\u0259'tekt"
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "Rapid means happening very fast."
+        ],
+        "usphone": "'r\u00e6p\u026ad",
+        "ukphone": "'r\u00e6p\u026ad"
+    },
+    {
+        "name": "search",
+        "trans": [
+            "To search means to look for something."
+        ],
+        "usphone": "s\u025dt\u0283",
+        "ukphone": "s\u025c\u02d0t\u0283"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "To travel means to go to another place."
+        ],
+        "usphone": "'tr\u00e6v\u0259l",
+        "ukphone": "'tr\u00e6v(\u0259)l"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "Useful means helpful or able to do something well."
+        ],
+        "usphone": "'jusfl",
+        "ukphone": "'ju\u02d0sfl"
+    },
+    {
+        "name": "kingdom",
+        "trans": [
+            "A kingdom is a land ruled by a king or queen."
+        ],
+        "usphone": "'k\u026a\u014bd\u0259m",
+        "ukphone": "'k\u026a\u014bd\u0259m"
+    },
+    {
+        "name": "language",
+        "trans": [
+            "Language is the words people use to communicate."
+        ],
+        "usphone": "'l\u00e6\u014b\u0261w\u026ad\u0292",
+        "ukphone": "'l\u00e6\u014b\u0261w\u026ad\u0292"
+    },
+    {
+        "name": "message",
+        "trans": [
+            "A message is information you send or receive."
+        ],
+        "usphone": "'m\u025bs\u026ad\u0292",
+        "ukphone": "'mes\u026ad\u0292"
+    },
+    {
+        "name": "natural",
+        "trans": [
+            "Something natural is made by nature, not by people."
+        ],
+        "usphone": "'n\u00e6t\u0283r\u0259l",
+        "ukphone": "'n\u00e6t\u0283(\u0259)r\u0259l"
+    },
+    {
+        "name": "observe",
+        "trans": [
+            "To observe means to watch carefully."
+        ],
+        "usphone": "\u0259b'z\u025dv",
+        "ukphone": "\u0259b'z\u025c\u02d0v"
+    },
+    {
+        "name": "protect",
+        "trans": [
+            "To protect means to keep something safe."
+        ],
+        "usphone": "pr\u0259't\u025bkt",
+        "ukphone": "pr\u0259'tekt"
+    },
+    {
+        "name": "rapid",
+        "trans": [
+            "Rapid means happening very fast."
+        ],
+        "usphone": "'r\u00e6p\u026ad",
+        "ukphone": "'r\u00e6p\u026ad"
+    },
+    {
+        "name": "search",
+        "trans": [
+            "To search means to look for something."
+        ],
+        "usphone": "s\u025dt\u0283",
+        "ukphone": "s\u025c\u02d0t\u0283"
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "To travel means to go to another place."
+        ],
+        "usphone": "'tr\u00e6v\u0259l",
+        "ukphone": "'tr\u00e6v(\u0259)l"
+    },
+    {
+        "name": "useful",
+        "trans": [
+            "Useful means helpful or able to do something well."
+        ],
+        "usphone": "'jusfl",
+        "ukphone": "'ju\u02d0sfl"
+    }
+]

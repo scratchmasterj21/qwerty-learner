@@ -1,5 +1,4 @@
 import { TypingContext, TypingStateActionType } from '../../store'
-import AnalysisButton from '../AnalysisButton'
 import ErrorBookButton from '../ErrorBookButton'
 import HandPositionIllustration from '../HandPositionIllustration'
 import LoopWordSwitcher from '../LoopWordSwitcher'
@@ -71,9 +70,6 @@ export default function Switcher() {
         <ErrorBookButton />
       </Tooltip>
 
-      <Tooltip className="h-7 w-7" content="View Statistics">
-        <AnalysisButton />
-      </Tooltip>
 
       <Tooltip className="h-7 w-7" content="Toggle Dark Mode">
         <button

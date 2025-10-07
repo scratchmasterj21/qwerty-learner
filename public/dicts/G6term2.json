@@ -1,0 +1,794 @@
+[
+    {
+        "name": "biology",
+        "trans": [
+            "The scientific study of living organisms and life"
+        ],
+        "usphone": "by-ol-uh-jee",
+        "ukphone": "by-ol-uh-jee"
+    },
+    {
+        "name": "brief",
+        "trans": [
+            "Lasting only a short time; using few words"
+        ],
+        "usphone": "breef",
+        "ukphone": "breef"
+    },
+    {
+        "name": "brilliant",
+        "trans": [
+            "Exceptionally clever or talented; very bright"
+        ],
+        "usphone": "bril-yuhnt",
+        "ukphone": "bril-yuhnt"
+    },
+    {
+        "name": "burden",
+        "trans": [
+            "A heavy load or responsibility that causes difficulty"
+        ],
+        "usphone": "bur-duhn",
+        "ukphone": "bur-duhn"
+    },
+    {
+        "name": "capacity",
+        "trans": [
+            "The maximum amount that something can contain or produce; ability"
+        ],
+        "usphone": "kuh-pas-i-tee",
+        "ukphone": "kuh-pas-i-tee"
+    },
+    {
+        "name": "captive",
+        "trans": [
+            "A person or animal that is imprisoned or confined"
+        ],
+        "usphone": "kap-tiv",
+        "ukphone": "kap-tiv"
+    },
+    {
+        "name": "career",
+        "trans": [
+            "A profession or occupation chosen as one's life work"
+        ],
+        "usphone": "kuh-reer",
+        "ukphone": "kuh-reer"
+    },
+    {
+        "name": "catastrophe",
+        "trans": [
+            "A sudden disaster that causes great damage or suffering"
+        ],
+        "usphone": "kuh-tas-truh-fee",
+        "ukphone": "kuh-tas-truh-fee"
+    },
+    {
+        "name": "category",
+        "trans": [
+            "A group of things with similar characteristics; a class or division"
+        ],
+        "usphone": "kat-uh-gor-ee",
+        "ukphone": "kat-uh-gor-ee"
+    },
+    {
+        "name": "cautious",
+        "trans": [
+            "Careful to avoid danger or mistakes"
+        ],
+        "usphone": "kaw-shus",
+        "ukphone": "kaw-shus"
+    },
+    {
+        "name": "cease",
+        "trans": [
+            "To stop or come to an end"
+        ],
+        "usphone": "sees",
+        "ukphone": "sees"
+    },
+    {
+        "name": "celebrate",
+        "trans": [
+            "To honor or mark a special occasion with festivities"
+        ],
+        "usphone": "sel-uh-brayt",
+        "ukphone": "sel-uh-brayt"
+    },
+    {
+        "name": "challenge",
+        "trans": [
+            "A difficult task that tests someone's abilities"
+        ],
+        "usphone": "chal-inj",
+        "ukphone": "chal-inj"
+    },
+    {
+        "name": "character",
+        "trans": [
+            "The mental and moral qualities of a person; a person in a story"
+        ],
+        "usphone": "kar-ik-ter",
+        "ukphone": "kar-ik-ter"
+    },
+    {
+        "name": "characteristic",
+        "trans": [
+            "A typical quality or feature of something"
+        ],
+        "usphone": "kar-ik-tuh-ris-tik",
+        "ukphone": "kar-ik-tuh-ris-tik"
+    },
+    {
+        "name": "chronological",
+        "trans": [
+            "Arranged in the order that events occurred in time"
+        ],
+        "usphone": "kron-uh-loj-i-kuhl",
+        "ukphone": "kron-uh-loj-i-kuhl"
+    },
+    {
+        "name": "circulate",
+        "trans": [
+            "To move continuously around a closed system; to spread widely"
+        ],
+        "usphone": "sur-kyuh-layt",
+        "ukphone": "sur-kyuh-layt"
+    },
+    {
+        "name": "circumstance",
+        "trans": [
+            "A fact or condition connected with an event or situation"
+        ],
+        "usphone": "sur-kum-stans",
+        "ukphone": "sur-kum-stans"
+    },
+    {
+        "name": "cite",
+        "trans": [
+            "To quote or refer to something as evidence or an example"
+        ],
+        "usphone": "syt",
+        "ukphone": "syt"
+    },
+    {
+        "name": "civilization",
+        "trans": [
+            "An advanced stage of human society with developed culture and organization"
+        ],
+        "usphone": "siv-uh-luh-zay-shuhn",
+        "ukphone": "siv-uh-ly-zay-shuhn"
+    },
+    {
+        "name": "clarify",
+        "trans": [
+            "To make something easier to understand; to explain clearly"
+        ],
+        "usphone": "klar-uh-fy",
+        "ukphone": "klar-uh-fy"
+    },
+    {
+        "name": "climate",
+        "trans": [
+            "The typical weather conditions in an area over a long period"
+        ],
+        "usphone": "kly-mit",
+        "ukphone": "kly-mit"
+    },
+    {
+        "name": "coincide",
+        "trans": [
+            "To happen at the same time; to correspond exactly"
+        ],
+        "usphone": "koh-in-syd",
+        "ukphone": "koh-in-syd"
+    },
+    {
+        "name": "collaborate",
+        "trans": [
+            "To work together with others on a project or activity"
+        ],
+        "usphone": "kuh-lab-uh-rayt",
+        "ukphone": "kuh-lab-uh-rayt"
+    },
+    {
+        "name": "collapse",
+        "trans": [
+            "To fall down or cave in suddenly; to fail completely"
+        ],
+        "usphone": "kuh-laps",
+        "ukphone": "kuh-laps"
+    },
+    {
+        "name": "colleague",
+        "trans": [
+            "A person you work with, especially in a profession"
+        ],
+        "usphone": "kol-eeg",
+        "ukphone": "kol-eeg"
+    },
+    {
+        "name": "commence",
+        "trans": [
+            "To begin or start something"
+        ],
+        "usphone": "kuh-mens",
+        "ukphone": "kuh-mens"
+    },
+    {
+        "name": "comment",
+        "trans": [
+            "To express an opinion or reaction; a remark"
+        ],
+        "usphone": "kom-ent",
+        "ukphone": "kom-ent"
+    },
+    {
+        "name": "commerce",
+        "trans": [
+            "The activity of buying and selling goods and services"
+        ],
+        "usphone": "kom-urs",
+        "ukphone": "kom-urs"
+    },
+    {
+        "name": "commit",
+        "trans": [
+            "To pledge or dedicate oneself to something; to do something wrong"
+        ],
+        "usphone": "kuh-mit",
+        "ukphone": "kuh-mit"
+    },
+    {
+        "name": "communicate",
+        "trans": [
+            "To share or exchange information, ideas, or feelings"
+        ],
+        "usphone": "kuh-myoo-ni-kayt",
+        "ukphone": "kuh-myoo-ni-kayt"
+    },
+    {
+        "name": "community",
+        "trans": [
+            "A group of people living in the same area or having common interests"
+        ],
+        "usphone": "kuh-myoo-ni-tee",
+        "ukphone": "kuh-myoo-ni-tee"
+    },
+    {
+        "name": "compare",
+        "trans": [
+            "To examine how things are similar or different"
+        ],
+        "usphone": "kum-pair",
+        "ukphone": "kum-pair"
+    },
+    {
+        "name": "compassion",
+        "trans": [
+            "Sympathetic concern for the suffering of others"
+        ],
+        "usphone": "kum-pash-uhn",
+        "ukphone": "kum-pash-uhn"
+    },
+    {
+        "name": "compatible",
+        "trans": [
+            "Able to exist or work together without conflict"
+        ],
+        "usphone": "kum-pat-uh-buhl",
+        "ukphone": "kum-pat-uh-buhl"
+    },
+    {
+        "name": "compel",
+        "trans": [
+            "To force or strongly persuade someone to do something"
+        ],
+        "usphone": "kum-pel",
+        "ukphone": "kum-pel"
+    },
+    {
+        "name": "compensate",
+        "trans": [
+            "To give something to make up for loss or damage"
+        ],
+        "usphone": "kom-pen-sayt",
+        "ukphone": "kom-pen-sayt"
+    },
+    {
+        "name": "compete",
+        "trans": [
+            "To try to win or be better than others"
+        ],
+        "usphone": "kum-peet",
+        "ukphone": "kum-peet"
+    },
+    {
+        "name": "compile",
+        "trans": [
+            "To collect information and arrange it in a list or book"
+        ],
+        "usphone": "kum-pyl",
+        "ukphone": "kum-pyl"
+    },
+    {
+        "name": "complement",
+        "trans": [
+            "Something that completes or goes well with something else"
+        ],
+        "usphone": "kom-pluh-ment",
+        "ukphone": "kom-pluh-ment"
+    },
+    {
+        "name": "complex",
+        "trans": [
+            "Consisting of many different connected parts; complicated"
+        ],
+        "usphone": "kum-pleks",
+        "ukphone": "kom-pleks"
+    },
+    {
+        "name": "complicate",
+        "trans": [
+            "To make something more difficult or confusing"
+        ],
+        "usphone": "kom-pli-kayt",
+        "ukphone": "kom-pli-kayt"
+    },
+    {
+        "name": "component",
+        "trans": [
+            "A part or element of a larger whole"
+        ],
+        "usphone": "kum-poh-nuhnt",
+        "ukphone": "kum-poh-nuhnt"
+    },
+    {
+        "name": "compose",
+        "trans": [
+            "To create or write music, poetry, or text; to make up a whole"
+        ],
+        "usphone": "kum-pohz",
+        "ukphone": "kum-pohz"
+    },
+    {
+        "name": "comprehend",
+        "trans": [
+            "To understand something fully"
+        ],
+        "usphone": "kom-pri-hend",
+        "ukphone": "kom-pri-hend"
+    },
+    {
+        "name": "comprehensive",
+        "trans": [
+            "Including all or nearly all elements; complete and thorough"
+        ],
+        "usphone": "kom-pri-hen-siv",
+        "ukphone": "kom-pri-hen-siv"
+    },
+    {
+        "name": "compromise",
+        "trans": [
+            "An agreement where each side gives up something; to settle by mutual concession"
+        ],
+        "usphone": "kom-pruh-myz",
+        "ukphone": "kom-pruh-myz"
+    },
+    {
+        "name": "conceal",
+        "trans": [
+            "To hide or keep something secret"
+        ],
+        "usphone": "kun-seel",
+        "ukphone": "kun-seel"
+    },
+    {
+        "name": "conceive",
+        "trans": [
+            "To form an idea or plan in the mind; to imagine"
+        ],
+        "usphone": "kun-seev",
+        "ukphone": "kun-seev"
+    },
+    {
+        "name": "concentrate",
+        "trans": [
+            "To focus all attention or effort on something"
+        ],
+        "usphone": "kon-suhn-trayt",
+        "ukphone": "kon-suhn-trayt"
+    },
+    {
+        "name": "conception",
+        "trans": [
+            "The forming of an idea or plan; understanding"
+        ],
+        "usphone": "kun-sep-shuhn",
+        "ukphone": "kun-sep-shuhn"
+    },
+    {
+        "name": "concern",
+        "trans": [
+            "A matter that causes worry or interest; to relate to or affect"
+        ],
+        "usphone": "kun-surn",
+        "ukphone": "kun-surn"
+    },
+    {
+        "name": "concise",
+        "trans": [
+            "Giving information clearly in few words; brief but complete"
+        ],
+        "usphone": "kun-sys",
+        "ukphone": "kun-sys"
+    },
+    {
+        "name": "conclude",
+        "trans": [
+            "To bring to an end; to reach a judgment based on reasoning"
+        ],
+        "usphone": "kun-klood",
+        "ukphone": "kun-klood"
+    },
+    {
+        "name": "concrete",
+        "trans": [
+            "Existing in a physical form; definite and specific"
+        ],
+        "usphone": "kon-kreet",
+        "ukphone": "kon-kreet"
+    },
+    {
+        "name": "condemn",
+        "trans": [
+            "To express strong disapproval of; to sentence to punishment"
+        ],
+        "usphone": "kun-dem",
+        "ukphone": "kun-dem"
+    },
+    {
+        "name": "condition",
+        "trans": [
+            "The state that something is in; a requirement or circumstance"
+        ],
+        "usphone": "kun-dish-uhn",
+        "ukphone": "kun-dish-uhn"
+    },
+    {
+        "name": "conduct",
+        "trans": [
+            "To direct or manage an activity; behavior or the way someone acts"
+        ],
+        "usphone": "kun-dukt",
+        "ukphone": "kun-dukt"
+    },
+    {
+        "name": "conference",
+        "trans": [
+            "A formal meeting for discussion"
+        ],
+        "usphone": "kon-fer-uhns",
+        "ukphone": "kon-fer-uhns"
+    },
+    {
+        "name": "confess",
+        "trans": [
+            "To admit that you have done something wrong"
+        ],
+        "usphone": "kun-fes",
+        "ukphone": "kun-fes"
+    },
+    {
+        "name": "confidence",
+        "trans": [
+            "A feeling of trust in one's abilities; certainty"
+        ],
+        "usphone": "kon-fi-duhns",
+        "ukphone": "kon-fi-duhns"
+    },
+    {
+        "name": "confident",
+        "trans": [
+            "Feeling sure about your abilities or beliefs"
+        ],
+        "usphone": "kon-fi-duhnt",
+        "ukphone": "kon-fi-duhnt"
+    },
+    {
+        "name": "confine",
+        "trans": [
+            "To keep within limits; to restrict or imprison"
+        ],
+        "usphone": "kun-fyn",
+        "ukphone": "kun-fyn"
+    },
+    {
+        "name": "confirm",
+        "trans": [
+            "To establish the truth or correctness of something"
+        ],
+        "usphone": "kun-furm",
+        "ukphone": "kun-furm"
+    },
+    {
+        "name": "conflict",
+        "trans": [
+            "A serious disagreement or struggle; to be incompatible"
+        ],
+        "usphone": "kon-flikt",
+        "ukphone": "kon-flikt"
+    },
+    {
+        "name": "conform",
+        "trans": [
+            "To behave according to accepted standards or rules"
+        ],
+        "usphone": "kun-form",
+        "ukphone": "kun-form"
+    },
+    {
+        "name": "confront",
+        "trans": [
+            "To face or deal with a problem or difficult situation"
+        ],
+        "usphone": "kun-frunt",
+        "ukphone": "kun-frunt"
+    },
+    {
+        "name": "confuse",
+        "trans": [
+            "To make someone unable to think clearly; to mix up"
+        ],
+        "usphone": "kun-fyooz",
+        "ukphone": "kun-fyooz"
+    },
+    {
+        "name": "congratulate",
+        "trans": [
+            "To express pleasure at someone's success or good fortune"
+        ],
+        "usphone": "kun-grach-uh-layt",
+        "ukphone": "kun-grach-uh-layt"
+    },
+    {
+        "name": "congress",
+        "trans": [
+            "A formal meeting of representatives; the lawmaking body of a country"
+        ],
+        "usphone": "kong-gres",
+        "ukphone": "kong-gres"
+    },
+    {
+        "name": "connect",
+        "trans": [
+            "To join or link together"
+        ],
+        "usphone": "kuh-nekt",
+        "ukphone": "kuh-nekt"
+    },
+    {
+        "name": "conquer",
+        "trans": [
+            "To overcome and take control by military force; to successfully deal with a problem"
+        ],
+        "usphone": "kong-ker",
+        "ukphone": "kong-ker"
+    },
+    {
+        "name": "conscience",
+        "trans": [
+            "An inner feeling about what is right and wrong"
+        ],
+        "usphone": "kon-shuhns",
+        "ukphone": "kon-shuhns"
+    },
+    {
+        "name": "conscious",
+        "trans": [
+            "Aware of and responding to surroundings; awake"
+        ],
+        "usphone": "kon-shus",
+        "ukphone": "kon-shus"
+    },
+    {
+        "name": "consecutive",
+        "trans": [
+            "Following one after another without interruption"
+        ],
+        "usphone": "kun-sek-yuh-tiv",
+        "ukphone": "kun-sek-yuh-tiv"
+    },
+    {
+        "name": "consensus",
+        "trans": [
+            "General agreement among a group of people"
+        ],
+        "usphone": "kun-sen-sus",
+        "ukphone": "kun-sen-sus"
+    },
+    {
+        "name": "consent",
+        "trans": [
+            "Permission or agreement to do something"
+        ],
+        "usphone": "kun-sent",
+        "ukphone": "kun-sent"
+    },
+    {
+        "name": "consequence",
+        "trans": [
+            "A result or effect of an action or condition"
+        ],
+        "usphone": "kon-si-kwens",
+        "ukphone": "kon-si-kwens"
+    },
+    {
+        "name": "conserve",
+        "trans": [
+            "To protect from harm or destruction; to use carefully to avoid waste"
+        ],
+        "usphone": "kun-surv",
+        "ukphone": "kun-surv"
+    },
+    {
+        "name": "consider",
+        "trans": [
+            "To think carefully about something before making a decision"
+        ],
+        "usphone": "kun-sid-er",
+        "ukphone": "kun-sid-er"
+    },
+    {
+        "name": "considerable",
+        "trans": [
+            "Large in amount or extent; significant"
+        ],
+        "usphone": "kun-sid-er-uh-buhl",
+        "ukphone": "kun-sid-er-uh-buhl"
+    },
+    {
+        "name": "considerate",
+        "trans": [
+            "Careful not to hurt or upset others; thoughtful"
+        ],
+        "usphone": "kun-sid-er-it",
+        "ukphone": "kun-sid-er-it"
+    },
+    {
+        "name": "consist",
+        "trans": [
+            "To be made up or composed of something"
+        ],
+        "usphone": "kun-sist",
+        "ukphone": "kun-sist"
+    },
+    {
+        "name": "consistent",
+        "trans": [
+            "Acting or done in the same way over time; not changing"
+        ],
+        "usphone": "kun-sis-tuhnt",
+        "ukphone": "kun-sis-tuhnt"
+    },
+    {
+        "name": "console",
+        "trans": [
+            "To comfort someone who is unhappy or disappointed"
+        ],
+        "usphone": "kun-sohl",
+        "ukphone": "kun-sohl"
+    },
+    {
+        "name": "consolidate",
+        "trans": [
+            "To combine into a single unit; to make stronger"
+        ],
+        "usphone": "kun-sol-i-dayt",
+        "ukphone": "kun-sol-i-dayt"
+    },
+    {
+        "name": "conspicuous",
+        "trans": [
+            "Easily seen or noticed; attracting attention"
+        ],
+        "usphone": "kun-spik-yoo-us",
+        "ukphone": "kun-spik-yoo-us"
+    },
+    {
+        "name": "constant",
+        "trans": [
+            "Happening all the time or repeatedly; unchanging"
+        ],
+        "usphone": "kon-stuhnt",
+        "ukphone": "kon-stuhnt"
+    },
+    {
+        "name": "constitute",
+        "trans": [
+            "To be a part of a whole; to make up or form"
+        ],
+        "usphone": "kon-sti-toot",
+        "ukphone": "kon-sti-tyoot"
+    },
+    {
+        "name": "constitution",
+        "trans": [
+            "The system of laws and principles that govern a country; physical health"
+        ],
+        "usphone": "kon-sti-too-shuhn",
+        "ukphone": "kon-sti-tyoo-shuhn"
+    },
+    {
+        "name": "construct",
+        "trans": [
+            "To build or make something by putting parts together"
+        ],
+        "usphone": "kun-strukt",
+        "ukphone": "kun-strukt"
+    },
+    {
+        "name": "construction",
+        "trans": [
+            "The process of building something; a structure that has been built"
+        ],
+        "usphone": "kun-struk-shuhn",
+        "ukphone": "kun-struk-shuhn"
+    },
+    {
+        "name": "consult",
+        "trans": [
+            "To seek information or advice from someone"
+        ],
+        "usphone": "kun-sult",
+        "ukphone": "kun-sult"
+    },
+    {
+        "name": "consume",
+        "trans": [
+            "To use up or eat and drink something"
+        ],
+        "usphone": "kun-soom",
+        "ukphone": "kun-syoom"
+    },
+    {
+        "name": "consumer",
+        "trans": [
+            "A person who buys goods or services"
+        ],
+        "usphone": "kun-soo-mer",
+        "ukphone": "kun-syoo-mer"
+    },
+    {
+        "name": "contact",
+        "trans": [
+            "Communication with someone; to get in touch with"
+        ],
+        "usphone": "kon-takt",
+        "ukphone": "kon-takt"
+    },
+    {
+        "name": "contain",
+        "trans": [
+            "To have something inside; to keep under control"
+        ],
+        "usphone": "kun-tayn",
+        "ukphone": "kun-tayn"
+    },
+    {
+        "name": "container",
+        "trans": [
+            "An object used to hold or transport something"
+        ],
+        "usphone": "kun-tay-ner",
+        "ukphone": "kun-tay-ner"
+    },
+    {
+        "name": "contaminate",
+        "trans": [
+            "To make something impure or harmful by adding poison or pollution"
+        ],
+        "usphone": "kun-tam-uh-nayt",
+        "ukphone": "kun-tam-uh-nayt"
+    }
+]

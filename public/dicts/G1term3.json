@@ -2,7 +2,7 @@
     {
         "name": "always",
         "trans": [
-            "Always is a simple Grade 1 word."
+            "Every time; all the time without stopping."
         ],
         "usphone": "always",
         "ukphone": "always"
@@ -10,7 +10,7 @@
     {
         "name": "best",
         "trans": [
-            "Best is a simple Grade 1 word."
+            "Better than all the others; the most good."
         ],
         "usphone": "best",
         "ukphone": "best"
@@ -18,7 +18,7 @@
     {
         "name": "children",
         "trans": [
-            "Children is a simple Grade 1 word."
+            "More than one child; young boys and girls."
         ],
         "usphone": "children",
         "ukphone": "children"
@@ -26,7 +26,7 @@
     {
         "name": "duck",
         "trans": [
-            "Duck is a simple Grade 1 word."
+            "A bird that swims and says quack."
         ],
         "usphone": "duck",
         "ukphone": "duck"
@@ -34,7 +34,7 @@
     {
         "name": "everyone",
         "trans": [
-            "Everyone is a simple Grade 1 word."
+            "Every person; all people."
         ],
         "usphone": "everyone",
         "ukphone": "everyone"
@@ -42,7 +42,7 @@
     {
         "name": "family",
         "trans": [
-            "Family is a simple Grade 1 word."
+            "People who are related to you, like parents, brothers, and sisters."
         ],
         "usphone": "family",
         "ukphone": "family"
@@ -50,7 +50,7 @@
     {
         "name": "garden",
         "trans": [
-            "Garden is a simple Grade 1 word."
+            "A piece of ground where you grow flowers, fruits, or vegetables."
         ],
         "usphone": "garden",
         "ukphone": "garden"
@@ -58,7 +58,7 @@
     {
         "name": "hill",
         "trans": [
-            "Hill is a simple Grade 1 word."
+            "A raised area of land that is smaller than a mountain."
         ],
         "usphone": "hill",
         "ukphone": "hill"
@@ -66,7 +66,7 @@
     {
         "name": "idea",
         "trans": [
-            "Idea is a simple Grade 1 word."
+            "A thought or plan in your mind."
         ],
         "usphone": "idea",
         "ukphone": "idea"
@@ -74,7 +74,7 @@
     {
         "name": "jumping",
         "trans": [
-            "Jumping is a simple Grade 1 word."
+            "Pushing yourself off the ground with your legs (happening now)."
         ],
         "usphone": "jumping",
         "ukphone": "jumping"
@@ -82,7 +82,7 @@
     {
         "name": "kindness",
         "trans": [
-            "Kindness is a simple Grade 1 word."
+            "Being nice and caring toward others."
         ],
         "usphone": "kindness",
         "ukphone": "kindness"
@@ -90,7 +90,7 @@
     {
         "name": "longest",
         "trans": [
-            "Longest is a simple Grade 1 word."
+            "The most long; taking the most time or distance."
         ],
         "usphone": "longest",
         "ukphone": "longest"
@@ -98,7 +98,7 @@
     {
         "name": "mother",
         "trans": [
-            "Mother is a simple Grade 1 word."
+            "A female parent; your mom."
         ],
         "usphone": "mother",
         "ukphone": "mother"
@@ -106,7 +106,7 @@
     {
         "name": "nothing",
         "trans": [
-            "Nothing is a simple Grade 1 word."
+            "Not anything at all; zero things."
         ],
         "usphone": "nothing",
         "ukphone": "nothing"
@@ -114,7 +114,7 @@
     {
         "name": "outside",
         "trans": [
-            "Outside is a simple Grade 1 word."
+            "Not inside a building; in the open air."
         ],
         "usphone": "outside",
         "ukphone": "outside"
@@ -122,7 +122,7 @@
     {
         "name": "pretty",
         "trans": [
-            "Pretty is a simple Grade 1 word."
+            "Nice to look at; beautiful."
         ],
         "usphone": "pretty",
         "ukphone": "pretty"
@@ -130,7 +130,7 @@
     {
         "name": "quickly",
         "trans": [
-            "Quickly is a simple Grade 1 word."
+            "In a fast way; doing something with speed."
         ],
         "usphone": "quickly",
         "ukphone": "quickly"
@@ -138,7 +138,7 @@
     {
         "name": "river",
         "trans": [
-            "River is a simple Grade 1 word."
+            "A large stream of water that flows through the land."
         ],
         "usphone": "river",
         "ukphone": "river"
@@ -146,7 +146,7 @@
     {
         "name": "snow",
         "trans": [
-            "Snow is a simple Grade 1 word."
+            "White frozen water that falls from the sky in winter."
         ],
         "usphone": "snow",
         "ukphone": "snow"
@@ -154,7 +154,7 @@
     {
         "name": "together",
         "trans": [
-            "Together is a simple Grade 1 word."
+            "With each other; in the same place."
         ],
         "usphone": "together",
         "ukphone": "together"
@@ -162,7 +162,7 @@
     {
         "name": "until",
         "trans": [
-            "Until is a simple Grade 1 word."
+            "Up to the time when something happens."
         ],
         "usphone": "until",
         "ukphone": "until"
@@ -170,7 +170,7 @@
     {
         "name": "vacation",
         "trans": [
-            "Vacation is a simple Grade 1 word."
+            "Time away from school or work for fun and rest."
         ],
         "usphone": "vacation",
         "ukphone": "vacation"
@@ -178,7 +178,7 @@
     {
         "name": "window",
         "trans": [
-            "Window is a simple Grade 1 word."
+            "An opening in a wall with glass that lets light in."
         ],
         "usphone": "window",
         "ukphone": "window"
@@ -186,7 +186,7 @@
     {
         "name": "x-ray",
         "trans": [
-            "X-ray is a simple Grade 1 word."
+            "A special picture that shows the inside of your body, like your bones."
         ],
         "usphone": "x-ray",
         "ukphone": "x-ray"
@@ -194,7 +194,7 @@
     {
         "name": "yellowish",
         "trans": [
-            "Yellowish is a simple Grade 1 word."
+            "A little bit yellow in color."
         ],
         "usphone": "yellowish",
         "ukphone": "yellowish"
@@ -202,7 +202,7 @@
     {
         "name": "zookeeper",
         "trans": [
-            "Zookeeper is a simple Grade 1 word."
+            "A person who takes care of animals at a zoo."
         ],
         "usphone": "zookeeper",
         "ukphone": "zookeeper"
@@ -210,7 +210,7 @@
     {
         "name": "alone",
         "trans": [
-            "Alone is a simple Grade 1 word."
+            "By yourself; with no one else around."
         ],
         "usphone": "alone",
         "ukphone": "alone"
@@ -218,7 +218,7 @@
     {
         "name": "because",
         "trans": [
-            "Because is a simple Grade 1 word."
+            "For the reason that; telling why something happens."
         ],
         "usphone": "because",
         "ukphone": "because"
@@ -226,7 +226,7 @@
     {
         "name": "close",
         "trans": [
-            "Close is a simple Grade 1 word."
+            "To shut something or to be near something."
         ],
         "usphone": "close",
         "ukphone": "close"
@@ -234,7 +234,7 @@
     {
         "name": "draw",
         "trans": [
-            "Draw is a simple Grade 1 word."
+            "To make a picture with a pencil, crayon, or pen."
         ],
         "usphone": "draw",
         "ukphone": "draw"
@@ -242,7 +242,7 @@
     {
         "name": "enough",
         "trans": [
-            "Enough is a simple Grade 1 word."
+            "As much as you need; not too little."
         ],
         "usphone": "enough",
         "ukphone": "enough"
@@ -250,7 +250,7 @@
     {
         "name": "friend",
         "trans": [
-            "Friend is a simple Grade 1 word."
+            "Someone you like and who likes you; a pal."
         ],
         "usphone": "friend",
         "ukphone": "friend"
@@ -258,7 +258,7 @@
     {
         "name": "girl",
         "trans": [
-            "Girl is a simple Grade 1 word."
+            "A female child."
         ],
         "usphone": "girl",
         "ukphone": "girl"
@@ -266,7 +266,7 @@
     {
         "name": "homework",
         "trans": [
-            "Homework is a simple Grade 1 word."
+            "School work that you do at home."
         ],
         "usphone": "homework",
         "ukphone": "homework"
@@ -274,7 +274,7 @@
     {
         "name": "important",
         "trans": [
-            "Important is a simple Grade 1 word."
+            "Something that matters a lot and is very special."
         ],
         "usphone": "important",
         "ukphone": "important"
@@ -282,7 +282,7 @@
     {
         "name": "joyful",
         "trans": [
-            "Joyful is a simple Grade 1 word."
+            "Full of happiness and joy."
         ],
         "usphone": "joyful",
         "ukphone": "joyful"
@@ -290,7 +290,7 @@
     {
         "name": "kitchen",
         "trans": [
-            "Kitchen is a simple Grade 1 word."
+            "The room where food is cooked."
         ],
         "usphone": "kitchen",
         "ukphone": "kitchen"
@@ -298,7 +298,7 @@
     {
         "name": "love",
         "trans": [
-            "Love is a simple Grade 1 word."
+            "A very strong feeling of caring about someone or something."
         ],
         "usphone": "love",
         "ukphone": "love"
@@ -306,7 +306,7 @@
     {
         "name": "morning",
         "trans": [
-            "Morning is a simple Grade 1 word."
+            "The early part of the day, from when you wake up until noon."
         ],
         "usphone": "morning",
         "ukphone": "morning"
@@ -314,7 +314,7 @@
     {
         "name": "nearby",
         "trans": [
-            "Nearby is a simple Grade 1 word."
+            "Close; not far away."
         ],
         "usphone": "nearby",
         "ukphone": "nearby"
@@ -322,7 +322,7 @@
     {
         "name": "overcome",
         "trans": [
-            "Overcome is a simple Grade 1 word."
+            "To beat a problem or difficulty; to get past something hard."
         ],
         "usphone": "overcome",
         "ukphone": "overcome"
@@ -330,7 +330,7 @@
     {
         "name": "place",
         "trans": [
-            "Place is a simple Grade 1 word."
+            "A spot or location; somewhere you can be."
         ],
         "usphone": "place",
         "ukphone": "place"
@@ -338,7 +338,7 @@
     {
         "name": "quietness",
         "trans": [
-            "Quietness is a simple Grade 1 word."
+            "The state of being quiet; when there is no noise."
         ],
         "usphone": "quietness",
         "ukphone": "quietness"
@@ -346,7 +346,7 @@
     {
         "name": "rainbow",
         "trans": [
-            "Rainbow is a simple Grade 1 word."
+            "A colorful arc in the sky that appears after rain."
         ],
         "usphone": "rainbow",
         "ukphone": "rainbow"
@@ -354,7 +354,7 @@
     {
         "name": "something",
         "trans": [
-            "Something is a simple Grade 1 word."
+            "A thing that is not named; some object or idea."
         ],
         "usphone": "something",
         "ukphone": "something"
@@ -362,7 +362,7 @@
     {
         "name": "teacher",
         "trans": [
-            "Teacher is a simple Grade 1 word."
+            "A person who helps students learn at school."
         ],
         "usphone": "teacher",
         "ukphone": "teacher"
@@ -370,7 +370,7 @@
     {
         "name": "understood",
         "trans": [
-            "Understood is a simple Grade 1 word."
+            "Knew what something meant (past tense of understand)."
         ],
         "usphone": "understood",
         "ukphone": "understood"
@@ -378,7 +378,7 @@
     {
         "name": "visit",
         "trans": [
-            "Visit is a simple Grade 1 word."
+            "To go to see someone or a place."
         ],
         "usphone": "visit",
         "ukphone": "visit"
@@ -386,7 +386,7 @@
     {
         "name": "world",
         "trans": [
-            "World is a simple Grade 1 word."
+            "The Earth and all the people and places on it."
         ],
         "usphone": "world",
         "ukphone": "world"
@@ -394,7 +394,7 @@
     {
         "name": "xerox",
         "trans": [
-            "Xerox is a simple Grade 1 word."
+            "A copy of a paper or document."
         ],
         "usphone": "xerox",
         "ukphone": "xerox"
@@ -402,7 +402,7 @@
     {
         "name": "yourself",
         "trans": [
-            "Yourself is a simple Grade 1 word."
+            "You; your own self."
         ],
         "usphone": "yourself",
         "ukphone": "yourself"
@@ -410,7 +410,7 @@
     {
         "name": "zipping",
         "trans": [
-            "Zipping is a simple Grade 1 word."
+            "Closing something quickly with a zipper."
         ],
         "usphone": "zipping",
         "ukphone": "zipping"
@@ -418,7 +418,7 @@
     {
         "name": "above",
         "trans": [
-            "Above is a simple Grade 1 word."
+            "Higher than something; over it."
         ],
         "usphone": "above",
         "ukphone": "above"
@@ -426,7 +426,7 @@
     {
         "name": "between",
         "trans": [
-            "Between is a simple Grade 1 word."
+            "In the middle of two things."
         ],
         "usphone": "between",
         "ukphone": "between"
@@ -434,7 +434,7 @@
     {
         "name": "could",
         "trans": [
-            "Could is a simple Grade 1 word."
+            "Was able to do something; might be able to."
         ],
         "usphone": "could",
         "ukphone": "could"
@@ -442,7 +442,7 @@
     {
         "name": "different",
         "trans": [
-            "Different is a simple Grade 1 word."
+            "Not the same; not alike."
         ],
         "usphone": "different",
         "ukphone": "different"
@@ -450,7 +450,7 @@
     {
         "name": "earth",
         "trans": [
-            "Earth is a simple Grade 1 word."
+            "The planet we live on; also the soil or ground."
         ],
         "usphone": "earth",
         "ukphone": "earth"
@@ -458,7 +458,7 @@
     {
         "name": "funny",
         "trans": [
-            "Funny is a simple Grade 1 word."
+            "Something that makes you laugh."
         ],
         "usphone": "funny",
         "ukphone": "funny"
@@ -466,7 +466,7 @@
     {
         "name": "ground",
         "trans": [
-            "Ground is a simple Grade 1 word."
+            "The surface of the earth that you walk on."
         ],
         "usphone": "ground",
         "ukphone": "ground"
@@ -474,7 +474,7 @@
     {
         "name": "happy",
         "trans": [
-            "Happy is a simple Grade 1 word."
+            "Feeling joy and pleasure; not sad."
         ],
         "usphone": "happy",
         "ukphone": "happy"
@@ -482,7 +482,7 @@
     {
         "name": "inside",
         "trans": [
-            "Inside is a simple Grade 1 word."
+            "In or into a building or container; not outside."
         ],
         "usphone": "inside",
         "ukphone": "inside"
@@ -490,7 +490,7 @@
     {
         "name": "jumping",
         "trans": [
-            "Jumping is a simple Grade 1 word."
+            "Pushing yourself off the ground with your legs (happening now)."
         ],
         "usphone": "jumping",
         "ukphone": "jumping"
@@ -498,7 +498,7 @@
     {
         "name": "keeping",
         "trans": [
-            "Keeping is a simple Grade 1 word."
+            "Continuing to have something; not giving it away."
         ],
         "usphone": "keeping",
         "ukphone": "keeping"
@@ -506,7 +506,7 @@
     {
         "name": "late",
         "trans": [
-            "Late is a simple Grade 1 word."
+            "After the expected time; not on time."
         ],
         "usphone": "late",
         "ukphone": "late"
@@ -514,7 +514,7 @@
     {
         "name": "music",
         "trans": [
-            "Music is a simple Grade 1 word."
+            "Sounds made by singing or playing instruments that are nice to hear."
         ],
         "usphone": "music",
         "ukphone": "music"
@@ -522,7 +522,7 @@
     {
         "name": "nearer",
         "trans": [
-            "Nearer is a simple Grade 1 word."
+            "Closer; not as far away."
         ],
         "usphone": "nearer",
         "ukphone": "nearer"
@@ -530,7 +530,7 @@
     {
         "name": "one",
         "trans": [
-            "One is a simple Grade 1 word."
+            "The number 1; a single thing."
         ],
         "usphone": "one",
         "ukphone": "one"
@@ -538,7 +538,7 @@
     {
         "name": "party",
         "trans": [
-            "Party is a simple Grade 1 word."
+            "A fun gathering of people to celebrate something."
         ],
         "usphone": "party",
         "ukphone": "party"
@@ -546,7 +546,7 @@
     {
         "name": "queenly",
         "trans": [
-            "Queenly is a simple Grade 1 word."
+            "Acting like a queen; royal and graceful."
         ],
         "usphone": "queenly",
         "ukphone": "queenly"
@@ -554,7 +554,7 @@
     {
         "name": "reading",
         "trans": [
-            "Reading is a simple Grade 1 word."
+            "Looking at words and understanding them (happening now)."
         ],
         "usphone": "reading",
         "ukphone": "reading"
@@ -562,7 +562,7 @@
     {
         "name": "sometimes",
         "trans": [
-            "Sometimes is a simple Grade 1 word."
+            "Not always, but on some occasions; once in a while."
         ],
         "usphone": "sometimes",
         "ukphone": "sometimes"
@@ -570,7 +570,7 @@
     {
         "name": "today",
         "trans": [
-            "Today is a simple Grade 1 word."
+            "This day; the day we are in now."
         ],
         "usphone": "today",
         "ukphone": "today"
@@ -578,7 +578,7 @@
     {
         "name": "until",
         "trans": [
-            "Until is a simple Grade 1 word."
+            "Up to the time when something happens."
         ],
         "usphone": "until",
         "ukphone": "until"
@@ -586,7 +586,7 @@
     {
         "name": "very",
         "trans": [
-            "Very is a simple Grade 1 word."
+            "A word that means really or a lot."
         ],
         "usphone": "very",
         "ukphone": "very"
@@ -594,7 +594,7 @@
     {
         "name": "wonder",
         "trans": [
-            "Wonder is a simple Grade 1 word."
+            "To think about something or want to know about it."
         ],
         "usphone": "wonder",
         "ukphone": "wonder"
@@ -602,7 +602,7 @@
     {
         "name": "xylophone",
         "trans": [
-            "Xylophone is a simple Grade 1 word."
+            "A musical instrument with bars that you hit with small hammers to make sounds."
         ],
         "usphone": "xylophone",
         "ukphone": "xylophone"
@@ -610,7 +610,7 @@
     {
         "name": "youngster",
         "trans": [
-            "Youngster is a simple Grade 1 word."
+            "A young person; a child or young boy or girl."
         ],
         "usphone": "youngster",
         "ukphone": "youngster"
@@ -618,7 +618,7 @@
     {
         "name": "zest",
         "trans": [
-            "Zest is a simple Grade 1 word."
+            "Great excitement and energy; enthusiasm."
         ],
         "usphone": "zest",
         "ukphone": "zest"
@@ -626,7 +626,7 @@
     {
         "name": "along",
         "trans": [
-            "Along is a simple Grade 1 word."
+            "Moving forward in a line; going with someone or something."
         ],
         "usphone": "along",
         "ukphone": "along"
@@ -634,7 +634,7 @@
     {
         "name": "behind",
         "trans": [
-            "Behind is a simple Grade 1 word."
+            "At the back of something; not in front."
         ],
         "usphone": "behind",
         "ukphone": "behind"
@@ -642,7 +642,7 @@
     {
         "name": "climb",
         "trans": [
-            "Climb is a simple Grade 1 word."
+            "To go up something like a tree, ladder, or hill."
         ],
         "usphone": "climb",
         "ukphone": "climb"
@@ -650,7 +650,7 @@
     {
         "name": "dance",
         "trans": [
-            "Dance is a simple Grade 1 word."
+            "To move your body to music."
         ],
         "usphone": "dance",
         "ukphone": "dance"
@@ -658,7 +658,7 @@
     {
         "name": "early",
         "trans": [
-            "Early is a simple Grade 1 word."
+            "Before the usual or expected time; near the beginning."
         ],
         "usphone": "early",
         "ukphone": "early"
@@ -666,7 +666,7 @@
     {
         "name": "forest",
         "trans": [
-            "Forest is a simple Grade 1 word."
+            "A large area with many trees growing close together."
         ],
         "usphone": "forest",
         "ukphone": "forest"
@@ -674,7 +674,7 @@
     {
         "name": "giraffe",
         "trans": [
-            "Giraffe is a simple Grade 1 word."
+            "A tall animal with a very long neck and spots."
         ],
         "usphone": "giraffe",
         "ukphone": "giraffe"
@@ -682,7 +682,7 @@
     {
         "name": "horse",
         "trans": [
-            "Horse is a simple Grade 1 word."
+            "A large animal with four legs that people can ride."
         ],
         "usphone": "horse",
         "ukphone": "horse"
@@ -690,7 +690,7 @@
     {
         "name": "idea",
         "trans": [
-            "Idea is a simple Grade 1 word."
+            "A thought or plan in your mind."
         ],
         "usphone": "idea",
         "ukphone": "idea"
@@ -698,7 +698,7 @@
     {
         "name": "jelly",
         "trans": [
-            "Jelly is a simple Grade 1 word."
+            "A soft, sweet food that wobbles and is often eaten with peanut butter."
         ],
         "usphone": "jelly",
         "ukphone": "jelly"
@@ -706,7 +706,7 @@
     {
         "name": "kangaroo",
         "trans": [
-            "Kangaroo is a simple Grade 1 word."
+            "An animal from Australia that hops and carries its baby in a pouch."
         ],
         "usphone": "kangaroo",
         "ukphone": "kangaroo"
@@ -714,7 +714,7 @@
     {
         "name": "laugh",
         "trans": [
-            "Laugh is a simple Grade 1 word."
+            "To make sounds that show you think something is funny."
         ],
         "usphone": "laugh",
         "ukphone": "laugh"
@@ -722,7 +722,7 @@
     {
         "name": "morning",
         "trans": [
-            "Morning is a simple Grade 1 word."
+            "The early part of the day, from when you wake up until noon."
         ],
         "usphone": "morning",
         "ukphone": "morning"
@@ -730,7 +730,7 @@
     {
         "name": "nice",
         "trans": [
-            "Nice is a simple Grade 1 word."
+            "Pleasant and good; kind and friendly."
         ],
         "usphone": "nice",
         "ukphone": "nice"
@@ -738,7 +738,7 @@
     {
         "name": "outside",
         "trans": [
-            "Outside is a simple Grade 1 word."
+            "Not inside a building; in the open air."
         ],
         "usphone": "outside",
         "ukphone": "outside"
@@ -746,7 +746,7 @@
     {
         "name": "pumpkin",
         "trans": [
-            "Pumpkin is a simple Grade 1 word."
+            "A large, round, orange vegetable often used for Halloween."
         ],
         "usphone": "pumpkin",
         "ukphone": "pumpkin"
@@ -754,7 +754,7 @@
     {
         "name": "quietly",
         "trans": [
-            "Quietly is a simple Grade 1 word."
+            "In a way that makes little or no noise."
         ],
         "usphone": "quietly",
         "ukphone": "quietly"
@@ -762,7 +762,7 @@
     {
         "name": "riverbank",
         "trans": [
-            "Riverbank is a simple Grade 1 word."
+            "The land along the side of a river."
         ],
         "usphone": "riverbank",
         "ukphone": "riverbank"
@@ -770,7 +770,7 @@
     {
         "name": "school",
         "trans": [
-            "School is a simple Grade 1 word."
+            "A place where children go to learn."
         ],
         "usphone": "school",
         "ukphone": "school"
@@ -778,7 +778,7 @@
     {
         "name": "tall",
         "trans": [
-            "Tall is a simple Grade 1 word."
+            "High; having great height from top to bottom."
         ],
         "usphone": "tall",
         "ukphone": "tall"
@@ -786,7 +786,7 @@
     {
         "name": "upstairs",
         "trans": [
-            "Upstairs is a simple Grade 1 word."
+            "On a higher floor of a building; up the stairs."
         ],
         "usphone": "upstairs",
         "ukphone": "upstairs"
@@ -794,7 +794,7 @@
     {
         "name": "voices",
         "trans": [
-            "Voices is a simple Grade 1 word."
+            "The sounds that more than one person makes when speaking or singing."
         ],
         "usphone": "voices",
         "ukphone": "voices"
@@ -802,7 +802,7 @@
     {
         "name": "warm",
         "trans": [
-            "Warm is a simple Grade 1 word."
+            "A little bit hot; a comfortable temperature."
         ],
         "usphone": "warm",
         "ukphone": "warm"
@@ -810,7 +810,7 @@
     {
         "name": "yesterday",
         "trans": [
-            "Yesterday is a simple Grade 1 word."
+            "The day before today."
         ],
         "usphone": "yesterday",
         "ukphone": "yesterday"

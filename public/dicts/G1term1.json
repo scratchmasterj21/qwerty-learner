@@ -2,7 +2,7 @@
     {
         "name": "apple",
         "trans": [
-            "Apple is a simple Grade 1 word."
+            "A round fruit that can be red, green, or yellow."
         ],
         "usphone": "apple",
         "ukphone": "apple"
@@ -10,7 +10,7 @@
     {
         "name": "ball",
         "trans": [
-            "Ball is a simple Grade 1 word."
+            "A round toy that you can throw, catch, or kick."
         ],
         "usphone": "ball",
         "ukphone": "ball"
@@ -18,7 +18,7 @@
     {
         "name": "cat",
         "trans": [
-            "Cat is a simple Grade 1 word."
+            "A small furry animal that says meow and is often kept as a pet."
         ],
         "usphone": "cat",
         "ukphone": "cat"
@@ -26,7 +26,7 @@
     {
         "name": "dog",
         "trans": [
-            "Dog is a simple Grade 1 word."
+            "An animal that barks and is often kept as a pet."
         ],
         "usphone": "dog",
         "ukphone": "dog"
@@ -34,7 +34,7 @@
     {
         "name": "egg",
         "trans": [
-            "Egg is a simple Grade 1 word."
+            "A round or oval object that comes from birds like chickens."
         ],
         "usphone": "egg",
         "ukphone": "egg"
@@ -42,7 +42,7 @@
     {
         "name": "fish",
         "trans": [
-            "Fish is a simple Grade 1 word."
+            "An animal that lives and swims in water."
         ],
         "usphone": "fish",
         "ukphone": "fish"
@@ -50,7 +50,7 @@
     {
         "name": "go",
         "trans": [
-            "Go is a simple Grade 1 word."
+            "To move from one place to another."
         ],
         "usphone": "go",
         "ukphone": "go"
@@ -58,7 +58,7 @@
     {
         "name": "hat",
         "trans": [
-            "Hat is a simple Grade 1 word."
+            "Something you wear on your head."
         ],
         "usphone": "hat",
         "ukphone": "hat"
@@ -66,7 +66,7 @@
     {
         "name": "ice",
         "trans": [
-            "Ice is a simple Grade 1 word."
+            "Frozen water that is hard and cold."
         ],
         "usphone": "ice",
         "ukphone": "ice"
@@ -74,7 +74,7 @@
     {
         "name": "jump",
         "trans": [
-            "Jump is a simple Grade 1 word."
+            "To push yourself off the ground with your legs."
         ],
         "usphone": "jump",
         "ukphone": "jump"
@@ -82,7 +82,7 @@
     {
         "name": "kite",
         "trans": [
-            "Kite is a simple Grade 1 word."
+            "A toy that flies in the sky on a string."
         ],
         "usphone": "kite",
         "ukphone": "kite"
@@ -90,7 +90,7 @@
     {
         "name": "lion",
         "trans": [
-            "Lion is a simple Grade 1 word."
+            "A big wild cat with a mane that roars."
         ],
         "usphone": "lion",
         "ukphone": "lion"
@@ -98,7 +98,7 @@
     {
         "name": "man",
         "trans": [
-            "Man is a simple Grade 1 word."
+            "An adult male person."
         ],
         "usphone": "man",
         "ukphone": "man"
@@ -106,7 +106,7 @@
     {
         "name": "nest",
         "trans": [
-            "Nest is a simple Grade 1 word."
+            "A home that birds make for their eggs and babies."
         ],
         "usphone": "nest",
         "ukphone": "nest"
@@ -114,7 +114,7 @@
     {
         "name": "orange",
         "trans": [
-            "Orange is a simple Grade 1 word."
+            "A round fruit that is orange in color."
         ],
         "usphone": "orange",
         "ukphone": "orange"
@@ -122,7 +122,7 @@
     {
         "name": "pen",
         "trans": [
-            "Pen is a simple Grade 1 word."
+            "A tool used for writing with ink."
         ],
         "usphone": "pen",
         "ukphone": "pen"
@@ -130,7 +130,7 @@
     {
         "name": "queen",
         "trans": [
-            "Queen is a simple Grade 1 word."
+            "A woman who rules a country or is married to a king."
         ],
         "usphone": "queen",
         "ukphone": "queen"
@@ -138,7 +138,7 @@
     {
         "name": "run",
         "trans": [
-            "Run is a simple Grade 1 word."
+            "To move very fast on your feet."
         ],
         "usphone": "run",
         "ukphone": "run"
@@ -146,7 +146,7 @@
     {
         "name": "sun",
         "trans": [
-            "Sun is a simple Grade 1 word."
+            "The bright star in the sky that gives us light and warmth."
         ],
         "usphone": "sun",
         "ukphone": "sun"
@@ -154,7 +154,7 @@
     {
         "name": "top",
         "trans": [
-            "Top is a simple Grade 1 word."
+            "The highest part of something."
         ],
         "usphone": "top",
         "ukphone": "top"
@@ -162,7 +162,7 @@
     {
         "name": "umbrella",
         "trans": [
-            "Umbrella is a simple Grade 1 word."
+            "Something you hold over your head to stay dry in the rain."
         ],
         "usphone": "umbrella",
         "ukphone": "umbrella"
@@ -170,7 +170,7 @@
     {
         "name": "van",
         "trans": [
-            "Van is a simple Grade 1 word."
+            "A vehicle that is bigger than a car and can carry many people or things."
         ],
         "usphone": "van",
         "ukphone": "van"
@@ -178,7 +178,7 @@
     {
         "name": "water",
         "trans": [
-            "Water is a simple Grade 1 word."
+            "A clear liquid that we drink and that fills rivers and oceans."
         ],
         "usphone": "water",
         "ukphone": "water"
@@ -186,7 +186,7 @@
     {
         "name": "x-ray",
         "trans": [
-            "X-ray is a simple Grade 1 word."
+            "A special picture that shows the inside of your body, like your bones."
         ],
         "usphone": "x-ray",
         "ukphone": "x-ray"
@@ -194,7 +194,7 @@
     {
         "name": "yellow",
         "trans": [
-            "Yellow is a simple Grade 1 word."
+            "A bright color like the sun or a banana."
         ],
         "usphone": "yellow",
         "ukphone": "yellow"
@@ -202,7 +202,7 @@
     {
         "name": "zebra",
         "trans": [
-            "Zebra is a simple Grade 1 word."
+            "An animal that looks like a horse with black and white stripes."
         ],
         "usphone": "zebra",
         "ukphone": "zebra"
@@ -210,7 +210,7 @@
     {
         "name": "book",
         "trans": [
-            "Book is a simple Grade 1 word."
+            "Pages with words and pictures that are held together and tell a story or give information."
         ],
         "usphone": "book",
         "ukphone": "book"
@@ -218,7 +218,7 @@
     {
         "name": "car",
         "trans": [
-            "Car is a simple Grade 1 word."
+            "A vehicle with four wheels that people drive on roads."
         ],
         "usphone": "car",
         "ukphone": "car"
@@ -226,7 +226,7 @@
     {
         "name": "door",
         "trans": [
-            "Door is a simple Grade 1 word."
+            "Something you open and close to go in and out of a room or building."
         ],
         "usphone": "door",
         "ukphone": "door"
@@ -234,7 +234,7 @@
     {
         "name": "ear",
         "trans": [
-            "Ear is a simple Grade 1 word."
+            "The part of your body that you use to hear sounds."
         ],
         "usphone": "ear",
         "ukphone": "ear"
@@ -242,7 +242,7 @@
     {
         "name": "flower",
         "trans": [
-            "Flower is a simple Grade 1 word."
+            "The pretty, colorful part of a plant."
         ],
         "usphone": "flower",
         "ukphone": "flower"
@@ -250,7 +250,7 @@
     {
         "name": "girl",
         "trans": [
-            "Girl is a simple Grade 1 word."
+            "A female child."
         ],
         "usphone": "girl",
         "ukphone": "girl"
@@ -258,7 +258,7 @@
     {
         "name": "hand",
         "trans": [
-            "Hand is a simple Grade 1 word."
+            "The part of your body at the end of your arm with five fingers."
         ],
         "usphone": "hand",
         "ukphone": "hand"
@@ -266,7 +266,7 @@
     {
         "name": "ink",
         "trans": [
-            "Ink is a simple Grade 1 word."
+            "The colored liquid used in pens for writing."
         ],
         "usphone": "ink",
         "ukphone": "ink"
@@ -274,7 +274,7 @@
     {
         "name": "juice",
         "trans": [
-            "Juice is a simple Grade 1 word."
+            "A drink made from fruit or vegetables."
         ],
         "usphone": "juice",
         "ukphone": "juice"
@@ -282,7 +282,7 @@
     {
         "name": "key",
         "trans": [
-            "Key is a simple Grade 1 word."
+            "A small metal tool used to open locks."
         ],
         "usphone": "key",
         "ukphone": "key"
@@ -290,7 +290,7 @@
     {
         "name": "leg",
         "trans": [
-            "Leg is a simple Grade 1 word."
+            "The part of your body that you use to stand and walk."
         ],
         "usphone": "leg",
         "ukphone": "leg"
@@ -298,7 +298,7 @@
     {
         "name": "milk",
         "trans": [
-            "Milk is a simple Grade 1 word."
+            "A white drink that comes from cows."
         ],
         "usphone": "milk",
         "ukphone": "milk"
@@ -306,7 +306,7 @@
     {
         "name": "nose",
         "trans": [
-            "Nose is a simple Grade 1 word."
+            "The part of your face that you use to smell and breathe."
         ],
         "usphone": "nose",
         "ukphone": "nose"
@@ -314,7 +314,7 @@
     {
         "name": "open",
         "trans": [
-            "Open is a simple Grade 1 word."
+            "To move something so you can see or go through it."
         ],
         "usphone": "open",
         "ukphone": "open"
@@ -322,7 +322,7 @@
     {
         "name": "pig",
         "trans": [
-            "Pig is a simple Grade 1 word."
+            "A farm animal with a curly tail that says oink."
         ],
         "usphone": "pig",
         "ukphone": "pig"
@@ -330,7 +330,7 @@
     {
         "name": "quiet",
         "trans": [
-            "Quiet is a simple Grade 1 word."
+            "Making little or no noise."
         ],
         "usphone": "quiet",
         "ukphone": "quiet"
@@ -338,7 +338,7 @@
     {
         "name": "red",
         "trans": [
-            "Red is a simple Grade 1 word."
+            "A color like an apple or a fire truck."
         ],
         "usphone": "red",
         "ukphone": "red"
@@ -346,7 +346,7 @@
     {
         "name": "star",
         "trans": [
-            "Star is a simple Grade 1 word."
+            "A tiny light that shines in the sky at night."
         ],
         "usphone": "star",
         "ukphone": "star"
@@ -354,7 +354,7 @@
     {
         "name": "tree",
         "trans": [
-            "Tree is a simple Grade 1 word."
+            "A tall plant with a trunk, branches, and leaves."
         ],
         "usphone": "tree",
         "ukphone": "tree"
@@ -362,7 +362,7 @@
     {
         "name": "up",
         "trans": [
-            "Up is a simple Grade 1 word."
+            "Moving toward a higher place."
         ],
         "usphone": "up",
         "ukphone": "up"
@@ -370,7 +370,7 @@
     {
         "name": "voice",
         "trans": [
-            "Voice is a simple Grade 1 word."
+            "The sound you make when you speak or sing."
         ],
         "usphone": "voice",
         "ukphone": "voice"
@@ -378,7 +378,7 @@
     {
         "name": "wind",
         "trans": [
-            "Wind is a simple Grade 1 word."
+            "Moving air that you can feel but cannot see."
         ],
         "usphone": "wind",
         "ukphone": "wind"
@@ -386,7 +386,7 @@
     {
         "name": "xylophone",
         "trans": [
-            "Xylophone is a simple Grade 1 word."
+            "A musical instrument with bars that you hit with small hammers to make sounds."
         ],
         "usphone": "xylophone",
         "ukphone": "xylophone"
@@ -394,7 +394,7 @@
     {
         "name": "yarn",
         "trans": [
-            "Yarn is a simple Grade 1 word."
+            "Thick thread used for knitting or sewing."
         ],
         "usphone": "yarn",
         "ukphone": "yarn"
@@ -402,7 +402,7 @@
     {
         "name": "zoo",
         "trans": [
-            "Zoo is a simple Grade 1 word."
+            "A place where wild animals are kept for people to see."
         ],
         "usphone": "zoo",
         "ukphone": "zoo"
@@ -410,7 +410,7 @@
     {
         "name": "bag",
         "trans": [
-            "Bag is a simple Grade 1 word."
+            "Something used to carry or hold things."
         ],
         "usphone": "bag",
         "ukphone": "bag"
@@ -418,7 +418,7 @@
     {
         "name": "cup",
         "trans": [
-            "Cup is a simple Grade 1 word."
+            "A small container used for drinking."
         ],
         "usphone": "cup",
         "ukphone": "cup"
@@ -426,7 +426,7 @@
     {
         "name": "desk",
         "trans": [
-            "Desk is a simple Grade 1 word."
+            "A table where you sit to write, read, or work."
         ],
         "usphone": "desk",
         "ukphone": "desk"
@@ -434,7 +434,7 @@
     {
         "name": "eye",
         "trans": [
-            "Eye is a simple Grade 1 word."
+            "The part of your body that you use to see."
         ],
         "usphone": "eye",
         "ukphone": "eye"
@@ -442,7 +442,7 @@
     {
         "name": "frog",
         "trans": [
-            "Frog is a simple Grade 1 word."
+            "A small animal that can jump and lives near water."
         ],
         "usphone": "frog",
         "ukphone": "frog"
@@ -450,7 +450,7 @@
     {
         "name": "game",
         "trans": [
-            "Game is a simple Grade 1 word."
+            "Something you play for fun with rules."
         ],
         "usphone": "game",
         "ukphone": "game"
@@ -458,7 +458,7 @@
     {
         "name": "house",
         "trans": [
-            "House is a simple Grade 1 word."
+            "A building where people live."
         ],
         "usphone": "house",
         "ukphone": "house"
@@ -466,7 +466,7 @@
     {
         "name": "island",
         "trans": [
-            "Island is a simple Grade 1 word."
+            "Land that is surrounded by water on all sides."
         ],
         "usphone": "island",
         "ukphone": "island"
@@ -474,7 +474,7 @@
     {
         "name": "jam",
         "trans": [
-            "Jam is a simple Grade 1 word."
+            "A sweet food made from fruit that you spread on bread."
         ],
         "usphone": "jam",
         "ukphone": "jam"
@@ -482,7 +482,7 @@
     {
         "name": "king",
         "trans": [
-            "King is a simple Grade 1 word."
+            "A man who rules a country."
         ],
         "usphone": "king",
         "ukphone": "king"
@@ -490,7 +490,7 @@
     {
         "name": "lamp",
         "trans": [
-            "Lamp is a simple Grade 1 word."
+            "A light that you can turn on and off."
         ],
         "usphone": "lamp",
         "ukphone": "lamp"
@@ -498,7 +498,7 @@
     {
         "name": "moon",
         "trans": [
-            "Moon is a simple Grade 1 word."
+            "The round object that shines in the sky at night."
         ],
         "usphone": "moon",
         "ukphone": "moon"
@@ -506,7 +506,7 @@
     {
         "name": "net",
         "trans": [
-            "Net is a simple Grade 1 word."
+            "Something made of strings with holes used to catch things."
         ],
         "usphone": "net",
         "ukphone": "net"
@@ -514,7 +514,7 @@
     {
         "name": "ocean",
         "trans": [
-            "Ocean is a simple Grade 1 word."
+            "A very large area of salty water."
         ],
         "usphone": "ocean",
         "ukphone": "ocean"
@@ -522,7 +522,7 @@
     {
         "name": "paper",
         "trans": [
-            "Paper is a simple Grade 1 word."
+            "A thin, flat material used for writing or drawing."
         ],
         "usphone": "paper",
         "ukphone": "paper"
@@ -530,7 +530,7 @@
     {
         "name": "quilt",
         "trans": [
-            "Quilt is a simple Grade 1 word."
+            "A warm cover for a bed made of cloth pieces sewn together."
         ],
         "usphone": "quilt",
         "ukphone": "quilt"
@@ -538,7 +538,7 @@
     {
         "name": "road",
         "trans": [
-            "Road is a simple Grade 1 word."
+            "A path that cars and people use to travel."
         ],
         "usphone": "road",
         "ukphone": "road"
@@ -546,7 +546,7 @@
     {
         "name": "shoe",
         "trans": [
-            "Shoe is a simple Grade 1 word."
+            "Something you wear on your foot."
         ],
         "usphone": "shoe",
         "ukphone": "shoe"
@@ -554,7 +554,7 @@
     {
         "name": "table",
         "trans": [
-            "Table is a simple Grade 1 word."
+            "A piece of furniture with a flat top and legs."
         ],
         "usphone": "table",
         "ukphone": "table"
@@ -562,7 +562,7 @@
     {
         "name": "under",
         "trans": [
-            "Under is a simple Grade 1 word."
+            "Below or beneath something."
         ],
         "usphone": "under",
         "ukphone": "under"
@@ -570,7 +570,7 @@
     {
         "name": "vase",
         "trans": [
-            "Vase is a simple Grade 1 word."
+            "A container used to hold flowers."
         ],
         "usphone": "vase",
         "ukphone": "vase"
@@ -578,7 +578,7 @@
     {
         "name": "watch",
         "trans": [
-            "Watch is a simple Grade 1 word."
+            "Something you wear on your wrist that tells you the time."
         ],
         "usphone": "watch",
         "ukphone": "watch"
@@ -586,7 +586,7 @@
     {
         "name": "box",
         "trans": [
-            "Box is a simple Grade 1 word."
+            "A container with sides and sometimes a lid used to hold things."
         ],
         "usphone": "box",
         "ukphone": "box"
@@ -594,7 +594,7 @@
     {
         "name": "yard",
         "trans": [
-            "Yard is a simple Grade 1 word."
+            "The ground around a house where you can play."
         ],
         "usphone": "yard",
         "ukphone": "yard"
@@ -602,7 +602,7 @@
     {
         "name": "zero",
         "trans": [
-            "Zero is a simple Grade 1 word."
+            "The number that means none or nothing."
         ],
         "usphone": "zero",
         "ukphone": "zero"
@@ -610,7 +610,7 @@
     {
         "name": "ant",
         "trans": [
-            "Ant is a simple Grade 1 word."
+            "A tiny insect that lives in groups and works hard."
         ],
         "usphone": "ant",
         "ukphone": "ant"
@@ -618,7 +618,7 @@
     {
         "name": "bread",
         "trans": [
-            "Bread is a simple Grade 1 word."
+            "A food made from flour that you can eat with butter or make into sandwiches."
         ],
         "usphone": "bread",
         "ukphone": "bread"
@@ -626,7 +626,7 @@
     {
         "name": "chair",
         "trans": [
-            "Chair is a simple Grade 1 word."
+            "A piece of furniture that you sit on."
         ],
         "usphone": "chair",
         "ukphone": "chair"
@@ -634,7 +634,7 @@
     {
         "name": "duck",
         "trans": [
-            "Duck is a simple Grade 1 word."
+            "A bird that swims and says quack."
         ],
         "usphone": "duck",
         "ukphone": "duck"
@@ -642,7 +642,7 @@
     {
         "name": "far",
         "trans": [
-            "Far is a simple Grade 1 word."
+            "A long way away."
         ],
         "usphone": "far",
         "ukphone": "far"
@@ -650,7 +650,7 @@
     {
         "name": "good",
         "trans": [
-            "Good is a simple Grade 1 word."
+            "Something that is nice or done well."
         ],
         "usphone": "good",
         "ukphone": "good"
@@ -658,7 +658,7 @@
     {
         "name": "hot",
         "trans": [
-            "Hot is a simple Grade 1 word."
+            "Having a high temperature; very warm."
         ],
         "usphone": "hot",
         "ukphone": "hot"
@@ -666,7 +666,7 @@
     {
         "name": "ill",
         "trans": [
-            "Ill is a simple Grade 1 word."
+            "Not feeling well; sick."
         ],
         "usphone": "ill",
         "ukphone": "ill"
@@ -674,7 +674,7 @@
     {
         "name": "job",
         "trans": [
-            "Job is a simple Grade 1 word."
+            "Work that someone does to earn money."
         ],
         "usphone": "job",
         "ukphone": "job"
@@ -682,7 +682,7 @@
     {
         "name": "kind",
         "trans": [
-            "Kind is a simple Grade 1 word."
+            "Nice and caring toward others."
         ],
         "usphone": "kind",
         "ukphone": "kind"
@@ -690,7 +690,7 @@
     {
         "name": "long",
         "trans": [
-            "Long is a simple Grade 1 word."
+            "Measuring a great distance from one end to the other."
         ],
         "usphone": "long",
         "ukphone": "long"
@@ -698,7 +698,7 @@
     {
         "name": "map",
         "trans": [
-            "Map is a simple Grade 1 word."
+            "A picture that shows where places are."
         ],
         "usphone": "map",
         "ukphone": "map"
@@ -706,7 +706,7 @@
     {
         "name": "new",
         "trans": [
-            "New is a simple Grade 1 word."
+            "Something that has just been made or bought."
         ],
         "usphone": "new",
         "ukphone": "new"
@@ -714,7 +714,7 @@
     {
         "name": "old",
         "trans": [
-            "Old is a simple Grade 1 word."
+            "Something that has been around for a long time."
         ],
         "usphone": "old",
         "ukphone": "old"
@@ -722,7 +722,7 @@
     {
         "name": "pet",
         "trans": [
-            "Pet is a simple Grade 1 word."
+            "An animal that you keep at home and take care of."
         ],
         "usphone": "pet",
         "ukphone": "pet"
@@ -730,7 +730,7 @@
     {
         "name": "queenly",
         "trans": [
-            "Queenly is a simple Grade 1 word."
+            "Acting like a queen; royal and graceful."
         ],
         "usphone": "queenly",
         "ukphone": "queenly"
@@ -738,7 +738,7 @@
     {
         "name": "rain",
         "trans": [
-            "Rain is a simple Grade 1 word."
+            "Water that falls from clouds in the sky."
         ],
         "usphone": "rain",
         "ukphone": "rain"
@@ -746,7 +746,7 @@
     {
         "name": "sit",
         "trans": [
-            "Sit is a simple Grade 1 word."
+            "To rest with your bottom on a chair or the ground."
         ],
         "usphone": "sit",
         "ukphone": "sit"
@@ -754,7 +754,7 @@
     {
         "name": "toy",
         "trans": [
-            "Toy is a simple Grade 1 word."
+            "Something that children play with."
         ],
         "usphone": "toy",
         "ukphone": "toy"
@@ -762,7 +762,7 @@
     {
         "name": "use",
         "trans": [
-            "Use is a simple Grade 1 word."
+            "To do something with an object or tool."
         ],
         "usphone": "use",
         "ukphone": "use"
@@ -770,7 +770,7 @@
     {
         "name": "very",
         "trans": [
-            "Very is a simple Grade 1 word."
+            "A word that means really or a lot."
         ],
         "usphone": "very",
         "ukphone": "very"
@@ -778,7 +778,7 @@
     {
         "name": "warm",
         "trans": [
-            "Warm is a simple Grade 1 word."
+            "A little bit hot; a comfortable temperature."
         ],
         "usphone": "warm",
         "ukphone": "warm"
@@ -786,7 +786,7 @@
     {
         "name": "yes",
         "trans": [
-            "Yes is a simple Grade 1 word."
+            "A word you say when you agree or say okay."
         ],
         "usphone": "yes",
         "ukphone": "yes"
@@ -794,7 +794,7 @@
     {
         "name": "zip",
         "trans": [
-            "Zip is a simple Grade 1 word."
+            "To close something quickly using a zipper."
         ],
         "usphone": "zip",
         "ukphone": "zip"
